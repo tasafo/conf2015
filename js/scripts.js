@@ -8,6 +8,8 @@
             equalheight('.same-height');
         });
 
+        $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
+
         if ($(window).width() > 1500) {
             $('.effect-wrapper').addClass('col-lg-3');
         }
