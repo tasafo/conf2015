@@ -212,17 +212,17 @@ findWayWalking: "Caminhando"
 findWayBicycling: "De bike"
 findWayTransit: "Trânsito"
 findWayFindFlight: "Encontre um vôo"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "-2.7405867, -58.5522087"
+logisticsMapMobileCenterCoordinates: "-2.7405867, -58.5522087"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Dê uma olhada em Belém"
+directionDetailsTitle: "Santa Maria de Belém do Grão Pará"
 directionDetailsCards:
- - {title: "Do aeroporto", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Transporte público", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotéis", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Do aeroporto", information: 'O Aeroporto Internacional - Val de Cans, serve a cidade brasileira de Belém, capital do estado do Pará. É o aeroporto mais movimentado da região Norte em passageiros transportados, ocupando a 14º colocação no ranking dos maiores aeroportos do Brasil, sendo a principal porta de entrada da Amazônia brasileira. Mais informações no  <a href="http://www.infraero.gov.br/index.php/br/aeroportos/para/aeroporto-internacional-de-belem/companhias-aereas.html">website</a>.'}
+ - {title: "Transporte público", information: 'Belém conta com uma repleta frota de ônibus em que você poderá utilizar no valor (Inteira R$ 2,70) e (Meia R$ 1,35). Indicamos utilizar o aplicativo (Rota Urbana) desenvolvido por paraenses para encontra as linhas de ônibus. Cooperativas de Táxi http://www.cooperdoca.com.br/ BASÍLICA NAZARÉ: 3224-2106 Indicamos utilizar os aplicativos Easy Taxi ou 99Taxis que funcionam muito bem na região metropolitana de Belém.'}
+ - {title: "Hotéis", information: 'Próximos do local do evento: <a href="http://www.hotelhangar.com.br">www.hotelhangar.com.br</a> <a href="http://www.tulipinnhangar.com/pt-pt">www.tulipinnhangar.com/pt-pt</a> <a href="http://www.hotelvaldecans.com.br/">www.hotelvaldecans.com.br</a> <a href="http://www.ibis.com/pt-br/hotel-5631-ibis-belem-aeroporto/index.shtml">www.ibis.com/pt-br/hotel-5631-ibis-belem-aeroporto/index.shtml</a>'}
 directionDetailsWideCards:
  -
   title: "Dúvidas?"
