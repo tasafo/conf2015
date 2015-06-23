@@ -1,20 +1,34 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Código de conduta da conferência
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+Todos os participantes, palestrantes, patrocinadores e voluntários da conferência são obrigados a concordar com este código de conduta. Os organizadores irão impor este código durante todo o evento. Esperamos a cooperação de todos os participantes para ajudar a garantir um ambiente seguro para todos.
+
+*tl;dr: Não seja um idiota
+
+####Versão rápida:
+
+Nossa conferência é dedicada a fornecer uma experiência livre de assédio para todos, independentemente do sexo, idade, orientação sexual, deficiência, aparência física, tamanho, raça, ou religião. Nós não toleramos assédio dos participantes, sob qualquer forma. Linguagem e imagens sexuais não são adequadas em nenhum local da conferência, incluindo palestras, workshops, festas, Twitter e outros meios on-line. Os participantes da conferência que violarem estas regras podem ser convidados a se retirar ou ser expulsos sem restituição a critério dos organizadores da conferência.
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+####Versão mais longa
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Será entendido como assédio: Comentários verbais ofensivos relacionados com sexo, idade, orientação sexual, deficiência, aparência física, tamanho, raça, religião, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, assédio fotográfico, interrupção de palestra ou de alguma outra ação, contato físico inapropriado, e atenção sexual indesejada.
 
+Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
 
-######Contacts:
+Patrocinadores também estão sujeitos à política anti-assédio. Em particular, os patrocinadores não devem usar imagens, atividade ou outro material com contexto sexual. Recepcionistas de estandes (incluindo voluntários) não devem usar roupas/uniformes/trajes inadequadas (sexualmente atrativas), ou criar de alguma forma um ambiente sexualizado.
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+Se um participante se envolve em comportamento de assédio, os organizadores da conferência podem tomar qualquer ação que considerem adequadas, inclusive advertindo o infrator ou até mesmo o expulsando da conferência, sem restituição.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+Se você estiver sendo assediado, ou perceber que alguém está sendo assediado, ou tiver alguma outra dúvida, entre em contato com um membro da equipe da conferência imediatamente. A organização do evento pode ser facilmente identificada pelas camisas com a marca do evento.
+
+A organização da conferência terá o prazer em ajudar os participantes a contatar a segurança do local do evento ou a até mesmo oficiais da lei local (polícia), fornecer escoltas, ou ajudar aqueles que sofreram o assédio para que o mesmo se sinta seguro durante a conferência. Nós valorizamos a sua participação.
+
+Esperamos que os participantes sigam estas regras na conferência, salas de workshops e outros eventos sociais relacionados à conferência.
+
+- Crédito e fonte original: [http://2012.jsconf.us/#/about] & The Ada Initiative
+- Esta obra está licenciada sob Creative Commons Attribution 3.0 Unported License

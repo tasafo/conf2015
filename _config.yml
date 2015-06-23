@@ -190,7 +190,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conduta"}
 
 # Blog
 blogTitle: "Últimas notícias"
