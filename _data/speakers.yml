@@ -29,11 +29,12 @@
   surname: "Campos"
   company: "Plataformatec"
   title: "Agile Project Manager"
-  bio: "É Gerente de Projetos Ágil, e já desempenhou o papel de Analista de Sistemas, Consultor em Agilidade e Consultor em Gestão de Projetos. Lida com agilidade desde 2009, principalmente com SCRUM. É membro atuante da Comunidade Tá Safo (Comunidade de Tecnologia da Informação de Belém/PA), atuando com a organização de eventos, participando e ministrando palestras. Possui pós graduação em Gerência de Projetos de Software, com foco em qualidade de Software. Tem se dedicado à participação de eventos sobre Metodologias Ágeis, atuando como voluntário e se engajando na organização dos mesmos. Mais recentemente, foi voluntário no Agile Brazil, maior evento de Metodologias Ágeis da América Latina, e no Agile Trends, evento em São Paulo que foca nas tendências da agilidade."
-  thumbnailUrl: breno.png
+  bio: "É Gerente de Projetos Ágil na Plataformatec e membro da Comunidade Tá Safo, já desempenhou o papel de Analista de Sistemas, Consultor em Agilidade e Consultor em Gestão de Projetos. Lida com metodologias ágeis a cerca de 7 anos, principalmente com SCRUM e KANBAN. Tem se dedicado à participação de eventos sobre Metodologias Ágeis com o intuito de disseminar a cultura ágil pelo Brasil, atuou como voluntário e organizador em eventos como Agile Brazil, Agile Trends e Tá Safo Conf."
+  thumbnailUrl: breno.jpeg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/brenobcampos"}
+    - {name: "twitter", link: "https://twitter.com/brenobcampos"}
 - 
   id: 6
   name: "Paulo"
@@ -48,3 +49,25 @@
     - {name: "twitter", link: "http://twitter.com/pigodinho"}
     - {name: "github", link: "https://github.com/pigor"}
 - 
+  id: 7
+  name: "Kaio"
+  surname: "Valente"
+  company: "DocYouSign"
+  title: "Desenvolvedor Sênior"
+  bio: "Desenvolve software há mais de 7 anos. Já trabalhou em bancos, tribunal, já foi concursado e largou o osso. Atualmente trabalha como Desenvolvedor Sênior na DocYouSign em São Paulo. Javeiro, entusiasta de JavaScript e Front-End. Acredita que JS é o futuro. Largou a guitarra e agora faz cerveja em casa."
+  thumbnailUrl: kaio.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kaiovalente"}
+    - {name: "github", link: "https://github.com/kaiovalente"}
+- 
+  id: 8
+  name: "Diego"
+  surname: "Lisboa"
+  company: "Pró-Reitoria de Ensino e Graduação da UFPA"
+  title: "Desenvolvedor e Líder de equipe"
+  bio: "Desenvolvedor e Líder de equipe da Assessoria de Informação e Tecnologia da Pró-Reitoria de Ensino e Graduação da UFPA (AIT-PROEG). Membro ativo da Comunidade Tá Safo, colaborador da Startup CoyoTI e atuante como voluntário do Agile Brazil desde 2012 e Agile Trends desde a primeira edição do evento (2013). Membro do Comitê Organizador do Agile Trends."
+  thumbnailUrl: diego.jpeg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/diego-lisboa/47/88a/617"}
