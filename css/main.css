@@ -3,3 +3,7 @@
 .content-background{
   background: #fff;
 }
+
+#top-header{
+  min-height: 70px
+}

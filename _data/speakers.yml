@@ -1,67 +1,171 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Fábio"
+  surname: "Aguiar"
+  company: "Pródiga Sistemas"
+  title: "Agile Coach and Associated Trainer at AdaptWorks"
+  bio: "Fábio Aguiar é Agile Coach & Associated Trainer na AdaptWorks. Possui mais de uma década e meia de experiência profissional em desenvolvimento de software, tendo focado nos últimos anos em gestão e desenvolvimento ágil com Scrum, XP, Lean e UX e no desenvolvimento holístico de cada membro do time, bem como energizando e impulsionando organizações a transição e adoção Ágil."
+  thumbnailUrl: fabio.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/fabyogr"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/fabiogr"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Ramon"
+  surname: "Rabello"
+  company: "BB Tecnologia e Serviços, Android na Rede"
+  title: "Android Consultant"
+  bio: "Membro da Comunidade Tá Safo!, entusiasta de agilidade e, atualmente, analista especialista Mobile na BB Tecnologia e Serviços. Desenvolvedor e evangelista Android há 7 anos, criou o 'Android na Rede', uma alternativa de divulgar o uso da plataforma na região e no resto do Brasil, por meio de artigos, workshops e treinamentos."
+  thumbnailUrl: ramon.png
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/ramonrabello"}
+    - {name: "github", link: "https://github.com/ramonrabello"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonrabello"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Breno"
+  surname: "Campos"
+  company: "Plataformatec"
+  title: "Agile Project Manager"
+  bio: "É Gerente de Projetos Ágil na Plataformatec e membro da Comunidade Tá Safo, já desempenhou o papel de Analista de Sistemas, Consultor em Agilidade e Consultor em Gestão de Projetos. Lida com metodologias ágeis a cerca de 7 anos, principalmente com SCRUM e KANBAN. Tem se dedicado à participação de eventos sobre Metodologias Ágeis com o intuito de disseminar a cultura ágil pelo Brasil, atuou como voluntário e organizador em eventos como Agile Brazil, Agile Trends e Tá Safo Conf."
+  thumbnailUrl: breno.jpeg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/brenobcampos"}
+    - {name: "twitter", link: "https://twitter.com/brenobcampos"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Paulo"
+  surname: "Igor"
+  company: "Pródiga Sistemas / HUB 728"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: pigor.jpeg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pigodinho/pt"}
+    - {name: "twitter", link: "http://twitter.com/pigodinho"}
+    - {name: "github", link: "https://github.com/pigor"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Kaio"
+  surname: "Valente"
+  company: "DocYouSign"
+  title: "Desenvolvedor Sênior"
+  bio: "Desenvolve software há mais de 7 anos. Já trabalhou em bancos, tribunal, já foi concursado e largou o osso. Atualmente trabalha como Desenvolvedor Sênior na DocYouSign em São Paulo. Javeiro, entusiasta de JavaScript e Front-End. Acredita que JS é o futuro. Largou a guitarra e agora faz cerveja em casa."
+  thumbnailUrl: kaio.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kaiovalente"}
+    - {name: "github", link: "https://github.com/kaiovalente"}
+- 
+  id: 8
+  name: "Diego"
+  surname: "Lisboa"
+  company: "Pró-Reitoria de Ensino e Graduação da UFPA"
+  title: "Desenvolvedor e Líder de equipe"
+  bio: "Desenvolvedor e Líder de equipe da Assessoria de Informação e Tecnologia da Pró-Reitoria de Ensino e Graduação da UFPA (AIT-PROEG). Membro ativo da Comunidade Tá Safo, colaborador da Startup CoyoTI e atuante como voluntário do Agile Brazil desde 2012 e Agile Trends desde a primeira edição do evento (2013). Membro do Comitê Organizador do Agile Trends."
+  thumbnailUrl: diego.jpeg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/diego-lisboa/47/88a/617"}
+- 
+  id: 9
+  name: "Manoel"
+  surname: "Pimentel"
+  company: "Adaptworks, Agile Alliance Brazil"
+  title: "Agile Coach at Adaptworks and Chairman at Agile Alliance Brazil"
+  bio: ""
+  thumbnailUrl: manoel.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/manoelp/pt"}
+    - {name: "twitter", link: "https://twitter.com/manoelp"}
+- 
+  id: 10
+  name: "Luiz"
+  surname: "Sanches"
+  company: "Pródiga Sistemas"
+  title: "Consultor"
+  bio: "Desenvolvedor de Software com experiência nas áreas de análise, banco de dados, administração de sistemas e ensino em Tecnologia da Informação. Desenvolvendo em ambiente desktop nos sistemas ms-dos e Windows, web/intranet em plataformas open source. Já palestrou sobre agilidade e software livre em eventos de TI nas localidades de Belém-PA, Natal-RN e Porto Alegre-RS. Participa ativamente da organização e realização de eventos pela comunidade Tá safo! (Belém-PA) e Agilidade@Recife (Recife-PE)."
+  thumbnailUrl: sanches.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luizgrsanches"}
+    - {name: "twitter", link: "https://twitter.com/luizsanxes"}
+    - {name: "github", link: "https://github.com/luizsanches" }
+- 
+  id: 11
+  name: "Paulo"
+  surname: "Moura"
+  company: "Pródiga Sistemas"
+  title: "Consultor"
+  bio: "Grande apreciador de cervejas IPAs, bicicleteiro, fisiculturista e desenvolvedor nas horas vagas. Trabalha com diversas tecnologias open source e desenvolvimento ágil. Possui experiência em projetos de software em diferentes linguagens e plataformas como java, ruby, javascript e php."
+  thumbnailUrl: paulomoura.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/paulociecomp"}
+    - {name: "twitter", link: "https://twitter.com/paulociecomp" }
+    - {name: "github", link: "https://github.com/paulociecomp" }
+- 
+  id: 12
+  name: "Henrique"
+  surname: "Bastos"
+  company: "Dekode"
+  title: "CTO"
+  bio: "Henrique é apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
+  thumbnailUrl: henrique-bastos.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/henriquebastos/pt"}
+    - {name: "twitter", link: "https://twitter.com/henriquebastos" }
+    - {name: "github", link: "https://github.com/henriquebastos" }
+- 
+  id: 13
+  name: "Felipe"
+  surname: "Iketani"
+  company: "Gistia Labs, Pródiga Sistemas"
+  title: "Web Systems Developer"
+  bio: "Apaixonado por alimentação saudável e faixa azul de Jiujitsu (não que signifique alguma coisa), é desenvolvedor de sistema WEB na Gistia.com e consultor na Pródiga Sistemas. Usa Ruby on Rails para fazer a mágica acontecer! Membro ativo na comunidade ágil paraense Tá Safo!, tenta disseminar a prática de testes automatizados e TDD aonde quer que vá."
+  thumbnailUrl: ike.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/felipe-iketani/26/103/a8a"}
+    - {name: "github", link: "https://github.com/felipeik" }
+- 
+  id: 14
+  name: "Lu"
+  surname: "Souza"
+  company: "Pró Reitoria de Extensão da UFPA"
+  title: "Analista de Sistemas"
+  bio: "Analista de Sistemas na Pró Reitoria de Extensão da UFPA e Consultora de TI no Instituto Histórico e Geográfico do Pará. Graduada em Sistemas de Informação pela UFPA. Atualmente cursa a Especialização em Arquitetura de Software ofertado pelo Laboratório de Engenharia de Software da UFPA (LABES - UFPA). Também participou de projetos do LABES de construção de sistemas em parceria com outras entidades, como PM-PA e SETUR."
+  thumbnailUrl: lu.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/lourdilene-souza/8b/2a5/77a"}
+    - {name: "twitter", link: "https://twitter.com/lourdilenesouza" }
+- 
+  id: 15
+  name: "Eduardo"
+  surname: "Guerra"
+  company: "Global Innovation"
+  title: "Senior Software Architect; Founder at Global Innovation"
+  bio: "Eduardo Guerra é empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
+  thumbnailUrl: eduardo.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
+- 
+  id: 16
+  name: "Carlos"
+  surname: "Souza"
+  company: "Code School"
+  title: "Instructor at Code School"
+  bio: "Carlos Souza (Caike) é desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
+  thumbnailUrl: caike.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/caike"}
+    - {name: "github", link: "https://github.com/caike"}
