@@ -157,3 +157,15 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
+- 
+  id: 16
+  name: "Carlos"
+  surname: "Souza"
+  company: "Code School"
+  title: "Instructor at Code School"
+  bio: "Carlos Souza (Caike) é desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
+  thumbnailUrl: caike.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/caike"}
+    - {name: "github", link: "https://github.com/caike"}
