@@ -71,3 +71,89 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://br.linkedin.com/pub/diego-lisboa/47/88a/617"}
+- 
+  id: 9
+  name: "Manoel"
+  surname: "Pimentel"
+  company: "Adaptworks, Agile Alliance Brazil"
+  title: "Agile Coach at Adaptworks and Chairman at Agile Alliance Brazil"
+  bio: ""
+  thumbnailUrl: manoel.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/manoelp/pt"}
+    - {name: "twitter", link: "https://twitter.com/manoelp"}
+- 
+  id: 10
+  name: "Luiz"
+  surname: "Sanches"
+  company: "Pródiga Sistemas"
+  title: "Consultor"
+  bio: "Desenvolvedor de Software com experiência nas áreas de análise, banco de dados, administração de sistemas e ensino em Tecnologia da Informação. Desenvolvendo em ambiente desktop nos sistemas ms-dos e Windows, web/intranet em plataformas open source. Já palestrou sobre agilidade e software livre em eventos de TI nas localidades de Belém-PA, Natal-RN e Porto Alegre-RS. Participa ativamente da organização e realização de eventos pela comunidade Tá safo! (Belém-PA) e Agilidade@Recife (Recife-PE)."
+  thumbnailUrl: sanches.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luizgrsanches"}
+    - {name: "twitter", link: "https://twitter.com/luizsanxes"}
+    - {name: "github", link: "https://github.com/luizsanches" }
+- 
+  id: 11
+  name: "Paulo"
+  surname: "Moura"
+  company: "Pródiga Sistemas"
+  title: "Consultor"
+  bio: "Grande apreciador de cervejas IPAs, bicicleteiro, fisiculturista e desenvolvedor nas horas vagas. Trabalha com diversas tecnologias open source e desenvolvimento ágil. Possui experiência em projetos de software em diferentes linguagens e plataformas como java, ruby, javascript e php."
+  thumbnailUrl: paulomoura.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/paulociecomp"}
+    - {name: "twitter", link: "https://twitter.com/paulociecomp" }
+    - {name: "github", link: "https://github.com/paulociecomp" }
+- 
+  id: 12
+  name: "Henrique"
+  surname: "Bastos"
+  company: "Dekode"
+  title: "CTO"
+  bio: "Henrique é apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
+  thumbnailUrl: henrique-bastos.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/henriquebastos/pt"}
+    - {name: "twitter", link: "https://twitter.com/henriquebastos" }
+    - {name: "github", link: "https://github.com/henriquebastos" }
+- 
+  id: 13
+  name: "Felipe"
+  surname: "Iketani"
+  company: "Gistia Labs, Pródiga Sistemas"
+  title: "Web Systems Developer"
+  bio: "Apaixonado por alimentação saudável e faixa azul de Jiujitsu (não que signifique alguma coisa), é desenvolvedor de sistema WEB na Gistia.com e consultor na Pródiga Sistemas. Usa Ruby on Rails para fazer a mágica acontecer! Membro ativo na comunidade ágil paraense Tá Safo!, tenta disseminar a prática de testes automatizados e TDD aonde quer que vá."
+  thumbnailUrl: ike.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/felipe-iketani/26/103/a8a"}
+    - {name: "github", link: "https://github.com/felipeik" }
+- 
+  id: 14
+  name: "Lu"
+  surname: "Souza"
+  company: "Pró Reitoria de Extensão da UFPA"
+  title: "Analista de Sistemas"
+  bio: "Analista de Sistemas na Pró Reitoria de Extensão da UFPA e Consultora de TI no Instituto Histórico e Geográfico do Pará. Graduada em Sistemas de Informação pela UFPA. Atualmente cursa a Especialização em Arquitetura de Software ofertado pelo Laboratório de Engenharia de Software da UFPA (LABES - UFPA). Também participou de projetos do LABES de construção de sistemas em parceria com outras entidades, como PM-PA e SETUR."
+  thumbnailUrl: lu.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/lourdilene-souza/8b/2a5/77a"}
+    - {name: "twitter", link: "https://twitter.com/lourdilenesouza" }
+- 
+  id: 15
+  name: "Eduardo"
+  surname: "Guerra"
+  company: "Global Innovation"
+  title: "Senior Software Architect; Founder at Global Innovation"
+  bio: "Eduardo Guerra é empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
+  thumbnailUrl: eduardo.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
