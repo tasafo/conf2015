@@ -169,3 +169,15 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/caike"}
     - {name: "github", link: "https://github.com/caike"}
+- 
+  id: 17
+  name: "Marcelo"
+  surname: "Andrade"
+  company: "TRT"
+  title: "Community Manager at GDG Belém, Analista no TRT"
+  bio: "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios."
+  thumbnailUrl: mfandrade.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mfandrade"}
+    - {name: "github", link: "https://github.com/mfandrade"}
