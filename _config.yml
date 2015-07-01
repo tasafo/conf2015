@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Palestrantes"}
  #- {permalink: "/team/", text: "Time"}
  - {permalink: "/logistics/", text: "Logística"}
+ - {permalink: "/tickets/", text: "Ingressos"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
@@ -131,45 +132,59 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Tabela de preços"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Os ingressos garatem acesso a todas as seções da conferência, coffee breaks e kits."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  name: "Super early bird"
+  price: "90"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
+  buyButtonText: "Compre Agora"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Early bird"
+  price: "140"
+  priceCurrency: "R$"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
+  validFrom: "2015-07-01T00:00"
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "Preço normal"
+  price: "190"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  # soldOut: true
+  disabled: true
+  # soldOutText: "Sold Out"
+ -
+  name: "Última hora"
+  price: "280"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
+  buyButtonText: "Buy Now"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  # soldOut: true
+  disabled: true
 
 # Footer
 socialLinks:
