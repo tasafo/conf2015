@@ -77,7 +77,7 @@ statisticBlock:
  #- {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "1", specialCharacter: "+", info: "dia", detail: "de forte aprendizado"}
  - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "da terra e convidados especiais"}
- - {count: "3", specialCharacter: "", info: "trilhas", detail: "de puro entretenimento e troca de experiências"}
+ - {count: "4", specialCharacter: "", info: "trilhas", detail: "de puro entretenimento e troca de experiências"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias"
