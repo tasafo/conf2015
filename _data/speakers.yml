@@ -181,3 +181,47 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/mfandrade"}
     - {name: "github", link: "https://github.com/mfandrade"}
+- 
+  id: 18
+  name: "Evandro"
+  surname: "Paes"
+  company: "Prodepa"
+  title: "Gerente de projetos"
+  bio: ""
+  thumbnailUrl: evandro.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/evandrompaes/pt"}
+- 
+  id: 19
+  name: "Vitor"
+  surname: "Castro"
+  company: "UNIFESSPA"
+  title: "Assessor de Tecnologia de Informação"
+  bio: ""
+  thumbnailUrl: vitor.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/vitor-castro/25/8a8/52/pt"}
+- 
+  id: 20
+  name: "Fernanda"
+  surname: "Melina"
+  company: "TOTVS"
+  title: "Analista de Sistemas"
+  bio: ""
+  thumbnailUrl: fernanda.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandamelina"}
+- 
+  id: 21
+  name: "Marcelio"
+  surname: "Leal"
+  company: "Tripda"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: marcelio.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcelioleal/pt"}
