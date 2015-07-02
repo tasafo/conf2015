@@ -238,3 +238,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/claudiombrito"}
     - {name: "twitter", link: "https://twitter.com/claudiombrito"}
     - {name: "google-plus", link: "https://plus.google.com/105414135324629330172/posts"}
+- 
+  id: 23
+  name: "Paulo"
+  surname: "Caroli"
+  company: "Thoughtworks"
+  title: "Agile Coach"
+  bio: "Paulo Caroli é M.S. em Engenharia de Software pela PUC-Rio. Cofundador e Agile Coach da Thoughtworks Brazil. Possui duas décadas de experiência em desenvolvimento de software com passagem em várias corporações no Brasil, India e EUA. Desde 2000 tem focado sua experiência em processos e práticas de Gestão e Desenvolvimento Ágil usando XP, Scrum, Kanban e outros. É sempre palestrante convidado em vários eventos grandes no Brasil e no exterior e também autor de um sem número de artigos. Foi o idealizador, um dos criadores e palestrante desde 2009 do Agile Brazil, um dos maiores eventos de desenvolvimento de software da América Latina."
+  thumbnailUrl: paulocaroli.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulocaroli"}
+    - {name: "twitter", link: "https://twitter.com/paulocaroli"}
