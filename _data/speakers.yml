@@ -225,3 +225,16 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/marcelioleal/pt"}
+- 
+  id: 22
+  name: "Claudio"
+  surname: "Brito"
+  company: "SEBRAE, Onsee, Acelera Startups, Brasil Empreendedorismo"
+  title: "Empreendedor"
+  bio: "Claudio Brito é especializado em Marketing Digital pela Fecap-SP, tem 18 anos de experiência e participou de treinamentos internacionais com mestres como Alexander Osterwalder, Steve Blank e Mike Krieger. Foi selecionado pela Endeavor para o curso “Building a High Growth Business” em Babson, faculdade No. 1 em empreendedorismo nos EUA. No Brasil, participa ativamente do desenvolvimento do mercado inclusive organizando missões empresarias para o Vale do Silício onde apresenta empresas como Google, Apple e Evernotes. É facilitador do Empretec, coach e investidor anjo. Como empresário, mantém o TcGroup & Companies um grupo de empresas focado em Internet para negócios."
+  thumbnailUrl: claudio.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/claudiombrito"}
+    - {name: "twitter", link: "https://twitter.com/claudiombrito"}
+    - {name: "google-plus", link: "https://plus.google.com/105414135324629330172/posts"}
