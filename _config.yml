@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Tá Safo Conf <typeout> 2015"
-eventDate: "Novembro, 2015"
+eventDate: "21 de Novembro de 2015"
 typeoutTextValues: '"", "", "", "", ""'
 typeoutFallback: "Season"
 heroButtons:
