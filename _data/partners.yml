@@ -1,7 +1,15 @@
 - 
   group: "Título"
   elements: 
-    - {name: "Adaptworks", description: "Empresa de treinamentos em metodologias ágeis e referência no mercado brasileiro em formação, coaching e implementação corporativa.", link: "http://www.adaptworks.com.br/", imageUrl: "adaptworks.png", width: 300px}
+    - {name: "Adaptworks", description: "Empresa de treinamentos em metodologias ágeis e referência no mercado brasileiro em formação, coaching e implementação corporativa.", link: "http://www.adaptworks.com.br/", imageUrl: "adaptworks.png", width: 400px}
+- 
+  group: "Diamond"
+  elements: 
+    - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+- 
+  group: "Bronze"
+  elements: 
+    - {name: "Coyoti", description: "Coyoti", link: "http://coyoti.com.br/", imageUrl: "coyoti.png", width: 100px}
 - 
   group: "com apoio de"
   elements: 
