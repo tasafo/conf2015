@@ -250,3 +250,15 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/paulocaroli"}
     - {name: "twitter", link: "https://twitter.com/paulocaroli"}
+- 
+  id: 24
+  name: "Edgar"
+  surname: "Silva"
+  company: "WSO2"
+  title: "Vice-Presidente e Country Manager"
+  bio: "Edgar Silva é Vice-Presidente e Country Manager para o Brasil na WSO2. Membro do time executivo estabelecendo a subsidiária, time e presença da WSO2 no Brasil e América Latina. Atuando no mercado desde 1996, antes da WSO2 Edgar foi o Head da MuleSoft no Brasil, Diretor de Desenvolvimento de Negócios Middleware na Oracle , Gerente do time de Pré-vendas e Arquitetos de Soluções da Red Hat no Brasil, atuou como consultor para Sun Microsystems, foi Systems Engineer na Borland Latin America e teve suas aventuras empreendedoras. Divide seu tempo entre as pontes aéreas, aproveitando para pesquisar e ajudar a criar um mundo mais conectado e simples para as pessoas."
+  thumbnailUrl: edgar.jpeg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jedgarsilva/pt"}
+    - {name: "twitter", link: "https://twitter.com/jedgarsilva"}
