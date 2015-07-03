@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "Sobre o Tá Safo Conf"
 aboutBlock:
  - {title: "Edgar Silva", position: "Vice-Presidente e Country Manager para o Brasil na WSO2", image: "edgar.jpeg", text: "É uma oportunidade única poder participar do TaSafo, e eu como um paraense assumidamente papa-chibé, comedor de açaí com farinha, que toma tacacá com muita pimenta, ex-morador da Cidade Nova , estar perto dos meu conterrâneos, meu sotaque é sem sombra de dúvidas um privilégio. " }
- - {title: "Alexandre Magno", position: "Learning 3.0 Founder at Happy Melly", image: "magno.jpg", text: "O Tá Safo Conf é um evento rico em colocaboração e que tem a cara de uma das comunidades mais atuantes do país. Eu fui e recomendo!" }
+ - {title: "Alexandre Magno", position: "Learning 3.0 Founder at Happy Melly", image: "magno.jpg", text: "O Tá Safo Conf é um evento rico em colaboração e que tem a cara de uma das comunidades mais atuantes do país. Eu fui e recomendo!" }
  - {title: "Carlos Souza", position: "Instructor at  Code School", image: "caike.jpeg", text: "O Tá Safo Conf reune conteúdo atual e relevante tanto a profissionais atuantes no mercado de trabalho quanto àqueles que estão na academia." }
  - {title: "Manuel Pimentel", position: "Agile Coach at Adaptworks", image: "manoel.jpeg", text: "O Tá Safo Conf é um verdadeiro Círio da comunidade de TI paraense - Atrai romeiros de TI do Brasil inteiro para socializar suas experiências e histórias sobre novidades e tendências da área de tecnologia." }
 
