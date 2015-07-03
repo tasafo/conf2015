@@ -2,7 +2,7 @@
   id: 3
   name: "Fábio"
   surname: "Aguiar"
-  company: "Pródiga Sistemas"
+  company: "Pródiga, AdaptWorks"
   title: "Agile Coach and Associated Trainer at AdaptWorks"
   bio: "Fábio Aguiar é Agile Coach & Associated Trainer na AdaptWorks. Possui mais de uma década e meia de experiência profissional em desenvolvimento de software, tendo focado nos últimos anos em gestão e desenvolvimento ágil com Scrum, XP, Lean e UX e no desenvolvimento holístico de cada membro do time, bem como energizando e impulsionando organizações a transição e adoção Ágil."
   thumbnailUrl: fabio.jpg
@@ -39,7 +39,7 @@
   id: 6
   name: "Paulo"
   surname: "Igor"
-  company: "Pródiga Sistemas / HUB 728"
+  company: "Pródiga / HUB 728"
   title: "Software Engineer"
   bio: ""
   thumbnailUrl: pigor.jpeg
@@ -87,7 +87,7 @@
   id: 10
   name: "Luiz"
   surname: "Sanches"
-  company: "Pródiga Sistemas"
+  company: "Pródiga"
   title: "Consultor"
   bio: "Desenvolvedor de Software com experiência nas áreas de análise, banco de dados, administração de sistemas e ensino em Tecnologia da Informação. Desenvolvendo em ambiente desktop nos sistemas ms-dos e Windows, web/intranet em plataformas open source. Já palestrou sobre agilidade e software livre em eventos de TI nas localidades de Belém-PA, Natal-RN e Porto Alegre-RS. Participa ativamente da organização e realização de eventos pela comunidade Tá safo! (Belém-PA) e Agilidade@Recife (Recife-PE)."
   thumbnailUrl: sanches.jpg
@@ -100,7 +100,7 @@
   id: 11
   name: "Paulo"
   surname: "Moura"
-  company: "Pródiga Sistemas"
+  company: "Pródiga"
   title: "Consultor"
   bio: "Grande apreciador de cervejas IPAs, bicicleteiro, fisiculturista e desenvolvedor nas horas vagas. Trabalha com diversas tecnologias open source e desenvolvimento ágil. Possui experiência em projetos de software em diferentes linguagens e plataformas como java, ruby, javascript e php."
   thumbnailUrl: paulomoura.jpg
@@ -126,7 +126,7 @@
   id: 13
   name: "Felipe"
   surname: "Iketani"
-  company: "Gistia Labs, Pródiga Sistemas"
+  company: "Gistia Labs, Pródiga"
   title: "Web Systems Developer"
   bio: "Apaixonado por alimentação saudável e faixa azul de Jiujitsu (não que signifique alguma coisa), é desenvolvedor de sistema WEB na Gistia.com e consultor na Pródiga Sistemas. Usa Ruby on Rails para fazer a mágica acontecer! Membro ativo na comunidade ágil paraense Tá Safo!, tenta disseminar a prática de testes automatizados e TDD aonde quer que vá."
   thumbnailUrl: ike.jpg
