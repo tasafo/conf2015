@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Tá Safo Conf 2015"
 email: "comunidadetasafo@gmail.com"
-description: "O Maior evento de tecnologia do Norte"
+description: "O Maior evento de tecnologia do Norte do Brasil"
 baseurl: ""
 url: "http://conf2015.tasafo.org"
 permalink: "/blog/:title"
@@ -20,15 +20,15 @@ googleAnalyticsSiteUrl: "conf2015.tasafo.org"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Tá Safo"
-organizerAlternateName: "Comunidade Tá Safo"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "Tá Safo!"
+organizerAlternateName: "Comunidade Tá Safo!"
+organizerDescription: "Tecnologias Abertas com Software Ágil, Fácil e Organizado."
 organizerEmail: "comunidadetasafo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://tasafo.org"
 
 # Head
-metaKeywords: "evento, tasafo, tasafoconf, agilidadae, programacao, desenvolvimento, comunidade, software, gestão"
+metaKeywords: "evento, tasafo, tasafoconf, agilidade, programação, desenvolvimento, comunidade, software, gestão"
 twitterAccount: "@tasafo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -67,10 +67,10 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre o Tá Safo Conf"
 aboutBlock:
- - {title: "Edgar Silva", position: "Vice-Presidente e Country Manager para o Brasil na WSO2", image: "edgar.jpeg", text: "É uma oportunidade única poder participar do TaSafo, e eu como um paraense assumidamente papa-chibé, comedor de açaí com farinha, que toma tacacá com muita pimenta, ex-morador da Cidade Nova , estar perto dos meu conterrâneos, meu sotaque é sem sombra de dúvidas um privilégio. " }
+ - {title: "Edgar Silva", position: "Vice-Presidente e Country Manager para o Brasil na WSO2", image: "edgar.jpeg", text: "É uma oportunidade única poder participar do Tá Safo Conf, e eu como um paraense assumidamente papa-chibé, comedor de açaí com farinha, que toma tacacá com muita pimenta, ex-morador da Cidade Nova, estar perto dos meus conterrâneos, meu sotaque é sem sombra de dúvidas um privilégio." }
  - {title: "Alexandre Magno", position: "Learning 3.0 Founder at Happy Melly", image: "magno.jpg", text: "O Tá Safo Conf é um evento rico em colaboração e que tem a cara de uma das comunidades mais atuantes do país. Eu fui e recomendo!" }
- - {title: "Carlos Souza", position: "Instructor at  Code School", image: "caike.jpeg", text: "O Tá Safo Conf reune conteúdo atual e relevante tanto a profissionais atuantes no mercado de trabalho quanto àqueles que estão na academia." }
- - {title: "Manuel Pimentel", position: "Agile Coach at Adaptworks", image: "manoel.jpeg", text: "O Tá Safo Conf é um verdadeiro Círio da comunidade de TI paraense - Atrai romeiros de TI do Brasil inteiro para socializar suas experiências e histórias sobre novidades e tendências da área de tecnologia." }
+ - {title: "Carlos Souza", position: "Instructor at Code School", image: "caike.jpeg", text: "O Tá Safo Conf reune conteúdo atual e relevante tanto a profissionais atuantes no mercado de trabalho quanto àqueles que estão na academia." }
+ - {title: "Manoel Pimentel", position: "Agile Coach at Adaptworks", image: "manoel.jpeg", text: "O Tá Safo Conf é um verdadeiro Círio da comunidade de TI paraense - Atrai romeiros de TI do Brasil inteiro para socializar suas experiências e histórias sobre novidades e tendências da área de tecnologia." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -91,16 +91,16 @@ rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Local"
-eventLocationName: "Centro de Convenções Hangar"
+eventLocationName: "Centro de Convenções e Feiras da Amazônia - Hangar"
 eventLocationLink: "http://www.hangarcentrodeconvencoes.com.br/"
 eventStreetAddress: "Av. Dr. Freitas, s/n - Marco"
 eventAddressLocality: "Belém"
 eventAddressLocalityRegion: "Pará"
 eventPostalCode: "66613-902"
 eventAddressCountry: "Brasil"
-eventStartTime: "2015-11-21T10:00"
+eventStartTime: "2015-11-21T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2015-11-21T19:00"
+eventEndTime: "2015-11-21T18:00"
 eventPlaceCoordinates: "-1.421725, -48.456777"
 mapCenterCoordinates: "-1.421725, -48.456777"
 mapMobileCenterCoordinates: "-1.421725, -48.456777"
@@ -111,7 +111,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Centro de Convenções Hangar"
+venueTitle: "Centro de Convenções e Feiras da Amazônia - Hangar"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
@@ -132,8 +132,8 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Tabela de preços"
-ticketsInfo: "Os ingressos garatem acesso a todas as seções da conferência, coffee breaks e kits."
+ticketsTitle: "Investimento"
+ticketsInfo: "Os ingressos garantem acesso a todas as seções da conferência, coffee breaks e kits."
 ticketsOffers:
  -
   name: "Super early bird"
@@ -189,15 +189,15 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=tasafo", icon: "twitter"}
+ - {link: "https://plus.google.com/u/0/communities/110035015534021388546", icon: "google-plus"}
+ - {link: "https://twitter.com/tasafo", icon: "twitter"}
  - {link: "https://facebook.com/tasafo.comunidade", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://tasafo.org", text: "Tá Safo"}
+   - {link: "http://tasafo.org", text: "Tá Safo!"}
  -
   title: "Contatos"
   links:
@@ -217,7 +217,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "Pessoas engajadas da comunidade Tá Safo"
+aboutUs: "Pessoas engajadas da comunidade Tá Safo!"
 
 # Logistics Find Way Block
 findWayTitle: "Encontre seu caminho"

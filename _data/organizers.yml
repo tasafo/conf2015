@@ -1,4 +1,4 @@
-- 
+-
   group: "Organização"
-  elements: 
-    - {name: "Tá Safo", description: "Comunidade de geeks de tecnologia", link: "http://tasafo.org/", imageUrl: "tasafo.png"}
+  elements:
+    - {name: "Tá Safo!", description: "Comunidade de geeks de tecnologia", link: "http://tasafo.org/", imageUrl: "tasafo.png"}

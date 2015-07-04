@@ -7,3 +7,9 @@
 #top-header{
   min-height: 70px
 }
+
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+  text-indent: 50px;
+}
