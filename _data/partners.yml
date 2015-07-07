@@ -3,9 +3,21 @@
   elements:
     - {name: "Adaptworks", description: "Empresa de treinamentos em metodologias ágeis e referência no mercado brasileiro em formação, coaching e implementação corporativa.", link: "http://www.adaptworks.com.br/", imageUrl: "adaptworks.png", width: 400px}
 -
-  group: "Diamond"
+  group: "Adamantium"
   elements:
     - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+-
+  group: "Platinum"
+  elements:
+    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+-
+  group: "Gold"
+  elements:
+    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+-
+  group: "Silver"
+  elements:
+    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
 -
   group: "Bronze"
   elements:
