@@ -52,6 +52,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
 rightNavigationButtons:
+ - {link: "http://conf2015.tasafo.org/assets/PropostaPatrocinio-TasafoConf2015.pdf", text: "Seja um patrocinador"}
  - {link: "https://eventioz.com.br/e/ta-safo-conf-2015", text: "Ingressos"}
 
 # Hero Block
