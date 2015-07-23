@@ -1,13 +1,8 @@
 (function($) {
+    $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
     $(document).ready(function() {
-        $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
-
         $(window).load(function() {
-            $('#st-container').removeClass('disable-scrolling');
-            $('#loading-animation').fadeOut();
-            $('#preloader').delay(350).fadeOut(800);
-            initGooglePlus();
-            equalheight('.same-height');
+          console.log('carregou');
         });
 
         if ($(window).width() > 1500) {
