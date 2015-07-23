@@ -1,7 +1,5 @@
 (function($) {
     $(document).ready(function() {
-
-
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();
@@ -581,5 +579,5 @@
 
         google.maps.event.addDomListener(window, 'load', initialize);
     }
-$('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
+    $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
 })(jQuery);
