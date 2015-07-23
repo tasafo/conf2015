@@ -13,3 +13,15 @@
   text-justify: inter-word;
   text-indent: 50px;
 }
+
+@media handheld, only screen and (max-width: 767px) {
+#tubular-container,
+#tubular-player,
+#tubular-shield,
+#video-controls {
+  position: fixed;
+  top: -5000px;
+  /*Set amazing belem picture here =)*/
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/01/Bel%C3%A9m_Pra%C3%A7a_do_Rel%C3%B3gio_Clock_Place_01.jpg');
+  }
+}
