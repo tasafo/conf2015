@@ -1,6 +1,6 @@
 (function($) {
     $(document).ready(function() {
-        $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
+
 
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
@@ -105,7 +105,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -485,7 +485,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
@@ -581,5 +581,5 @@
 
         google.maps.event.addDomListener(window, 'load', initialize);
     }
-
+$('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
 })(jQuery);
