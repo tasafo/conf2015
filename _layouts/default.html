@@ -44,6 +44,9 @@ layout: compress
     <script src="{{site.baseurl}}/js/jquery.tubular.1.0.js"></script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
+      <script>
+        $('body').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
+      </script>
       <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
