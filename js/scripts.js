@@ -1,6 +1,6 @@
 (function($) {
   console.log("init")
-    $('body').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
+    
     $(document).ready(function() {
         $(window).load(function() {
           console.log('carregou');
