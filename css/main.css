@@ -5,11 +5,25 @@
 }
 
 #top-header{
-  min-height: 70px
+  min-height: 70px;
 }
 
 .justify {
   text-align: justify;
   text-justify: inter-word;
   text-indent: 50px;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+#tubular-container,
+#tubular-player,
+#tubular-shield,
+#video-controls {
+  position: fixed;
+  top: -5000px;
+  /*Set amazing belem picture here =)*/
+  background-image: url('../img/sections-background/indio.png');
+  background-repeat:no-repeat;
+  background-position: center center;
+  }
 }
