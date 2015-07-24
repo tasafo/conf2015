@@ -1,10 +1,5 @@
 (function($) {
-  console.log("init")
-    
     $(document).ready(function() {
-        $(window).load(function() {
-          console.log('carregou');
-        });
 
         if ($(window).width() > 1500) {
             $('.effect-wrapper').addClass('col-lg-3');
@@ -577,5 +572,4 @@
 
         google.maps.event.addDomListener(window, 'load', initialize);
     }
-    $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
 })(jQuery);

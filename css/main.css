@@ -5,7 +5,7 @@
 }
 
 #top-header{
-  min-height: 70px
+  min-height: 70px;
 }
 
 .justify {
@@ -22,6 +22,8 @@
   position: fixed;
   top: -5000px;
   /*Set amazing belem picture here =)*/
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/01/Bel%C3%A9m_Pra%C3%A7a_do_Rel%C3%B3gio_Clock_Place_01.jpg');
+  background-image: url('../img/sections-background/indio.png');
+  background-repeat:no-repeat;
+  background-position: center center;
   }
 }
