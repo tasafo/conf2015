@@ -41,9 +41,10 @@ layout: compress
         document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
     }
     </script>
-    <script src="{{site.baseurl}}/js/jquery.tubular.1.0.js"></script>
+    
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
+    <script src="{{site.baseurl}}/js/jquery.tubular.1.0.js"></script>
       <script>
         $('#top-section-hero').tubular({ videoId: 'DgWO3U3JH2o', start: 15 });
       </script>
