@@ -22,6 +22,7 @@
   group: "Bronze"
   elements:
     - {name: "Coyoti", description: "Coyoti", link: "http://coyoti.com.br/", imageUrl: "coyoti.png", width: 100px}
+    - {name: "Buscatec", description: "Buscatec", link: "http://portalbuscatec.com.br/", imageUrl: "buscatec.png", width: 100px}
 -
   group: "com apoio de"
   elements:
