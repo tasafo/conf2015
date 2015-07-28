@@ -2,22 +2,88 @@
   date: "2015-11-21"
   dateReadable: "Novembro 21"
   tracks: 
-    - {title: "Gestão/Liderança/Metodologias", color: "#90be4e"}
-    - {title: "Web & Mobile", color: "#03a9f4"}
-    - {title: "Comunidades", color: "#e91e63"}
+    - {title: "Desenvolvimento, operações e testes", color: "#90be4e"}
+    - {title: "Mobile", color: "#03a9f4"}
+    - {title: "Inovação, empreendedorismo e comunidade", color: "#e91e63"}
+    - {title: "Gestão, negócios e agilidade", color: "#e91e63"}
   timeslots:
     - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [002]
+    }
+    - {
     	startTime: "09:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	endTime: "09:50",
+    	sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "09:50",
+        endTime: "10:20",
+        sessionIds: [003, 004, 005, 006]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "10:20",
+    	endTime: "10:50",
+    	sessionIds: [007,008,009,010]
+    }
+    - {
+      startTime: "10:50",
+      endTime: "11:20",
+      sessionIds: [007,008,009,010]
+    }
+    - {
+      startTime: "11:20",
+      endTime: "12:10",
+      sessionIds: [011]
+    }
+    - {
+      startTime: "12:10",
+      endTime: "13:20",
+      sessionIds: [012]
+    }
+    - {
+      startTime: "13:20",
+      endTime: "14:10",
+      sessionIds: [013]
+    }
+    - {
+      startTime: "14:10",
+      endTime: "14:40",
+      sessionIds: [014, 015, 016, 017]
+    }
+    - {
+      startTime: "14:40",
+      endTime: "15:10",
+      sessionIds: [018, 019, 020, 021]
+    }
+    - {
+      startTime: "15:10",
+      endTime: "15:40",
+      sessionIds: [022, 023, 024, 025]
+    }
+    - {
+      startTime: "15:40",
+      endTime: "16:10",
+      sessionIds: [026]
+    }
+    - {
+      startTime: "16:10",
+      endTime: "17:00",
+      sessionIds: [027]
+    }
+    - {
+      startTime: "17:10",
+      endTime: "17:40",
+      sessionIds: [028, 029, 030, 031]
+    }
+    - {
+      startTime: "17:40",
+      endTime: "18:10",
+      sessionIds: [032, 033, 034, 035]
+    }
+    - {
+      startTime: "18:10",
+      endTime: "19:00",
+      sessionIds: [036]
     }
