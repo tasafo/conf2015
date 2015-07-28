@@ -17,7 +17,7 @@
 -
   group: "Silver"
   elements:
-    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+    - {name: "Sol Informática", description: "Sol Informática", link: "http://www.intersol.com.br/Index.sol", imageUrl: "logo_sol_black.png", width: 300px}
 -
   group: "Bronze"
   elements:
