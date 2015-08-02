@@ -23,6 +23,7 @@
   elements:
     - {name: "Coyoti", description: "Coyoti", link: "http://coyoti.com.br/", imageUrl: "coyoti.png", width: 100px}
     - {name: "Buscatec", description: "Buscatec", link: "http://portalbuscatec.com.br/", imageUrl: "buscatec.png", width: 100px}
+    - {name: "Sinextra", description: "Sinextra", link: "http://sinextra.com/", imageUrl: "logo_sinextra.png", width: 180px}
 -
   group: "com apoio de"
   elements:
@@ -30,6 +31,7 @@
     - {name: "Sucesu-Pará", description: "Sociedade de Usuários de Informática e Telecomunicações", link: "http://www.pa.sucesu.org.br/", imageUrl: "sucesu.jpg", width: "200px"}
     - {name: "Agile Trends", description: "Agile Trends", link: "http://agiletrendsbr.com/", imageUrl: "agiletrends.png", width: "120px"}
     - {name: "Agile Brazil", description: "Agile Brazil", link: "http://www.agilebrazil.com/2015/", imageUrl: "agilebrazil.jpeg", width: "120px"}
+    - {name: "Grok Podcast", description: "Grok Podcast", link: "http://www.grokpodcast.com/", imageUrl: "grokpodcast.png", width: "120px"}
 # -
 #   group: "Information partners"
 #   elements:
