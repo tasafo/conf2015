@@ -32,6 +32,7 @@
     - {name: "Agile Trends", description: "Agile Trends", link: "http://agiletrendsbr.com/", imageUrl: "agiletrends.png", width: "120px"}
     - {name: "Agile Brazil", description: "Agile Brazil", link: "http://www.agilebrazil.com/2015/", imageUrl: "agilebrazil.jpeg", width: "120px"}
     - {name: "Grok Podcast", description: "Grok Podcast", link: "http://www.grokpodcast.com/", imageUrl: "grokpodcast.png", width: "120px"}
+    - {name: "Revista Pará+", description: "Revista Pará+", link: "http://paramais.com.br/", imageUrl: "revista-para-mais.png", width: "120px"}
 # -
 #   group: "Information partners"
 #   elements:
