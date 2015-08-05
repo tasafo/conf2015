@@ -12,3 +12,5 @@ _site/
 Thumbs.db
 ehthumbs.db
 .DS_Store
+.ruby-version
+.ruby-gemset
