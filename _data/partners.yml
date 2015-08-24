@@ -6,6 +6,7 @@
   group: "Adamantium"
   elements:
     - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 300px}
 -
   group: "Platinum"
   elements:
@@ -33,6 +34,7 @@
     - {name: "Agile Brazil", description: "Agile Brazil", link: "http://www.agilebrazil.com/2015/", imageUrl: "agilebrazil.jpeg", width: "120px"}
     - {name: "Grok Podcast", description: "Grok Podcast", link: "http://www.grokpodcast.com/", imageUrl: "grokpodcast.png", width: "120px"}
     - {name: "Revista Pará+", description: "Revista Pará+", link: "http://paramais.com.br/", imageUrl: "revista-para-mais.png", width: "120px"}
+    - {name: "PRODEPA", description: "PRODEPA", link: "http://www.prodepa.pa.gov.br/", imageUrl: "prodepa.jpg", width: "120px"}
 # -
 #   group: "Information partners"
 #   elements:
