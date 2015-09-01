@@ -149,6 +149,7 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-08-25T10:00"
   validThrough: "2015-08-31T19:59"
+  soldOut: true
  -
   name: "Early bird"
   price: "100"
@@ -157,11 +158,11 @@ ticketsOffers:
   ribbon: "-20%"
   featured: true
   buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Compre agora"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-08-31T20:00"
   validThrough: "2015-10-23T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Preço normal"
   price: "120"
