@@ -151,7 +151,7 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Early bird"
-  price: "140"
+  price: "100"
   priceCurrency: "R$"
   ticketsNumber: "100"
   ribbon: "-20%"
@@ -164,7 +164,7 @@ ticketsOffers:
   disabled: true
  -
   name: "Preço normal"
-  price: "190"
+  price: "120"
   priceCurrency: "R$"
   ticketsNumber: ""
   buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
@@ -178,7 +178,7 @@ ticketsOffers:
   # soldOutText: "Sold Out"
  -
   name: "Última hora"
-  price: "280"
+  price: "150"
   priceCurrency: "R$"
   ticketsNumber: ""
   buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
