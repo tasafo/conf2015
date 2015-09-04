@@ -3,10 +3,11 @@
   elements:
     - {name: "Adaptworks", description: "Empresa de treinamentos em metodologias ágeis e referência no mercado brasileiro em formação, coaching e implementação corporativa.", link: "http://www.adaptworks.com.br/", imageUrl: "adaptworks.png", width: 400px}
 -
-  group: "Adamantium"
+  group: "Diamond"
   elements:
     - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
     - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 300px}
+    - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 300px}
 -
   group: "Platinum"
   elements:
@@ -25,6 +26,7 @@
     - {name: "Coyoti", description: "Coyoti", link: "http://coyoti.com.br/", imageUrl: "coyoti.png", width: 100px}
     - {name: "Buscatec", description: "Buscatec", link: "http://portalbuscatec.com.br/", imageUrl: "buscatec.png", width: 100px}
     - {name: "Sinextra", description: "Sinextra", link: "http://sinextra.com/", imageUrl: "logo_sinextra.png", width: 180px}
+    - {name: "Jambu Tecnologia", description: "Jambu Tecnologia", link: "http://www.jambu.com.br", imageUrl: "jambu.png", width: 180px}
 -
   group: "com apoio de"
   elements:
