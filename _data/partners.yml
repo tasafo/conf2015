@@ -15,7 +15,7 @@
 -
   group: "Gold"
   elements:
-    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.prontodigital.com.br/", imageUrl: "pronto-digital.png", width: 300px}
 -
   group: "Silver"
   elements:
