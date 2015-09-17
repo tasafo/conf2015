@@ -1,89 +1,89 @@
-- 
+-
   date: "2015-11-21"
   dateReadable: "Novembro 21"
-  tracks: 
-    - {title: "Desenvolvimento, operações e testes", color: "#90be4e"}
-    - {title: "Mobile", color: "#03a9f4"}
-    - {title: "Inovação, empreendedorismo e comunidade", color: "#e91e63"}
-    - {title: "Gestão, negócios e agilidade", color: "#e91e63"}
+  tracks:
+    - {title: "Desenvolvimen-to, Operações e Testes", color: "#90be4e"}
+    - {title: "Game e Mobile", color: "#03a9f4"}
+    - {title: "Inovação, Empreendedo-rismo e Comunidade", color: "#e91e63"}
+    - {title: "Gestão, Negócios e Agilidade", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
       endTime: "09:00",
-      sessionIds: [002]
+      sessionIds: [001]
     }
     - {
     	startTime: "09:00",
     	endTime: "09:50",
-    	sessionIds: [001]
+      sessionIds: [002]
     }
     - {
-        startTime: "09:50",
-        endTime: "10:20",
-        sessionIds: [003, 004, 005, 006]
+      startTime: "09:50",
+      endTime: "10:20",
+      sessionIds: [003, 004, 005, 006]
     }
     - {
     	startTime: "10:20",
     	endTime: "10:50",
-    	sessionIds: [007,008,009,010]
+      sessionIds: [007, 008, 009, 010]
     }
     - {
       startTime: "10:50",
       endTime: "11:20",
-      sessionIds: [007,008,009,010]
+      sessionIds: [011, 012, 013, 014]
     }
     - {
       startTime: "11:20",
       endTime: "12:10",
-      sessionIds: [011]
+      sessionIds: [015]
     }
     - {
       startTime: "12:10",
       endTime: "13:20",
-      sessionIds: [012]
+      sessionIds: [016]
     }
     - {
       startTime: "13:20",
       endTime: "14:10",
-      sessionIds: [013]
+      sessionIds: [017]
     }
     - {
       startTime: "14:10",
       endTime: "14:40",
-      sessionIds: [014, 015, 016, 017]
+      sessionIds: [018, 019, 020, 021]
     }
     - {
       startTime: "14:40",
       endTime: "15:10",
-      sessionIds: [018, 019, 020, 021]
+      sessionIds: [022, 023, 024, 025]
     }
     - {
       startTime: "15:10",
       endTime: "15:40",
-      sessionIds: [022, 023, 024, 025]
+      sessionIds: [026, 027, 028, 029]
     }
     - {
       startTime: "15:40",
       endTime: "16:10",
-      sessionIds: [026]
+      sessionIds: [030]
     }
     - {
       startTime: "16:10",
       endTime: "17:00",
-      sessionIds: [027]
+      sessionIds: [031]
     }
     - {
       startTime: "17:10",
       endTime: "17:40",
-      sessionIds: [028, 029, 030, 031]
+      sessionIds: [032, 033, 034, 035]
     }
     - {
       startTime: "17:40",
       endTime: "18:10",
-      sessionIds: [032, 033, 034, 035]
+      sessionIds: [036, 037, 038, 039]
     }
     - {
       startTime: "18:10",
       endTime: "19:00",
-      sessionIds: [036]
+      sessionIds: [040]
     }

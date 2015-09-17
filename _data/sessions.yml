@@ -1,5 +1,10 @@
 -
   id: 001
+  title: "Credenciamento e café da manhã"
+  place: "Hall"
+  service: true
+-
+  id: 002
   title: "Keynote"
   description: "Palestra em breve ainda não publicada"
   subtype: keynote
@@ -9,207 +14,249 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 002
-  title: "Credenciamento e café da manhã"
-  place: "Hall"
-  service: true
--
   id: 003
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "MEAN - Full Stack JavaScript"
+  description: "MEAN é um acrônimo de quatro tecnologias do ecossitema JavaScript: MongoDB, Express, AngularJS e NodeJS. Essas tecnologias juntas permitem a criação de aplicações utilizando a linguagem JavaScript de ponta a ponta. Nesta palestra será apresentado como podemos utilizá-las s para construir Single Page Applications (SPA) com Javascript no Back-end e banco de dados NoSQL"
   subtype: presentation
+  speakers: [5]
   # language: en
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 004
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Android Marshmallow na prática"
+  description: "Nesta apresentação irei explicar as principais funcionalidades da versão mais nova do Android que foi lançada durante o Google I/O 2015 e como implementá-las facilmente em um smartphone ou tablet."
   subtype: presentation
-  #speakers: [4, 5]
+  speakers: [2]
   # language: en
   # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Criando funcionalidades que realmente importam"
+  description: "Não existe benefício em ter um produto complicado. Por isso é necessário ter princípios antes de sair construindo funcionalidades. Afinal, ninguém quer ter um software Frankenstein. <br/> a) Como dar atenção para as funcionalidades que realmente importam? Como criar algo que as pessoas vão usar todas as horas? <br/> b) Você tem criado funcionalidades que apenas algumas pessoas vão usar em momentos bem específicos? <br/> c) O que você tem feito com funcionalidades “elefantes brancos”? Aquelas que não são ou nunca foram usadas. <br/> d) Quanto você desperdiça ao dar manutenção para funcionalidades pouco utilizadas? <br/> e) Você tem customizado funcionalidades para poucas pessoas usarem toda a hora? Criar isso tem tomado muito tempo da sua equipe?"
   subtype: presentation
-  #speakers: [4]
+  speakers: [31]
   # language: en
   # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 006
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Você devia conhecer o poder das métricas"
+  description: "Então você acredita que a Agilidade é HDD (Heart Driven Development)? Que deve apenas seguir seu coração e estará tudo certo? Que não há necessidade de medições? Venha ouvir um pouco sobre métricas e indicadores ágeis. Meu intuito não é encontrar culpados no processo, e sim medir a saúde e ajudá-lo e encontrar melhorias e ganhos de produtividade."
   subtype: presentation
-  #speakers: [6]
+  speakers: [3]
   # language: uk
   # complexity: "Beginner"
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Palestra em breve" # Tudo aquilo que você precisa saber sobre Vagrant e Puppet
+  description: "descrição em breve" # Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps.  Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na área.
   subtype: presentation
-  #speakers: [7]
+  #speakers: [34]
   # language: en
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Criando aplicações mobile híbridas com Ionic Framework"
+  description: "Esta apresentação dará uma visão prática de como utilizar o Ionic framework na construção de aplicativos móveis, comum bom desempenho, utilizando tecnologias como AngularJS, Cordova e diversos recursos do HTML5. "
   subtype: presentation
-  #speakers: [7]
+  speakers: [21]
   # language: en
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Palestra em breve" # Testando canais de aquisição de clientes
+  description: "descrição em breve" # Uma Startup é um emprendimento pensado para crescer rápido. Portanto, a busca pelo crescimento é algo que define as Startup's.  Tração é a evidência quantitativa da demanda do mercado, indicando para as Startup's sua taxa de crescimento. Nessa palestra apresentaremos o método descrito no livro "Traction - A Startup Guide to Getting Customers" de Justin Mares e Gabriel Weinberg, que traz uma abordagem nova para aquisição de clientes baseada em entrevistas com empreendedores de sucesso do Vale do Silício. Apresentaremos os canais de aquisição de clientes mais eficazes segundo o estudo, o método e mostraremos alguns exemplos de aplicação do mesmo.
   subtype: presentation
+  #speakers: [35]
 -
   id: 010
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Expandindo Ágil: do Marketing ao Departamento Pessoal"
+  description: "O movimento de mudança e melhoria do processo de trabalho que já havia transformado o Desenvolvimento de Software na DígithoBrasil se espalhou por todos os setores. E em cada lugar, se fez necessária uma adaptação cuidadosa dos métodos ágeis, com cenários bastante distintos, e que trouxe resultados rápidos e integralmente compartilhados."
   subtype: presentation
+  speakers: [32, 33]
 -
   id: 011
+  title: "ESB na prática: Como integrar sistemas corporativos de forma eficaz"
+  description: "A integração de sistemas corporativos, tornou-se imprescindível, por isso, o uso de uma arquitetura que permita a comunicação com várias aplicações é fundamental. <br/> O Enterprise Service Bus (ESB) é  uma arquitetura de software que irá viabilizar essa comunicação entre diferentes aplicativos, roteando as mensagens e enviando-as para seus destinos apropriados."
+  subtype: presentation
+  speakers: [19]
+-
+  id: 012
+  title: "Palestra em breve" # Desenvolvimento de Jogos Mobile com Monogame
+  description: "descrição em breve" # Demonstrar o fluxo do desenvolvimento e técnicas de implementação de jogos para as plataformas Mobile Android, IOS e Windows Phone,  utilizando o framework Monogame e Mono em conjunto com as IDEs Visual Studio e Xamarin Studio.
+  subtype: presentation
+  #speakers: []
+-
+  id: 013
+  title: "Impacto das inovações tecnológicas nas pequenas e médias empresas"
+  description: "Apresentar o cenário do mercado atual, onde várias empresas de grande porte se reinventam e aplicam conhecimentos técnicos de gestão, por outro lado, o pequeno e médio empresário nem sempre está preparado para o mercado. Neste sentido a inovação e o agente de inovação surge não só como uma necessidade, mas também um desafio. Todos os aspectos citados anteriormente deve ser estudados e o profissional de TI deve agir como agente de inovação, a pergunta é, estamos preparados?"
+  subtype: presentation
+  speakers: [27]
+-
+  id: 014
+  title: "Palestra em breve" # Agilidade além do mundo do software
+  description: "descrição em breve" # ainda nao tem
+  subtype: presentation
+  #speakers: [35]
+-
+  id: 015
   title: "Keynote"
   description: "descrição em breve"
   subtype: keynote
   speakers: [15]
 -
-  id: 012
+  id: 016
   title: "Almoço"
   place: "Praça de alimentação"
   service: true
 -
-  id: 013
+  id: 017
   title: "Convidado especial"
   description: "descrição em breve"
   subtype: presentation
   speakers: [12]
 -
-  id: 014
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
-  id: 015
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
-  id: 016
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
-  id: 017
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
   id: 018
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Os Perigos da Web"
+  description: "Você lê sobre SQL injection, Cross-site scripting e que não deve armazenar senhas diretamente no banco de dados. Você ouve conselhos de como proteger a sua aplicação contra essas vulnerabilidades e toma algumas medidas básicas mas não sabe exatamente como elas funcionam e como algo pode dar errado. <br> Vamos ver como tudo pode dar errado..."
   subtype: presentation
+  speakers: [17]
 -
   id: 019
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Introdução ao Material Design"
+  description: "O que é Material Design? Conheça um pouco da história das interfaces gráficas e como a Google evolui seu conceito de UX para padronizar o design em qualquer dispositivo."
   subtype: presentation
+  speakers: [22]
 -
   id: 020
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Startup Developer Mindset"
+  description: "Nunca foi tão simples empreender e é nesse contexto que as startups se destacam como uma alternativa viável e acessível. O desenvolvedor de software faz parte do núcleo deste ecossistema. Mas o cenário de uma startup é diferente do padrão, algumas habilidades e experiências de vida são extremamente úteis pra que a startup evolua, bem como o desenvolvedor seja produtivo e consiga seus objetivos. <br> Essa palestra apresenta alguns valores e habilidades necessárias para um desenvolvedor e que podem fazer a diferença no desenvolvimento de uma startups. Levanta pontos de qual o real papel do mesmo nesse ecossitema e de valores que adicionam valor ao mindset do mesmo."
   subtype: presentation
+  speakers: [14]
 -
   id: 021
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Adoção de Práticas Ágeis na PROEX e PROEG: Reflexões e Aprendizados"
+  description: "Apresentar relato de experiência da adoção de métodos Ágeis em duas Pró-Reitorias da UFPA (PROEG e PROEX). Enfatizando as lições aprendidas, mudanças na cultura organizacional e os desafios encontrados para evolução do processo de acordo  com as necessidades da  Universidade. "
   subtype: presentation
+  speakers: [6, 10]
 -
   id: 022
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Oracle Nashorn, a nova engine Java Script para JVM"
+  description: "Com o lançamento do Java 8 ano passado, uma das novidades da versão foi a inclusão de uma engine Java Script para JVM denominada de Oracle Nashorn. Trata-se de uma nova geração de engine Java Script totalmente  reformulada, baseada na JSR 292 e com suporte a invocação dinâmica através de linhas de comando ou embarcado em aplicações Java. Quando e porque usar o Nashorn? Quais as vantagens e desvantagens? É o que vamos compartilhar nessa apresentação."
   subtype: presentation
+  speakers: [18]
 -
   id: 023
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Acessibilidade em Android: Desvendando a TalkBack API"
+  description: "Veremos como a API TalkBack pode ajudar as pessoas com deficiência a utilizar o smartphone."
   subtype: presentation
+  speakers: [24]
 -
   id: 024
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Dafiti App Android: Um app robusto mas sem sair da moda"
+  description: "Em 2013, a Dafiti já era bem conhecida do público que não resistia à uma promoção de sapato. Nesse período, já não podíamos mais esperar pelo cliente acessar ao nosso site fisgado por um banner, newsletter e etc. Com um aplicativo Android resolvemos levar o maior e-commerce de moda, para uma base gigante de usuários que tem o robô como sistema operacional de smartphones, e o melhor, em qualquer hora e lugar onde o cliente esteja. No mobile conseguimos aproximar ainda mais essa relação com o cliente. <br> E o que era apenas uma nova forma de vender, se tornou num dos principais canais de venda. Como toda caminhada nos leva a percalços, passamos por muitos erros e acertos que pensamos em dividir com a comunidade, para nos ajudar a debater o desenvolvimento de um bom aplicativo focado em m-commerce. <br> Vamos conversar sobre nosso app Android, como fazemos dele um bom produto não somente para vender mas também para desenvolver."
   subtype: presentation
+  speakers: [28]
 -
   id: 025
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Software como investimento"
+  description: "Software é um investimento. Desenvolvimento de software é uma atividade que consome esforço, tempo e dinheiro. Investe-se em software com a expectativa de que a sua utilização no dia a dia da empresa gere retornos para os negócios. <br> O método ágil XP e o Scrum reconhece o conceito de ROI, essa premissa e suas práticas são organizadas para entregar valor mais cedo para os clientes."
   subtype: presentation
+  speakers: [13]
 -
   id: 026
+  title: "Palestra em breve" # Testes de Integração com foco em APIs
+  description: "descrição em breve" # Precisando testar suas APIs? Compartilhando algumas ideias utilizadas em um projeto de testes focado apenas em testes de integração de APIs.
+  subtype: presentation
+  #speakers: []
+-
+  id: 027
+  title: "Micro interações no seu aplicativo - Como o desenvolvedor deve lidar com isso"
+  description: "Cada interação importa: seja um feedback de toque ou uma animação. Iremos discutir como nós, desenvolvedores, precisamos adquirir essa cultura e como podemos identificar pontos importantes da nossa aplicação."
+  subtype: presentation
+  speakers: [23]
+-
+  id: 028
+  title: "Como desenhar uma proposta de valor que vai encantar o seu cliente!"
+  description: "Todo negócio surge para atender um cliente específico, mas que tarefa esse cliente tem e quer realizar? O que ele quer resolver? Como ele é atendido hoje no mercado? Quais são as brechas que os possíveis concorrentes lhe dão? Quais são os problemas que esse cliente tem? <br> O objetivo dessa palestra é apresentar o Canvas da Proposta de Valor, para que os empreendedores criem soluções que atendam e surpreendam os seus clientes com algo que ele realmente deseja."
+  subtype: presentation
+  speakers: [29]
+-
+  id: 029
+  title: "One Direction - A incrível relação entre times e entregas em ambientes ágeis"
+  description: "Entusiasmada com os resultados obtidos nas entregas, Isabela Gayno, acredita que os membros do time ficam orgulhosos quando se sentem parte do BEM MAIOR. <br> One direction é um workshop capaz de demonstrar como o alinhamento do time é capaz de tornar possível a execução de planos previsíveis e com ótimos resultados. <br> Ignorar este workshop dinâmico e alegre é ignorar o incrível poder da linguagem, um dos maiores segredos para encontrar summum bonum individual (BEM MAIOR). <br> Descubra como OneDirection pode ser perfeito no seu dia a dia."
+  subtype: presentation
+  speakers: [11]
+-
+  id: 030
   title: "Coffee Break"
   place: "Hall"
   service: true
 -
-  id: 027
+  id: 031
   title: "Convidado especial"
   description: "descrição em breve"
   subtype: presentation
   speakers: [16]
 -
-  id: 028
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
-  id: 029
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
-  id: 030
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
-  id: 031
-  title: "Palestra em breve"
-  description: "descrição em breve"
-  subtype: presentation
--
   id: 032
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Refatoração com Métricas"
+  description: "A palestra tem por objetivo apresentar as principais métricas de código orientado a objetos como suporte à tarefa de identificação de problemas de projeto de software, em especial os 'maus cheiros' de código que evidenciam melhorias com refatoração de código."
   subtype: presentation
+  speakers: [20]
 -
   id: 033
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Produtividade Maxima com Android Libs"
+  description: "Algumas tarefas em Android não são tão simples de serem implementadas, possuem um certo nível de complexidade e trabalho. Nesta palestra irei mostrar de forma sucinta como configurar e utilizar as bibliotecas mais produtivas utilizadas em Android. Irei falar sobre os guide lines e a importância de sua utilização."
   subtype: presentation
+  speakers: [25]
 -
   id: 034
-  title: "Palestra em breve"
+  title: "Como usar o Learning Canvas para descobrir Features para o Product Backlog"
   description: "descrição em breve"
   subtype: presentation
+  speakers: [1]
 -
   id: 035
-  title: "Palestra em breve"
-  description: "descrição em breve"
+  title: "Palestra em breve" # Manter-se ágil em meio à cultura tradicionalista
+  description: "descrição em breve" # Nessa apresentação será descrita a experiência de introduzir métodos ágeis na TI de uma empresa de ramo tradicional em que a cultura é fortemente hierárquica e que compra as melhores práticas.
   subtype: presentation
+  #speakers: []
 -
   id: 036
+  title: "Entregando software à moda da casa com DevOps Tools"
+  description: "Ainda existem empresas publicando software em produção enviando arquivos via FTP e 'controlando' a versão de seu código-fonte através de cópias compactadas armazenadas por ordem cronológica. Muitos profissionais realmente não se incomodam em fazer a mesma coisa há anos. É preciso ir além da dedicação e prestatividade, em busca da produtividade. Pretendo demonstrar implementações de técnicas e ferramentas como: controle distribuído de versões, testes automatizados, Integração Contínua, Implantação Contínua e o ápice do DevOps que é a Entrega Contínua de software."
+  subtype: presentation
+  speakers: [8]
+-
+  id: 037
+  title: "Boas práticas na implementação de um jogo: Game programming patterns"
+  description: "Programar um jogo é um grande desafio, o qual envolve o tratamento de diversos aspectos de sua concepção e criação, desde um bom controle de estados de um jogador, registro de ações de inputs e configuração de diferentes controles a serem suportados, tratamento adequado de um 'game loop', inteligência artificial de inimigos e etc. Por meio desta palestra espero compartilhar meus conhecimentos sobre esses problemas recorrentes na programação e falar sobre algumas boas formas de os resolver utilizando design patterns."
+  subtype: presentation
+  speakers: [26]
+-
+  id: 038
+  title: "Desbravando a Amazon AWS"
+  description: "Mostrarei como programadores podem usar os produtos EC2, RDS, e S3 da Amazon AWS."
+  subtype: presentation
+  speakers: [30]
+-
+  id: 039
+  title: "Kanban - Muito além de um simples quadro na parede!"
+  description: "Nessa apresentação serão resgatadas as práticas do desenvolvimento ágil lá no eXtreme Programming (XP). A falta de experiência e uso de técnicas e práticas de engenharia como Pair Programming, TDD, Integração Contínua, Design Emergente, entre outras, tem dificultado a vida dos Times que estão buscando entregar valor constantemente e em ciclos cada vez mais curtos. O objetivo dessa apresentação é fortalecer a importância das boas práticas de engenharia no desenvolvimento ágil."
+  subtype: presentation
+  speakers: [4]
+-
+  id: 040
   title: "Convidado especial"
   description: "descrição em breve"
   subtype: presentation

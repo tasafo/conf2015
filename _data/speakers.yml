@@ -90,7 +90,7 @@
   surname: "Sanches"
   company: "Nômade Tecnologia / Pródiga Sistemas"
   title: "Consultor em desenvolvimento e operações de software"
-  bio: "Membro das comunidades Tá safo! e Agilidade@Recife. Engenheiro de Software na Pródiga Sistemas. Consultor em desenvolvimento e operações de software pela Nômade Tecnologia. Professor de graduação e pós na Estácio|IESAM. Professor de pós graduação no CESUPA."
+  bio: "É graduado em Sistemas de Informação pelo IESAM e Pós graduado em Gestão Ágil de Projetos pelo CESAR.EDU. Membro das comunidades Tá safo! e Agilidade@Recife. Engenheiro de Software na Pródiga Sistemas. Consultor em desenvolvimento e operações de software pela Nômade Tecnologia. Professor de graduação e especialização na Estácio|IESAM e no CESUPA."
   thumbnailUrl: luiz-sanches.png
   rockstar: true
   social:
@@ -125,22 +125,23 @@
     - {name: "github", link: "https://github.com/Lourdilene" }
 -
   id: 11
-  name: "Eduardo"
-  surname: "Guerra"
-  company: "Global Innovation"
-  title: "Senior Software Architect; Founder at Global Innovation"
-  bio: "Eduardo Guerra é empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
-  thumbnailUrl: eduardo-guerra.png
-  rockstar: true
+  name: "Isabela"
+  surname: "Gayno"
+  company: "IFConsutoria"
+  title: "Agile Coach"
+  bio: "Pesquisadora sobre comportamento humano, neurociências, inteligência múltipla, inteligencia emocional, psicologia e tecnologia. MBA em Marketing Digital e Mídias Sociais. Pós Graduada em Engenharia de Software. Graduada em Administração de Empresas. Master e Practitioner em PNL. Com mais de 11 anos de carreira, atuando em facilitar o entendimento e gerenciar expectativa do cliente e times. Atua como palestrante sobre gestão ágeis de projetos e temas sobre automotivação e engajamento de times, dedicando-se àquilo que chama de efeito multiplicador, como escritora, autora e colunista no AgileMomentum, Ti Especialista e blogueira no Administradores. 'Conhecimento bom é conhecimento compartilhado'"
+  thumbnailUrl: isabela-gayno.jpg
+  rockstar: false
   social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/isabelagayno"}
+    - {name: "twitter", link: "https://twitter.com/Isagayno"}
 -
   id: 12
   name: "Carlos"
   surname: "Souza"
   company: "Code School"
   title: "Instructor at Code School"
-  bio: "Carlos Souza (Caike) é desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
+  bio: "É desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
   thumbnailUrl: caike-souza.jpg
   rockstar: true
   social:
@@ -148,16 +149,16 @@
     - {name: "github", link: "https://github.com/caike"}
 -
   id: 13
-  name: "Marcelo"
-  surname: "Andrade"
-  company: "TRT"
-  title: "Community Manager at GDG Belém, Analista no TRT"
-  bio: "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios."
-  thumbnailUrl: marcelo-andrade.jpg
+  name: "Rildo"
+  surname: "Santos"
+  company: "eTecnologia"
+  title: "Consultor de Negócio"
+  bio: "Auto na empresa eTecnologia como Consultor de Negócio, atuando em duas linhas de negócio: - Consultoria de Tecnologia e Negócio - Compartilhamento de conhecimento (programa social que visa ajudar profissionais, professores e estudantes com compartilhamento de conhecimento através de publicação de conteúdo, cursos gratuitos e a comunidade eTecnologia)"
+  thumbnailUrl: rildo-santos.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/mfandrade"}
-    - {name: "github", link: "https://github.com/mfandrade"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/rildofsantos/pt"}
+    - {name: "twitter", link: "https://twitter.com/rildosan"}
 -
   id: 14
   name: "Marcelio"
@@ -222,7 +223,7 @@
   id: 19
   name: "Gustavo"
   surname: "Costa"
-  company: "Ministério Público de Contas dos Municípios - PA e Pródiga Sistemas"
+  company: "MPCM-PA e Pródiga Sistemas"
   title: "Arquiteto de Sistemas"
   bio: "Atualmente, trabalho no Ministério Público de Contas dos Municípios do Estado do Pará e na empresa Pródiga Sistemas. Um dos meus pontos fortes é JAVA, com o qual trabalho há 8 anos."
   thumbnailUrl: gustavo-costa.png
@@ -243,7 +244,6 @@
   social:
     - {name: "linkedin", link: "http://www.linkedin.com/in/claudiomartins2010"}
     - {name: "twitter", link: "http://twitter.com/_ClaudioMartins"}
-    - {name: "bitbucket", link: "http://bitbucket.org/claudiomartins2000"}
 -
   id: 21
   name: "João"
@@ -318,7 +318,6 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/lucmousinho"}
-    - {name: "bitbucket", link: "https://bitbucket.org/lucmousinho"}
 -
   id: 27
   name: "Thiago"
@@ -379,18 +378,6 @@
     - {name: "twitter", link: "https://twitter.com/almeidamarcell"}
 -
   id: 32
-  name: "Jorge"
-  surname: "Almoas"
-  company: "DígithoBrasil"
-  title: "Marketing"
-  bio: "Jornalista formado há 7 anos, com pós-graduação em Gestão Integrada de Comunicação e Marketing, atualmente cursa Administração na UFMS (Universidade Federal de Mato Grosso do Sul). Atua no departamento de Marketing da DígithoBrasil há 7 anos nas áreas de Comunicação Interna, Endomarketing, Mídias Sociais, Planejamento nas áreas Institucional, Comercial e de Patrocínios. Vivencia o ágil há 3 anos e espera levá-lo a todas as áreas de conhecimento possíveis."
-  thumbnailUrl: jorge-almoas.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jorgealmoas"}
-    - {name: "twitter", link: "https://twitter.com/jorgealmoas"}
--
-  id: 33
   name: "Samuel"
   surname: "Cavalcante"
   company: "DígithoBrasil"
@@ -403,26 +390,37 @@
     - {name: "twitter", link: "https://twitter.com/samuelmbc"}
     - {name: "github", link: "https://github.com/samuelmbc"}
 -
-  id: 34
-  name: "Rildo"
-  surname: "Santos"
-  company: "eTecnologia"
-  title: "Consultor de Negócio"
-  bio: "Auto na empresa eTecnologia como Consultor de Negócio, atuando em duas linhas de negócio: - Consultoria de Tecnologia e Negócio - Compartilhamento de conhecimento (programa social que visa ajudar profissionais, professores e estudantes com compartilhamento de conhecimento através de publicação de conteúdo, cursos gratuitos e a comunidade eTecnologia)"
-  thumbnailUrl: rildo-santos.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/rildofsantos/pt"}
-    - {name: "twitter", link: "https://twitter.com/rildosan"}
--
-  id: 35
-  name: "Isabela"
-  surname: "Gayno"
-  company: "IFConsutoria"
-  title: "Agile Coach"
-  bio: "Pesquisadora sobre comportamento humano, neurociências, inteligência múltipla, inteligencia emocional, psicologia e tecnologia. MBA em Marketing Digital e Mídias Sociais. Pós Graduada em Engenharia de Software. Graduada em Administração de Empresas. Master e Practitioner em PNL. Com mais de 11 anos de carreira, atuando em facilitar o entendimento e gerenciar expectativa do cliente e times. Atua como palestrante sobre gestão ágeis de projetos e temas sobre automotivação e engajamento de times, dedicando-se àquilo que chama de efeito multiplicador, como escritora, autora e colunista no AgileMomentum, Ti Especialista e blogueira no Administradores. 'Conhecimento bom é conhecimento compartilhado'"
-  thumbnailUrl: isabela-gayno.jpg
+  id: 33
+  name: "Jorge"
+  surname: "Almoas"
+  company: "DígithoBrasil"
+  title: "Marketing"
+  bio: "Jornalista formado há 7 anos, com pós-graduação em Gestão Integrada de Comunicação e Marketing, atualmente cursa Administração na UFMS (Universidade Federal de Mato Grosso do Sul). Atua no departamento de Marketing da DígithoBrasil há 7 anos nas áreas de Comunicação Interna, Endomarketing, Mídias Sociais, Planejamento nas áreas Institucional, Comercial e de Patrocínios. Vivencia o ágil há 3 anos e espera levá-lo a todas as áreas de conhecimento possíveis."
+  thumbnailUrl: jorge-almoas.jpg
   rockstar: false
   social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/isabelagayno"}
-    - {name: "twitter", link: "https://twitter.com/Isagayno"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jorgealmoas"}
+    - {name: "twitter", link: "https://twitter.com/jorgealmoas"}
+#-
+#  id: 34
+#  name: "Marcelo"
+#  surname: "Andrade"
+#  company: "TRT"
+#  title: "Community Manager at GDG Belém, Analista no TRT"
+#  bio: "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios."
+#  thumbnailUrl: marcelo-andrade.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/mfandrade"}
+#    - {name: "github", link: "https://github.com/mfandrade"}
+#-
+#  id: 35
+#  name: "Eduardo"
+#  surname: "Guerra"
+#  company: "Global Innovation"
+#  title: "Senior Software Architect; Founder at Global Innovation"
+#  bio: "Eduardo Guerra é empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
+#  thumbnailUrl: eduardo-guerra.png
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
