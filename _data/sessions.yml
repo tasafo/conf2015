@@ -3,9 +3,9 @@
   title: "Keynote"
   description: "Palestra em breve ainda não publicada"
   subtype: keynote
-  speakers: [9]
+  speakers: [7]
   # language: en
-  # complexity: "Intermediate" 
+  # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -28,7 +28,7 @@
   subtype: presentation
   #speakers: [4, 5]
   # language: en
-  # complexity: "Intermediate" 
+  # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -38,7 +38,7 @@
   subtype: presentation
   #speakers: [4]
   # language: en
-  # complexity: "Intermediate" 
+  # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 006
@@ -85,7 +85,7 @@
   title: "Keynote"
   description: "descrição em breve"
   subtype: keynote
-  speakers: [23]
+  speakers: [15]
 -
   id: 012
   title: "Almoço"
@@ -96,7 +96,7 @@
   title: "Convidado especial"
   description: "descrição em breve"
   subtype: presentation
-  speakers: [16]
+  speakers: [12]
 -
   id: 014
   title: "Palestra em breve"
@@ -167,7 +167,7 @@
   title: "Convidado especial"
   description: "descrição em breve"
   subtype: presentation
-  speakers: [24]
+  speakers: [16]
 -
   id: 028
   title: "Palestra em breve"
@@ -213,4 +213,4 @@
   title: "Convidado especial"
   description: "descrição em breve"
   subtype: presentation
-  speakers: [12]
+  speakers: [9]
