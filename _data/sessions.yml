@@ -109,8 +109,8 @@
   #speakers: [35]
 -
   id: 015
-  title: "Keynote"
-  description: "descrição em breve"
+  title: "Desenvolvendo produtos e projetos de forma enxuta e eficiente"
+  description: "'Construir, Medir, Aprender', como diz Steve Blank, é muito mais elaborado do que colocar software em produção para ver se funciona. O Lean Startup é interessante, mas para desenvolvedores de software acaba se traduzindo em uma importante pergunta: 'Tá, mas o que construir?'. <br><br> Não é fácil lidar com essa disparidade entre o significado de Produto Mínimo Viável para o negócio e a iniciação de projetos de software que tentam criar produtos de forma enxuta. Depois de experimentar muitos estilos de iniciação do projeto de software, documentamos uma receita que vem sendo aplicada no cotidiano e funcionando muito bem. A esse conjunto de práticas e técnicas demos o nome de Direto ao Ponto. <br><br> Venha conversar sobre MVP e compartilhar de uma receita efetiva para iniciação do projetos de software que vai entregar o produto de forma enxuta."
   subtype: keynote
   speakers: [15]
 -
@@ -203,8 +203,8 @@
   service: true
 -
   id: 031
-  title: "Convidado especial"
-  description: "descrição em breve"
+  title: "Empreendendo como funcionário, por que não?"
+  description: "Vemos uma certa propaganda muitas vezes até exageradas que todas as pessoas devem buscar sua startup, afinal, qualquer um pode ser o próximo Mark Zuckerberg. É formidável as pessoas terem idéias e apostarem nelas, mas o mercado muitas vezes esquece que você pode ter idéias interessantes na empresa que você trabalha, e dependendo do caso, virar um dos donos, ganhar stocks, ou mesmo criar um 'embrião' da sua idéia, para ter mais segurança para se arriscar nesse mundo de Startups. <br><br> É muito fácil vender pá para quem busca ouro, mas a busca é árdua, e quanto mais se procura o metal precioso, ou sucesso das startups, os 'vendedores de pás' vão ficar cada vez mais ricos, enquanto poucos conseguem seu lugar na indústria. <br><br> Nesta palestra, vamos abordar o empreendedorismo que nasce dentro do seu emprego, seja ele desde uma organização pública, até uma 'cool startup', a idéia não é vender pá, muito pelo contrário, e sim abrir a cabeça para que as pessoas possam perceber que TI se transformou em Tecnologia da Inovação, e que o próximo grande bilionário, pode ser um funcionário, a exemplo do Sundar Pichai(novo CEO do Google), Marissa Mayer (Yahoo) etc."
   subtype: presentation
   speakers: [16]
 -
@@ -252,7 +252,7 @@
 -
   id: 039
   title: "Kanban - Muito além de um simples quadro na parede!"
-  description: "Nessa apresentação serão resgatadas as práticas do desenvolvimento ágil lá no eXtreme Programming (XP). A falta de experiência e uso de técnicas e práticas de engenharia como Pair Programming, TDD, Integração Contínua, Design Emergente, entre outras, tem dificultado a vida dos Times que estão buscando entregar valor constantemente e em ciclos cada vez mais curtos. O objetivo dessa apresentação é fortalecer a importância das boas práticas de engenharia no desenvolvimento ágil."
+  description: "Nessa apresentação são abordados os conceitos de Fluxo, Pensamento Sistêmico, Limites, entre outros, que são importantes para o entendimento da cultura e do que há por trás do Kanban. O principal objetivo dessa apresentação é não só uma visão geral mas ajudar no ponta pé inicial para a adoção do Kanban."
   subtype: presentation
   speakers: [4]
 -

@@ -188,7 +188,7 @@
   name: "Edgar"
   surname: "Silva"
   company: "WSO2"
-  title: "Vice-Presidente e Country Manager"
+  title: "Vice-Presidente para a América Latina"
   bio: "Edgar Silva é Vice-Presidente e Country Manager para o Brasil na WSO2. Membro do time executivo estabelecendo a subsidiária, time e presença da WSO2 no Brasil e América Latina. Atuando no mercado desde 1996, antes da WSO2 Edgar foi o Head da MuleSoft no Brasil, Diretor de Desenvolvimento de Negócios Middleware na Oracle , Gerente do time de Pré-vendas e Arquitetos de Soluções da Red Hat no Brasil, atuou como consultor para Sun Microsystems, foi Systems Engineer na Borland Latin America e teve suas aventuras empreendedoras. Divide seu tempo entre as pontes aéreas, aproveitando para pesquisar e ajudar a criar um mundo mais conectado e simples para as pessoas."
   thumbnailUrl: edgar-silva.jpg
   rockstar: true
@@ -200,13 +200,12 @@
   name: "Thomaz"
   surname: "Leite"
   company: "Barbits"
-  title: "Faz-tudo"
-  bio: ""
-  thumbnailUrl: thomaz-leite.jpg
+  title: "Desenvolvedor"
+  bio: "Sou formado em ciência da computação pela Lindenwood University e desenvolvedor de aplicações de Web há 5 anos. Hoje sou faz-tudo na Barbits, empresa que fundei em 2014. Pela Barbits, ajudo empresas que não tem um time de desenvolvedores in-house a executar projetos de software."
+  thumbnailUrl: thomaz-leite.png
   rockstar: false
   social:
-    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "github", link: "https://github.com/thmzlt"}
 -
   id: 18
   name: "Raimundo"
@@ -272,11 +271,11 @@
 -
   id: 23
   name: "Rodrigo"
-  surname: "Cicareli"
+  surname: "Sicarelli"
   company: "Easy Taxi"
   title: "Desenvolvedor Android na EasyTaxi, professor na Caelum e entusiasta em usabilidade"
   bio: "Sou Desenvolvedor Android na EasyTaxi, professor na Caelum e entusiasta em usabilidade. Participei de projetos grandes como o Zap Imóveis e Walmart e também sou colaborador no MaterialUp.com."
-  thumbnailUrl: rodrigo-cicareli.jpg
+  thumbnailUrl: rodrigo-sicarelli.jpg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigosicarelli"}
@@ -370,9 +369,9 @@
   surname: "Almeida"
   company: "Grana"
   title: "Co-Fundador & Gerente de Produto"
-  bio: ""
+  bio: "Trabalhou mais de um ano no Easy Taxi como Gerente de Produto atuando na área Mobile e na parte B2B (Easy Taxi Empresas). Atualmente está dedicado exclusivamente ao Grana (www.grana.me), startup que é co-fundador."
   thumbnailUrl: marcell-almeida.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/almeidamarcell"}
     - {name: "twitter", link: "https://twitter.com/almeidamarcell"}
