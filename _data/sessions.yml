@@ -53,10 +53,10 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
-  title: "Palestra em breve" # Tudo aquilo que você precisa saber sobre Vagrant e Puppet
-  description: "descrição em breve" # Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps.  Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na área.
+  title: "Tudo aquilo que você precisa saber sobre Vagrant e Puppet"
+  description: "Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps. Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na área."
   subtype: presentation
-  #speakers: [34]
+  speakers: [34]
   # language: en
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -103,10 +103,10 @@
   speakers: [27]
 -
   id: 014
-  title: "Palestra em breve" # Agilidade além do mundo do software
-  description: "descrição em breve" # ainda nao tem
+  title: "Agilidade além do mundo do software"
+  description: "Há mais de 1 anos tenho respondido a perguntas como: 'Esse negócio de Ágil não é só para software? Como vamos envolver toda a empresa?' <br><br> Logística, Compras, Comunicação Social, Jurídico e Projetos, como tantas áreas/profissionais que NÃO DESENVOLVEM software podem entender o que está acontecendo? Como podem incorporar práticas ágeis em seu dia a dia e adotar na sua cultura?"
   subtype: presentation
-  #speakers: [35]
+  speakers: [35]
 -
   id: 015
   title: "Desenvolvendo produtos e projetos de forma enxuta e eficiente"
@@ -222,15 +222,15 @@
 -
   id: 034
   title: "Como usar o Learning Canvas para descobrir Features para o Product Backlog"
-  description: "descrição em breve"
+  description: "O Learning Canvas é uma ferramenta para a promoção da aprendizagem emergente. Foi criada com o propósito de organizar ideias e experiências sobre um tema problematizado durante uma discussão facilitada. Irei demonstrar como podemos aplica-lo para descobrir features para o backlog do produto com base na problematização do cliente."
   subtype: presentation
   speakers: [1]
 -
   id: 035
-  title: "Palestra em breve" # Manter-se ágil em meio à cultura tradicionalista
-  description: "descrição em breve" # Nessa apresentação será descrita a experiência de introduzir métodos ágeis na TI de uma empresa de ramo tradicional em que a cultura é fortemente hierárquica e que compra as melhores práticas.
+  title: "Manter-se ágil em meio à cultura tradicionalista"
+  description: "Nessa apresentação será descrita a experiência de introduzir métodos ágeis na TI de uma empresa de ramo tradicional em que a cultura é fortemente hierárquica e que compra as melhores práticas."
   subtype: presentation
-  #speakers: []
+  speakers: [36]
 -
   id: 036
   title: "Entregando software à moda da casa com DevOps Tools"

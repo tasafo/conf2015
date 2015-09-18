@@ -14,15 +14,15 @@
   id: 2
   name: "Ramon"
   surname: "Rabello"
-  company: "BB Tecnologia e Serviços, Android na Rede"
-  title: "Android Consultant"
+  company: "BB Tecnologia e Serviços"
+  title: "Analista Especialista, Líder de Inovação, Educador Corporativo Mobile, Instrutor Android"
   bio: "Membro da Comunidade Tá Safo!, entusiasta de agilidade e, atualmente, analista especialista Mobile na BB Tecnologia e Serviços. Desenvolvedor e evangelista Android há 7 anos, criou o 'Android na Rede', uma alternativa de divulgar o uso da plataforma na região e no resto do Brasil, por meio de artigos, workshops e treinamentos."
-  thumbnailUrl: ramon-rabello.png
+  thumbnailUrl: ramon-rabello.jpg
   rockstar: true
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonrabello"}
     - {name: "twitter", link: "https://twitter.com/ramonrabello"}
     - {name: "github", link: "https://github.com/ramonrabello"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonrabello"}
 -
   id: 3
   name: "Breno"
@@ -400,20 +400,47 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jorgealmoas"}
     - {name: "twitter", link: "https://twitter.com/jorgealmoas"}
+-
+  id: 34
+  name: "Marcelo"
+  surname: "Andrade"
+  company: "Tá safo!"
+  title: "Go Horse Certified Specialist"
+  bio: "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios."
+  thumbnailUrl: marcelo-andrade.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/mfandrade"}
+    - {name: "twitter", link: "https://twitter.com/mfandrade"}
+    - {name: "github", link: "https://github.com/mfandrade"}
+-
+  id: 35
+  name: "João"
+  surname: "Novais"
+  company: "SERPRO"
+  title: "Analista de Negócio"
+  bio: "Analista de Negócios no SERPRO onde atua também como Agile Coach por gostar de desafiar a capacidade de realização das pessoas e o 'status quo' dos processos. Com mais de 10 anos de experiência em TI, atuou em vários cargos da Engenharia de Software e de Infraestrutura em segmentos como: Segurança Pública, Fazenda Estadual e Imprensa Nacional. Atualmente é também organizador de eventos da comunidade ágil e livre; fundador da iniciativa agileminds.me que leva a agilidade para além do mundo do software e um apaixonado pelo escotismo."
+  thumbnailUrl: joao-novais.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/joaopaulonovais"}
+    - {name: "twitter", link: "https://twitter.com/n0va1s"}
+    - {name: "github", link: "https://github.com/n0va1s"}
+-
+  id: 36
+  name: "Ademir"
+  surname: "Silva"
+  company: "Siderúrgica Norte Brasil"
+  title: "Analista de Sistemas Sênior"
+  bio: "Desenvolvedor de software, Professor, Ciclista, Apaixonado por tecnologia. Encontrou nos métodos ágeis sentido para desenvolver produtos e pessoas de forma sustentável. Atualmente Analista Sênior, atuando em projetos de software como Scrum Master e Líder técnico, na Siderúrgica Norte Brasil. Mestrando em Engenharia de produção pela UFPE. Ciência da Computação pela UFT. CSM. CSPO."
+  thumbnailUrl: ademir-silva.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/ademirjsilva"}
+    - {name: "twitter", link: "https://twitter.com/ademirjs"}
+    - {name: "github", link: "http://github.com/ademirto"}
 #-
-#  id: 34
-#  name: "Marcelo"
-#  surname: "Andrade"
-#  company: "TRT"
-#  title: "Community Manager at GDG Belém, Analista no TRT"
-#  bio: "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios."
-#  thumbnailUrl: marcelo-andrade.jpg
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/mfandrade"}
-#    - {name: "github", link: "https://github.com/mfandrade"}
-#-
-#  id: 35
+#  id: 37
 #  name: "Eduardo"
 #  surname: "Guerra"
 #  company: "Global Innovation"
