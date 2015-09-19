@@ -439,8 +439,19 @@
     - {name: "linkedin", link: "http://br.linkedin.com/in/ademirjsilva"}
     - {name: "twitter", link: "https://twitter.com/ademirjs"}
     - {name: "github", link: "http://github.com/ademirto"}
+-
+  id: 37
+  name: "Diego"
+  surname: "Pinheiro"
+  company: "Sinextra Game Studio"
+  title: "Desenvolvedor de Games, Sistemas Desktop e Mobile"
+  bio: "Sócio Fundador da Sinextra Game Studio, Engenheiro da Computação e Mestre em Computação Aplicada."
+  thumbnailUrl: diego-pinheiro.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/diegocpinheiro"}
 #-
-#  id: 37
+#  id: 38
 #  name: "Eduardo"
 #  surname: "Guerra"
 #  company: "Global Innovation"

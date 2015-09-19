@@ -91,10 +91,10 @@
   speakers: [19]
 -
   id: 012
-  title: "Palestra em breve" # Desenvolvimento de Jogos Mobile com Monogame
-  description: "descrição em breve" # Demonstrar o fluxo do desenvolvimento e técnicas de implementação de jogos para as plataformas Mobile Android, IOS e Windows Phone,  utilizando o framework Monogame e Mono em conjunto com as IDEs Visual Studio e Xamarin Studio.
+  title: "Desenvolvimento de Jogos Mobile com Monogame"
+  description: "Demonstrar o fluxo do desenvolvimento e técnicas de implementação de jogos para as plataformas Mobile Android, IOS e Windows Phone,  utilizando o framework Monogame e Mono em conjunto com as IDEs Visual Studio e Xamarin Studio."
   subtype: presentation
-  #speakers: []
+  speakers: [37]
 -
   id: 013
   title: "Impacto das inovações tecnológicas nas pequenas e médias empresas"
