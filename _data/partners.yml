@@ -27,6 +27,7 @@
     - {name: "Buscatec", description: "Buscatec", link: "http://portalbuscatec.com.br/", imageUrl: "buscatec.png", width: 100px}
     - {name: "Sinextra", description: "Sinextra", link: "http://sinextra.com/", imageUrl: "logo_sinextra.png", width: 180px}
     - {name: "Jambu Tecnologia", description: "Jambu Tecnologia", link: "http://www.jambu.com.br", imageUrl: "jambu.png", width: 180px}
+    - {name: "Supera Nazaré", description: "Supera Nazaré", link: "https://www.facebook.com/superanazare?fref=ts", imageUrl: "supera-nazare.png", width: 180px}
 -
   group: "com apoio de"
   elements:
