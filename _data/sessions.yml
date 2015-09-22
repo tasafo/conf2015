@@ -73,10 +73,10 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
-  title: "Palestra em breve" # Testando canais de aquisição de clientes
-  description: "descrição em breve" # Uma Startup é um emprendimento pensado para crescer rápido. Portanto, a busca pelo crescimento é algo que define as Startup's.  Tração é a evidência quantitativa da demanda do mercado, indicando para as Startup's sua taxa de crescimento. Nessa palestra apresentaremos o método descrito no livro "Traction - A Startup Guide to Getting Customers" de Justin Mares e Gabriel Weinberg, que traz uma abordagem nova para aquisição de clientes baseada em entrevistas com empreendedores de sucesso do Vale do Silício. Apresentaremos os canais de aquisição de clientes mais eficazes segundo o estudo, o método e mostraremos alguns exemplos de aplicação do mesmo.
+  title: "Testando canais de aquisição de clientes"
+  description: "Uma Startup é um emprendimento pensado para crescer rápido. Portanto, a busca pelo crescimento é algo que define as Startup's. Tração é a evidência quantitativa da demanda do mercado, indicando para as Startup's sua taxa de crescimento. Nessa palestra apresentaremos o método descrito no livro 'Traction - A Startup Guide to Getting Customers' de Justin Mares e Gabriel Weinberg, que traz uma abordagem nova para aquisição de clientes baseada em entrevistas com empreendedores de sucesso do Vale do Silício. Apresentaremos os canais de aquisição de clientes mais eficazes segundo o estudo, o método e mostraremos alguns exemplos de aplicação do mesmo."
   subtype: presentation
-  #speakers: [35]
+  speakers: [38]
 -
   id: 010
   title: "Expandindo Ágil: do Marketing ao Departamento Pessoal"
@@ -120,8 +120,8 @@
   service: true
 -
   id: 017
-  title: "Convidado especial"
-  description: "descrição em breve"
+  title: "Repensando as Melhores Práticas"
+  description: "As tecnologias mudam e as idéias também mudam. Novas ferramentas e paradigmas surgem para questionar a *melhor* maneira de escrever código para browsers e servidores. O melhor não é uma constante."
   subtype: presentation
   speakers: [12]
 -

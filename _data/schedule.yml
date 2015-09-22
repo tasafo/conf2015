@@ -2,9 +2,9 @@
   date: "2015-11-21"
   dateReadable: "Novembro 21"
   tracks:
-    - {title: "Desenvolvimen-to, Operações e Testes", color: "#90be4e"}
+    - {title: "Desenvolvimen- to, Operações e Testes", color: "#90be4e"}
     - {title: "Game e Mobile", color: "#03a9f4"}
-    - {title: "Inovação, Empreendedo-rismo e Comunidade", color: "#e91e63"}
+    - {title: "Inovação, Empreendedo- rismo e Comunidade", color: "#e91e63"}
     - {title: "Gestão, Negócios e Agilidade", color: "#e91e63"}
   timeslots:
     - {

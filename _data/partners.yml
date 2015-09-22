@@ -38,6 +38,7 @@
     - {name: "Grok Podcast", description: "Grok Podcast", link: "http://www.grokpodcast.com/", imageUrl: "grokpodcast.png", width: "120px"}
     - {name: "Revista Pará+", description: "Revista Pará+", link: "http://paramais.com.br/", imageUrl: "revista-para-mais.png", width: "120px"}
     - {name: "PRODEPA", description: "PRODEPA", link: "http://www.prodepa.pa.gov.br/", imageUrl: "prodepa.jpg", width: "120px"}
+    - {name: "Tesla Amazing", description: "Tesla Amazing", link: "http://www.teslaamazing.com/", imageUrl: "tesla-amazing.png", width: "120px"}
 # -
 #   group: "Information partners"
 #   elements:

@@ -137,10 +137,10 @@
     - {name: "twitter", link: "https://twitter.com/Isagayno"}
 -
   id: 12
-  name: "Carlos"
+  name: "Caike"
   surname: "Souza"
   company: "Code School"
-  title: "Instructor at Code School"
+  title: "Instructor"
   bio: "É desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
   thumbnailUrl: caike-souza.jpg
   rockstar: true
@@ -450,14 +450,15 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "http://br.linkedin.com/in/diegocpinheiro"}
-#-
-#  id: 38
-#  name: "Eduardo"
-#  surname: "Guerra"
-#  company: "Global Innovation"
-#  title: "Senior Software Architect; Founder at Global Innovation"
-#  bio: "Eduardo Guerra é empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
-#  thumbnailUrl: eduardo-guerra.png
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
+-
+  id: 38
+  name: "Eduardo"
+  surname: "Guerra"
+  company: "Auditracks"
+  title: "Empreendedor"
+  bio: "É empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
+  thumbnailUrl: eduardo-guerra.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
+    - {name: "twitter", link: "https://twitter.com/lealguerra"}
