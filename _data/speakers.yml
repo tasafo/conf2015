@@ -462,3 +462,15 @@
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
     - {name: "twitter", link: "https://twitter.com/lealguerra"}
+-
+  id: 39
+  name: "Marcelo"
+  surname: "Toledo"
+  company: "Locaweb"
+  title: "Especialista em Qualidade de Software"
+  bio: "QA nato, foco em qualidade, automação e melhoria continua de processos em Agile Testing. Formado em Sistemas de Informação pela Impacta, trabalha com qualidade desde 2004 passando por variados projetos. Hoje é QA na Locaweb, onde busca o crescimento profissional e principalmente o crescimento do time de QA."
+  thumbnailUrl: marcelo-toledo.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAACf17sBQcmkNX1MnZkLYZQi06cCe8JKW18"}
+    - {name: "github", link: "https://github.com/marcelotoledo5000"}

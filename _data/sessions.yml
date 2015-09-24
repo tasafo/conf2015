@@ -5,8 +5,8 @@
   service: true
 -
   id: 002
-  title: "Keynote"
-  description: "Palestra em breve ainda não publicada"
+  title: "Hacking the World"
+  description: "Essa palestra fará um passeio sociológico, organizacional e tecnológico para mostrar que hacking não é algo restrito apenas a sistemas e redes. Hacking pode ser uma atitude que qualquer pessoa pode adotar perante a vida. Nessa palestra iremos contar histórias bem pai d’éguas sobre como adotar a atitude de Thinking Hacker para ajudar organizações, times e indivíduos a mudarem seus mindsets. Claro que esse tipo de abordagem acontece através de uma compreensão sistêmica do processo de construção da inteligência colaborativa presente em qualquer tipo de sistema social (empresas, times, comunidades etc). Por essa razão, prepare-se para receber um verdadeiro ataque DDoS com insights sobre comportamento humano e sobre a dinâmica psicossocial vigente na empresas."
   subtype: keynote
   speakers: [7]
   # language: en
@@ -174,10 +174,10 @@
   speakers: [13]
 -
   id: 026
-  title: "Palestra em breve" # Testes de Integração com foco em APIs
-  description: "descrição em breve" # Precisando testar suas APIs? Compartilhando algumas ideias utilizadas em um projeto de testes focado apenas em testes de integração de APIs.
+  title: "Testes de Integração com foco em APIs"
+  description: "Precisando testar suas APIs? Compartilhando algumas ideias utilizadas em um projeto de testes focado apenas em testes de integração de APIs."
   subtype: presentation
-  #speakers: []
+  speakers: [39]
 -
   id: 027
   title: "Micro interações no seu aplicativo - Como o desenvolvedor deve lidar com isso"
