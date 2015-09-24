@@ -1,45 +1,45 @@
 -
   group: "Título"
   elements:
-    - {name: "Adaptworks", description: "Empresa de treinamentos em metodologias ágeis e referência no mercado brasileiro em formação, coaching e implementação corporativa.", link: "http://www.adaptworks.com.br/", imageUrl: "adaptworks.png", width: 400px}
+    - {name: "Adaptworks", description: "Empresa de treinamentos em metodologias ágeis e referência no mercado brasileiro em formação, coaching e implementação corporativa.", link: "http://www.adaptworks.com.br/", imageUrl: "adaptworks.png", width: 300px, height: 150px}
 -
   group: "Diamond"
   elements:
-    - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
-    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 300px}
-    - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 300px}
-    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 300px}
+    - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 200px, height: 100px}
+    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 200px, height: 100px}
+    - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 200px, height: 100px}
+    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 200px, height: 100px}
 -
   group: "Platinum"
   elements:
-    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
+    #- {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 180px, height: 90px}
 -
   group: "Gold"
   elements:
-    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.prontodigital.com.br/", imageUrl: "pronto-digital.png", width: 300px}
+    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.prontodigital.com.br/", imageUrl: "pronto-digital.png", width: 160px, height: 100px}
 -
   group: "Silver"
   elements:
-    - {name: "Sol Informática", description: "Sol Informática", link: "http://www.intersol.com.br/Index.sol", imageUrl: "logo_sol_black.png", width: 300px}
+    - {name: "Sol Informática", description: "Sol Informática", link: "http://www.intersol.com.br/Index.sol", imageUrl: "logo_sol_black.png", width: 140px, height: 70px}
 -
   group: "Bronze"
   elements:
-    - {name: "Coyoti", description: "Coyoti", link: "http://coyoti.com.br/", imageUrl: "coyoti.png", width: 100px}
-    - {name: "Buscatec", description: "Buscatec", link: "http://portalbuscatec.com.br/", imageUrl: "buscatec.png", width: 100px}
-    - {name: "Sinextra", description: "Sinextra", link: "http://sinextra.com/", imageUrl: "logo_sinextra.png", width: 180px}
-    - {name: "Jambu Tecnologia", description: "Jambu Tecnologia", link: "http://www.jambu.com.br", imageUrl: "jambu.png", width: 180px}
-    - {name: "Supera Nazaré", description: "Supera Nazaré", link: "https://www.facebook.com/superanazare?fref=ts", imageUrl: "supera-nazare.png", width: 180px}
+    - {name: "Coyoti", description: "Coyoti", link: "http://coyoti.com.br/", imageUrl: "coyoti.png", width: 120px, height: 60px}
+    - {name: "Buscatec", description: "Buscatec", link: "http://portalbuscatec.com.br/", imageUrl: "buscatec.png", width: 120px, height: 60px}
+    - {name: "Sinextra", description: "Sinextra", link: "http://sinextra.com/", imageUrl: "logo_sinextra.png", width: 120px, height: 60px}
+    - {name: "Jambu Tecnologia", description: "Jambu Tecnologia", link: "http://www.jambu.com.br", imageUrl: "jambu.png", width: 120px, height: 60px}
+    - {name: "Supera Nazaré", description: "Supera Nazaré", link: "https://www.facebook.com/superanazare?fref=ts", imageUrl: "supera-nazare.png", width: 120px, height: 60px}
 -
   group: "com apoio de"
   elements:
-    - {name: "Caelum", description: "Caelum", link: "https://www.caelum.com.br/", imageUrl: "caelum-logo.svg", width: "200px"}
-    - {name: "Sucesu-Pará", description: "Sociedade de Usuários de Informática e Telecomunicações", link: "http://www.pa.sucesu.org.br/", imageUrl: "sucesu.jpg", width: "200px"}
-    - {name: "Agile Trends", description: "Agile Trends", link: "http://agiletrendsbr.com/", imageUrl: "agiletrends.png", width: "120px"}
-    - {name: "Agile Brazil", description: "Agile Brazil", link: "http://www.agilebrazil.com/2015/", imageUrl: "agilebrazil.jpeg", width: "120px"}
-    - {name: "Grok Podcast", description: "Grok Podcast", link: "http://www.grokpodcast.com/", imageUrl: "grokpodcast.png", width: "120px"}
-    - {name: "Revista Pará+", description: "Revista Pará+", link: "http://paramais.com.br/", imageUrl: "revista-para-mais.png", width: "120px"}
-    - {name: "PRODEPA", description: "PRODEPA", link: "http://www.prodepa.pa.gov.br/", imageUrl: "prodepa.jpg", width: "120px"}
-    - {name: "Tesla Amazing", description: "Tesla Amazing", link: "http://www.teslaamazing.com/", imageUrl: "tesla-amazing.png", width: "120px"}
+    - {name: "Caelum", description: "Caelum", link: "https://www.caelum.com.br/", imageUrl: "caelum-logo.svg", width: 100px, height: 50px}
+    - {name: "Sucesu-Pará", description: "Sociedade de Usuários de Informática e Telecomunicações", link: "http://www.pa.sucesu.org.br/", imageUrl: "sucesu.jpg", width: 100px, height: 50px}
+    - {name: "Agile Trends", description: "Agile Trends", link: "http://agiletrendsbr.com/", imageUrl: "agiletrends.png", width: 100px, height: 50px}
+    - {name: "Agile Brazil", description: "Agile Brazil", link: "http://www.agilebrazil.com/2015/", imageUrl: "agilebrazil.jpeg", width: 100px, height: 50px}
+    - {name: "Grok Podcast", description: "Grok Podcast", link: "http://www.grokpodcast.com/", imageUrl: "grokpodcast.png", width: 100px, height: 50px}
+    - {name: "Revista Pará+", description: "Revista Pará+", link: "http://paramais.com.br/", imageUrl: "revista-para-mais.png", width: 100px, height: 50px}
+    - {name: "PRODEPA", description: "PRODEPA", link: "http://www.prodepa.pa.gov.br/", imageUrl: "prodepa.jpg", width: 100px, height: 50px}
+    - {name: "Tesla Amazing", description: "Tesla Amazing", link: "http://www.teslaamazing.com/", imageUrl: "tesla-amazing.png", width: 100px, height: 50px}
 # -
 #   group: "Information partners"
 #   elements:
