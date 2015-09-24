@@ -137,11 +137,11 @@
     - {name: "twitter", link: "https://twitter.com/Isagayno"}
 -
   id: 12
-  name: "Caike"
+  name: "Carlos"
   surname: "Souza"
   company: "Code School"
   title: "Instructor"
-  bio: "É desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
+  bio: "É desenvolvedor web e instrutor do Code School. Formado em Ciência da Computação pelo CESUPA, começou em Belém sua carreira na área de tecnologia. Já trabalhou com inúmeras tecnologias em diversas empresas no Brasil e no mundo, e acredita que não existe forma errada de tomar Açaí."
   thumbnailUrl: caike-souza.jpg
   rockstar: true
   social:

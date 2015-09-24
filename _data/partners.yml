@@ -8,6 +8,7 @@
     - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 300px}
     - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 300px}
     - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 300px}
+    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 300px}
 -
   group: "Platinum"
   elements:
