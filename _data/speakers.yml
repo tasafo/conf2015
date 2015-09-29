@@ -76,9 +76,9 @@
   id: 7
   name: "Manoel"
   surname: "Pimentel"
-  company: "Adaptworks, Agile Alliance Brazil"
-  title: "Agile Coach at Adaptworks and Chairman at Agile Alliance Brazil"
-  bio: ""
+  company: "Adaptworks / Agile Alliance Brazil"
+  title: "Agile Coach / Chairman"
+  bio: "É coach, blogueiro, palestrante, inovador, rule-breaker e um organocientista viciado em grandes desafios. Trabalha há mais de 18 anos na área de TI, onde possui uma profunda experiência em ajudar, como coach ou trainner, a transição/experimentação Ágil (Scrum, XP, FDD, Lean) em grandes e complexas organizações (Como Stefanini, Sicoob, Bancoob, Oi, GVT, Petrobras, Ita, Localiza). <br><br> É um dos pioneiros no movimento Ágil no Brasil. Ele também é o fundador da Revisa e Blog Visão Ágil e do blog stoosians.org (movimento Stoos). Já escreveu para portais internacionais como InfoQ, AgileJournal, ScrumAlliance, AgileAlliance e revistas como SQL Magazine, JavaMagazine. Mundo J e outras. Foi o revisor da versão oficial do Manifesto Ágil em português, escreveu o prefácio do livro Agile Project Management e do livro Scrum - Como gerenciar projetos com sucesso. Também ajudou na tradução do livro Kanban em 10 passos(InfoQ). Foi chairman do AgileBrazil 2013, que é a principal conferência brasileira sobre métodos ágeis e que nessa edição atingiu a marca história de 1000 participantes. Já organizou e co-organizou eventos como TDC (The Developers Conference) e Maré de Agilidade. <br><br> É um dos poucos licensed trainer de Management 3.0 no Brasil, mas além de suas certificações, Manoel é um catailisador e socializador de ideas como Managing Dojo, TAE (Teoria da Alavancagem Estrelar), Manifesto for Meta-Agile, Coaching para Metalhoria, MVI (Minimum Viable Improvement), Team Fusing e AgileMMA (Agile Mixed Methodologies Adoption) e Organoplasticidade."
   thumbnailUrl: manoel-pimentel.png
   rockstar: true
   social:
@@ -103,7 +103,7 @@
   surname: "Bastos"
   company: "Dekode"
   title: "CTO"
-  bio: "Henrique é apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
+  bio: "É apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
   thumbnailUrl: henrique-bastos.png
   rockstar: true
   social:

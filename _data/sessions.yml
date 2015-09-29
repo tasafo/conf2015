@@ -257,7 +257,7 @@
   speakers: [4]
 -
   id: 040
-  title: "Convidado especial"
-  description: "descrição em breve"
+  title: "Qual é a sua desculpa?"
+  description: 'Desculpas não faltam nas empresas e ambientes onde softwares são desenvolvidos: "A empresa não deixa eu fazer testes", "o vendedor vendeu mais do que conseguimos entregar", "tudo é feito na correria", "a empresa não dá treinamento para os devs", "não temos processo", "o usuário é burro", "o cliente não sabe priorizar", etc. Nessa conversa, vamos investigar o que está por trás dessas expressões e principalmente o que podemos fazer proativamente para virar a mesa e remover o desperdício e o sofrimento do desenvolvimento de software.'
   subtype: presentation
   speakers: [9]
