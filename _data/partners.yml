@@ -30,6 +30,7 @@
     - {name: "Jambu Tecnologia", description: "Jambu Tecnologia", link: "http://www.jambu.com.br", imageUrl: "jambu.png", width: 120px, height: 60px}
     - {name: "Supera Nazaré", description: "Supera Nazaré", link: "https://www.facebook.com/superanazare?fref=ts", imageUrl: "supera-nazare.png", width: 120px, height: 60px}
     - {name: "Totalseg", description: "Totalseg", link: "http://www.totalseg.com.br/", imageUrl: "totalseg.png", width: 120px, height: 60px}
+    - {name: "Execute TI", description: "Execute TI", link: "http://executeti.com.br/site/", imageUrl: "execute.png", width: 120px, height: 60px}
 -
   group: "com apoio de"
   elements:
