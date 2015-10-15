@@ -151,45 +151,45 @@ ticketsOffers:
   validThrough: "2015-08-31T19:59"
   soldOut: true
  -
-  name: "Early bird"
+  name: "Tá Safo Conf 2015 + V Fórum Brasil-Amazônia de TIC"
   price: "100"
   priceCurrency: "R$"
-  ticketsNumber: "100"
+  ticketsNumber: ""
   ribbon: "-20%"
-  featured: true
+  #featured: true
   buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
   buyButtonText: "Compre agora"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-08-31T20:00"
-  validThrough: "2015-10-23T23:59"
+  validFrom: "2015-10-14T08:00"
+  validThrough: "2015-11-21T23:59"
   disabled: false
  -
-  name: "Preço normal"
-  price: "120"
+  name: "V Fórum Brasil-Amazônia de TIC "
+  price: "40"
   priceCurrency: "R$"
   ticketsNumber: ""
   buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Compre agora"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-10-23T22:00"
-  validThrough: "2015-11-20T23:59"
+  validFrom: "2015-10-14T08:00"
+  validThrough: "2015-11-21T23:59"
   # soldOut: true
-  disabled: true
+  disabled: false
   # soldOutText: "Sold Out"
  -
-  name: "Última hora"
-  price: "150"
+  name: "PROMOÇÃO INSCRIÇÃO EM GRUPO"
+  price: "60"
   priceCurrency: "R$"
   ticketsNumber: ""
   buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Compre agora"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-08-20T10:00"
-  validThrough: "2015-10-23T23:59"
+  validFrom: "2015-10-14T08:00"
+  validThrough: "2015-11-21T23:59"
   # soldOut: true
-  disabled: true
+  disabled: false
 
 # Footer
 socialLinks:
