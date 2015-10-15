@@ -31,6 +31,7 @@
     - {name: "Supera Nazaré", description: "Supera Nazaré", link: "https://www.facebook.com/superanazare?fref=ts", imageUrl: "supera-nazare.png", width: 120px, height: 60px}
     - {name: "Totalseg", description: "Totalseg", link: "http://www.totalseg.com.br/", imageUrl: "totalseg.png", width: 120px, height: 60px}
     - {name: "Execute TI", description: "Execute TI", link: "http://executeti.com.br/site/", imageUrl: "execute.png", width: 120px, height: 60px}
+    - {name: "Need Training", description: "Need Training", link: "http://needtraining.com.br/", imageUrl: "need_training.png", width: 120px, height: 60px}
 -
   group: "com apoio de"
   elements:
