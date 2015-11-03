@@ -14,7 +14,7 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
+  id: 007
   title: "MEAN - Full Stack JavaScript"
   description: "MEAN é um acrônimo de quatro tecnologias do ecossitema JavaScript: MongoDB, Express, AngularJS e NodeJS. Essas tecnologias juntas permitem a criação de aplicações utilizando a linguagem JavaScript de ponta a ponta. Nesta palestra será apresentado como podemos utilizá-las s para construir Single Page Applications (SPA) com Javascript no Back-end e banco de dados NoSQL"
   subtype: presentation
@@ -52,7 +52,7 @@
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 007
+  id: 003
   title: "Tudo aquilo que você precisa saber sobre Vagrant e Puppet"
   description: "Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps. Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na área."
   subtype: presentation
