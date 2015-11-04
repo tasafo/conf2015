@@ -126,8 +126,8 @@
   speakers: [12]
 -
   id: 018
-  title: "Os Perigos da Web"
-  description: "Você lê sobre SQL injection, Cross-site scripting e que não deve armazenar senhas diretamente no banco de dados. Você ouve conselhos de como proteger a sua aplicação contra essas vulnerabilidades e toma algumas medidas básicas mas não sabe exatamente como elas funcionam e como algo pode dar errado. <br> Vamos ver como tudo pode dar errado..."
+  title: "Atacando Aplicações Web"
+  description: "Para garantir a segurança de uma aplicação, o desenvolvedor deve primeiramente saber como as vulnerabilidades são exploradas e os ataques são executados.<br>A maioria dos materiais educacionais de segurança utilizam vulnerabilidades triviais ou cenários rídiculos. Para corrigir isso, vamos demostrar alguns cenários reais de vulnerabilidade e como explorá-los."
   subtype: presentation
   speakers: [17]
 -
