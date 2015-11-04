@@ -278,9 +278,8 @@
   thumbnailUrl: evandro-paes.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigosicarelli"}
-    - {name: "twitter", link: "https://twitter.com/rsicarelli"}
-    - {name: "github", link: "https://github.com/sicachester"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/evandrompaes/pt"}
+    - {name: "twitter", link: "https://twitter.com/evandro_paes"}
 -
   id: 24
   name: "Larissa"
