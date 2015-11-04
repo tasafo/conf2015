@@ -180,8 +180,8 @@
   speakers: [39]
 -
   id: 027
-  title: "Micro interações no seu aplicativo - Como o desenvolvedor deve lidar com isso"
-  description: "Cada interação importa: seja um feedback de toque ou uma animação. Iremos discutir como nós, desenvolvedores, precisamos adquirir essa cultura e como podemos identificar pontos importantes da nossa aplicação."
+  title: "Criando Aplicativo Multiplataforma com Intel XDK"
+  description: "O objetivo da apresentação é mostrar como desenvolver de forma fácil e rápida aplicativos móveis híbridos com a ferramenta Intel XDK. Abordarei sobre aplicativos híbridos, framewroks de desenvolvimento mobile, sobre a ferramenta e suas funcionalidades, além da demonstração de um aplicativo."
   subtype: presentation
   speakers: [23]
 -
