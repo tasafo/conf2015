@@ -180,7 +180,7 @@
   speakers: [39]
 -
   id: 027
-  title: "Criando Aplicativo Multiplataforma com Intel XDK"
+  title: "Desenvolvimento de Aplicativo Mobile Multiplataforma com Intel XDK"
   description: "O objetivo da apresentação é mostrar como desenvolver de forma fácil e rápida aplicativos móveis híbridos com a ferramenta Intel XDK. Abordarei sobre aplicativos híbridos, framewroks de desenvolvimento mobile, sobre a ferramenta e suas funcionalidades, além da demonstração de um aplicativo."
   subtype: presentation
   speakers: [23]
