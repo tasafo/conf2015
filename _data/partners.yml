@@ -44,6 +44,7 @@
     - {name: "Revista Pará+", description: "Revista Pará+", link: "http://paramais.com.br/", imageUrl: "revista-para-mais.png", width: 100px, height: 50px}
     - {name: "PRODEPA", description: "PRODEPA", link: "http://www.prodepa.pa.gov.br/", imageUrl: "prodepa.jpg", width: 100px, height: 50px}
     - {name: "Tesla Amazing", description: "Tesla Amazing", link: "http://www.teslaamazing.com/", imageUrl: "tesla-amazing.png", width: 100px, height: 50px}
+    - {name: "SEBRAE", description: "SEBRAE", link: "http://www.sebrae.com.br/sites/PortalSebrae/ufs/pa?codUf=15", imageUrl: "sebrae.jpg", width: 100px, height: 50px}
 # -
 #   group: "Information partners"
 #   elements:
