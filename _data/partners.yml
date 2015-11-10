@@ -8,7 +8,7 @@
     - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 250px, height: 80px}
     - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 250px, height: 80px}
     - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 250px, height: 80px}
-    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 250px, height: 80px}
+    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 290px, height: 80px}
     - {name: "BB Tecnologia e Serviços", description: "BB Tecnologia e Serviços", link: "http://www.bbtecno.com.br/", imageUrl: "bb-tecnologia.png", width: 250px, height: 80px}
 -
   group: "Platinum"
@@ -22,6 +22,7 @@
   group: "Silver"
   elements:
     - {name: "Sol Informática", description: "Sol Informática", link: "http://www.intersol.com.br/Index.sol", imageUrl: "logo_sol_black.png", width: 140px, height: 70px}
+    - {name: "Inteceleri", description: "Inteceleri - Consultoria em Projetos e Educação", link: "http://www.inteceleri.com.br/", imageUrl: "intercelleri.png", width: 160px, height: 90px}
 -
   group: "Bronze"
   elements:
