@@ -5,11 +5,11 @@
 -
   group: "Diamond"
   elements:
-    - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 250px, height: 80px}
-    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 250px, height: 80px}
-    - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 250px, height: 80px}
-    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 290px, height: 80px}
-    - {name: "BB Tecnologia e Serviços", description: "BB Tecnologia e Serviços", link: "http://www.bbtecno.com.br/", imageUrl: "bb-tecnologia.png", width: 250px, height: 80px}
+    - {name: "Thoughtworks", description: "Thoughtworks", link: "http://www.thoughtworks.com/pt/", imageUrl: "thoughtworks.jpg", width: 250px, height: 50px}
+    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "https://www.scrumalliance.org/", imageUrl: "scrumalliance.jpg", width: 250px, height: 50px}
+    - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 250px, height: 50px}
+    - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 250px, height: 50px}
+    - {name: "BB Tecnologia e Serviços", description: "BB Tecnologia e Serviços", link: "http://www.bbtecno.com.br/", imageUrl: "bb-tecnologia.png", width: 250px, height: 50px}
 -
   group: "Platinum"
   elements:
