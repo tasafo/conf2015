@@ -10,7 +10,7 @@
     - {name: "WSO2", description: "WSO2", link: "http://wso2.com/", imageUrl: "WSO2.jpg", width: 250px, height: 50px}
     - {name: "Code School", description: "Code School", link: "https://www.codeschool.com/", imageUrl: "code-school.png", width: 250px, height: 50px}
     - {name: "BB Tecnologia e Serviços", description: "BB Tecnologia e Serviços", link: "http://www.bbtecno.com.br/", imageUrl: "bb-tecnologia.png", width: 250px, height: 50px}
-    #- {name: "Pronto Net", description: "Pronto Net", link: "http://www.pronto.net.br/", imageUrl: "pronto-telecom.png", width: 250px, height: 50px}
+    - {name: "Pronto Net", description: "Pronto Net", link: "http://www.pronto.net.br/", imageUrl: "pronto-telecom.png", width: 250px, height: 50px}
 -
   group: "Platinum"
   elements:
@@ -48,6 +48,7 @@
     - {name: "Tesla Amazing", description: "Tesla Amazing", link: "http://www.teslaamazing.com/", imageUrl: "tesla-amazing.png", width: 100px, height: 50px}
     - {name: "SEBRAE", description: "SEBRAE", link: "http://www.sebrae.com.br/sites/PortalSebrae/ufs/pa?codUf=15", imageUrl: "sebrae.jpg", width: 100px, height: 50px}
     - {name: "SINDPD-PA", description: "SINDPD-PA", link: "http://www.sindpdpa.org.br", imageUrl: "sindpdpa.png", width: 100px, height: 50px}
+    - {name: "InfoQ Brasil", description: "InfoQ Brasil", link: "http://www.infoq.com/br", imageUrl: "InfoQ.png", width: 100px, height: 50px}
 # -
 #   group: "Information partners"
 #   elements:
