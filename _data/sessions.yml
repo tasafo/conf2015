@@ -30,7 +30,7 @@
   speakers: [2]
   # language: en
   # complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://pt.slideshare.net/ramonrabello/android-marshmallow-na-pratica"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
@@ -49,7 +49,7 @@
   speakers: [3]
   # language: uk
   # complexity: "Beginner"
-  # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: "http://pt.slideshare.net/BrenoCampos/voce-devia-conhecer-o-poder-das-metricas"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
@@ -148,6 +148,7 @@
   description: "Apresentar relato de experiência da adoção de métodos Ágeis em duas Pró-Reitorias da UFPA (PROEG e PROEX). Enfatizando as lições aprendidas, mudanças na cultura organizacional e os desafios encontrados para evolução do processo de acordo  com as necessidades da  Universidade. "
   subtype: presentation
   speakers: [6, 10]
+  presentation: "http://pt.slideshare.net/DiegoLisba/adoo-de-prticas-geis-na-proeg-e-proex"
 -
   id: 022
   title: "Oracle Nashorn, a nova engine Java Script para JVM"
@@ -166,6 +167,7 @@
   description: "Em 2013, a Dafiti já era bem conhecida do público que não resistia à uma promoção de sapato. Nesse período, já não podíamos mais esperar pelo cliente acessar ao nosso site fisgado por um banner, newsletter e etc. Com um aplicativo Android resolvemos levar o maior e-commerce de moda, para uma base gigante de usuários que tem o robô como sistema operacional de smartphones, e o melhor, em qualquer hora e lugar onde o cliente esteja. No mobile conseguimos aproximar ainda mais essa relação com o cliente. <br> E o que era apenas uma nova forma de vender, se tornou num dos principais canais de venda. Como toda caminhada nos leva a percalços, passamos por muitos erros e acertos que pensamos em dividir com a comunidade, para nos ajudar a debater o desenvolvimento de um bom aplicativo focado em m-commerce. <br> Vamos conversar sobre nosso app Android, como fazemos dele um bom produto não somente para vender mas também para desenvolver."
   subtype: presentation
   speakers: [28]
+  presentation: "http://pt.slideshare.net/EduardoLieuthier/dafiti-app-android-um-app-robusto-mas-sem-sair-da-moda"
 -
   id: 025
   title: "Software como investimento"
@@ -178,6 +180,7 @@
   description: "Precisando testar suas APIs? Compartilhando algumas ideias utilizadas em um projeto de testes focado apenas em testes de integração de APIs."
   subtype: presentation
   speakers: [39]
+  presentation: "https://docs.google.com/presentation/d/1pKvAxjdlfkWj8EINJalltqR1T0Dhul5g3Kt9N4uThtQ/pub?start=false&loop=false&delayms=3000#slide=id.p"
 -
   id: 027
   title: "Desenvolvimento de Aplicativo Mobile Multiplataforma com Intel XDK"
@@ -213,6 +216,7 @@
   description: "A palestra tem por objetivo apresentar as principais métricas de código orientado a objetos como suporte à tarefa de identificação de problemas de projeto de software, em especial os 'maus cheiros' de código que evidenciam melhorias com refatoração de código."
   subtype: presentation
   speakers: [20]
+  presentation: "http://pt.slideshare.net/claudiomartins2000/palestra-tasafo-conf2015-refatorao-com-mtricas"
 -
   id: 033
   title: "Produtividade Maxima com Android Libs"
@@ -261,3 +265,4 @@
   description: 'Desculpas não faltam nas empresas e ambientes onde softwares são desenvolvidos: "A empresa não deixa eu fazer testes", "o vendedor vendeu mais do que conseguimos entregar", "tudo é feito na correria", "a empresa não dá treinamento para os devs", "não temos processo", "o usuário é burro", "o cliente não sabe priorizar", etc. Nessa conversa, vamos investigar o que está por trás dessas expressões e principalmente o que podemos fazer proativamente para virar a mesa e remover o desperdício e o sofrimento do desenvolvimento de software.'
   subtype: presentation
   speakers: [9]
+  presentation: "https://speakerdeck.com/henriquebastos/qual-e-a-sua-desculpa"

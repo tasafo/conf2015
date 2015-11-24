@@ -25,7 +25,7 @@
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
 						{% if session.presentation %}
-						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">Ver apresentação</a>
 						{% endif %}
 						<hr>
 						<div class="people-details">
@@ -43,7 +43,7 @@
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
