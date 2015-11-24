@@ -43,6 +43,9 @@
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
+                                        {% if session.presentation %}
+                                        <span class="theme-presentation" style="color: blue;">Slides disponíveis</span>
+                                        {% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
@@ -80,6 +83,6 @@
         </div>
         {% endfor %}
     </div>
-  
+
 </section>
 <!-- End Schedule Section -->
