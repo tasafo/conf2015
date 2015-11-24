@@ -40,7 +40,7 @@
   speakers: [31]
   # language: en
   # complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://pt.slideshare.net/almeidamarcell/criando-funcionalidades-que-realmente-importam-t-safo-conf"
 -
   id: 006
   title: "Você devia conhecer o poder das métricas"
@@ -69,7 +69,7 @@
   speakers: [21]
   # language: en
   # complexity: "Expert"
-  # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  presentation: "http://pt.slideshare.net/jgabriellima/criando-aplicaes-mobile-hbridas-com-ionic-framework?ref=https://www.palestrascoletivas.com.br/talks/criando-aplicacoes-mobile-hibridas-com-ionic-framework"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
@@ -83,6 +83,7 @@
   description: "O movimento de mudança e melhoria do processo de trabalho que já havia transformado o Desenvolvimento de Software na DígithoBrasil se espalhou por todos os setores. E em cada lugar, se fez necessária uma adaptação cuidadosa dos métodos ágeis, com cenários bastante distintos, e que trouxe resultados rápidos e integralmente compartilhados."
   subtype: presentation
   speakers: [32, 33]
+  presentation: "http://pt.slideshare.net/samuelmbc/expandindo-gil-do-marketing-ao-departamento-t-safo-conf-2015"
 -
   id: 011
   title: "ESB na prática: Como integrar sistemas corporativos de forma eficaz"
@@ -259,6 +260,7 @@
   description: "Nessa apresentação são abordados os conceitos de Fluxo, Pensamento Sistêmico, Limites, entre outros, que são importantes para o entendimento da cultura e do que há por trás do Kanban. O principal objetivo dessa apresentação é não só uma visão geral mas ajudar no ponta pé inicial para a adoção do Kanban."
   subtype: presentation
   speakers: [4]
+  presentation: "http://pt.slideshare.net/Pigor/kanban-mais-que-um-quadro-na-parede"
 -
   id: 040
   title: "Qual é a sua desculpa?"
