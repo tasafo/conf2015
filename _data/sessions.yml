@@ -226,6 +226,7 @@
   description: "Algumas tarefas em Android não são tão simples de serem implementadas, possuem um certo nível de complexidade e trabalho. Nesta palestra irei mostrar de forma sucinta como configurar e utilizar as bibliotecas mais produtivas utilizadas em Android. Irei falar sobre os guide lines e a importância de sua utilização."
   subtype: presentation
   speakers: [25]
+  presentation: "http://pt.slideshare.net/BryanOllivie1/produtividade-maxima-com-libs-android"
 -
   id: 034
   title: "Como usar o Learning Canvas para descobrir Features para o Product Backlog"
