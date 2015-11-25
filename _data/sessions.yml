@@ -19,6 +19,7 @@
   description: "MEAN é um acrônimo de quatro tecnologias do ecossitema JavaScript: MongoDB, Express, AngularJS e NodeJS. Essas tecnologias juntas permitem a criação de aplicações utilizando a linguagem JavaScript de ponta a ponta. Nesta palestra será apresentado como podemos utilizá-las s para construir Single Page Applications (SPA) com Javascript no Back-end e banco de dados NoSQL"
   subtype: presentation
   speakers: [5]
+  presentation: "http://pt.slideshare.net/kaiovalente/mean-full-stack-javascript-tasafoconf-2015"
   # language: en
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -126,6 +127,7 @@
   description: "As tecnologias mudam e as idéias também mudam. Novas ferramentas e paradigmas surgem para questionar a *melhor* maneira de escrever código para browsers e servidores. O melhor não é uma constante."
   subtype: presentation
   speakers: [12]
+  presentation: "https://speakerdeck.com/caike/repensando-melhores-praticas"
 -
   id: 018
   title: "Atacando Aplicações Web"
@@ -251,6 +253,7 @@
   description: "Programar um jogo é um grande desafio, o qual envolve o tratamento de diversos aspectos de sua concepção e criação, desde um bom controle de estados de um jogador, registro de ações de inputs e configuração de diferentes controles a serem suportados, tratamento adequado de um 'game loop', inteligência artificial de inimigos e etc. Por meio desta palestra espero compartilhar meus conhecimentos sobre esses problemas recorrentes na programação e falar sobre algumas boas formas de os resolver utilizando design patterns."
   subtype: presentation
   speakers: [26]
+  presentation: "http://pt.slideshare.net/lucmousinho/tsafo-conf-2015-boas-prticas-na-implementao-de-um-jogo-game-patterns"
 -
   id: 038
   title: "Desbravando a Amazon AWS"
