@@ -140,6 +140,7 @@
   description: "O que é Material Design? Conheça um pouco da história das interfaces gráficas e como a Google evolui seu conceito de UX para padronizar o design em qualquer dispositivo."
   subtype: presentation
   speakers: [22]
+  presentation: "http://pt.slideshare.net/miltonalcantara/introduo-ao-material-design-t-safo-conf"
 -
   id: 020
   title: "Startup Developer Mindset"
@@ -165,6 +166,7 @@
   description: "Veremos como a API TalkBack pode ajudar as pessoas com deficiência a utilizar o smartphone."
   subtype: presentation
   speakers: [24]
+  presentation: "http://pt.slideshare.net/LaraRebel/acessibilidade-em-android-talkback"
 -
   id: 024
   title: "Dafiti App Android: Um app robusto mas sem sair da moda"
