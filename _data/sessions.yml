@@ -147,6 +147,7 @@
   description: "Nunca foi tão simples empreender e é nesse contexto que as startups se destacam como uma alternativa viável e acessível. O desenvolvedor de software faz parte do núcleo deste ecossistema. Mas o cenário de uma startup é diferente do padrão, algumas habilidades e experiências de vida são extremamente úteis pra que a startup evolua, bem como o desenvolvedor seja produtivo e consiga seus objetivos. <br> Essa palestra apresenta alguns valores e habilidades necessárias para um desenvolvedor e que podem fazer a diferença no desenvolvimento de uma startups. Levanta pontos de qual o real papel do mesmo nesse ecossitema e de valores que adicionam valor ao mindset do mesmo."
   subtype: presentation
   speakers: [14]
+  presentation: "http://pt.slideshare.net/marcelioleal/startup-developer-mindset"
 -
   id: 021
   title: "Adoção de Práticas Ágeis na PROEX e PROEG: Reflexões e Aprendizados"
