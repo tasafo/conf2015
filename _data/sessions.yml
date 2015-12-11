@@ -194,6 +194,7 @@
   description: "O objetivo da apresentação é mostrar como desenvolver de forma fácil e rápida aplicativos móveis híbridos com a ferramenta Intel XDK. Abordarei sobre aplicativos híbridos, framewroks de desenvolvimento mobile, sobre a ferramenta e suas funcionalidades, além da demonstração de um aplicativo."
   subtype: presentation
   speakers: [23]
+  presentation: "http://pt.slideshare.net/evandrompaes/desenvolvimento-de-aplicativo-multiplataforma-com-intel-xdk-56014691"
 -
   id: 028
   title: "Como desenhar uma proposta de valor que vai encantar o seu cliente!"
