@@ -58,10 +58,7 @@
   description: "Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps. Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na área."
   subtype: presentation
   speakers: [34]
-  # language: en
-  # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
   title: "Criando aplicações mobile híbridas com Ionic Framework"
@@ -239,6 +236,7 @@
   description: "O Learning Canvas é uma ferramenta para a promoção da aprendizagem emergente. Foi criada com o propósito de organizar ideias e experiências sobre um tema problematizado durante uma discussão facilitada. Irei demonstrar como podemos aplica-lo para descobrir features para o backlog do produto com base na problematização do cliente."
   subtype: presentation
   speakers: [1]
+  presentation: "http://pt.slideshare.net/fabiogr/como-usar-o-learning-canvas-para-descobrir-features-para-o-product-backlog"
 -
   id: 035
   title: "Manter-se ágil em meio à cultura tradicionalista"
@@ -251,6 +249,7 @@
   description: "Ainda existem empresas publicando software em produção enviando arquivos via FTP e 'controlando' a versão de seu código-fonte através de cópias compactadas armazenadas por ordem cronológica. Muitos profissionais realmente não se incomodam em fazer a mesma coisa há anos. É preciso ir além da dedicação e prestatividade, em busca da produtividade. Pretendo demonstrar implementações de técnicas e ferramentas como: controle distribuído de versões, testes automatizados, Integração Contínua, Implantação Contínua e o ápice do DevOps que é a Entrega Contínua de software."
   subtype: presentation
   speakers: [8]
+  presentation: "http://pt.slideshare.net/luizsanches/entregando-software-com-devops-tools"
 -
   id: 037
   title: "Boas práticas na implementação de um jogo: Game programming patterns"
