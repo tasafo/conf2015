@@ -1,58 +1,279 @@
 -
-  id: 307
+  id: 001
+  title: "Credenciamento e café da manhã"
+  place: "Hall"
+  service: true
+-
+  id: 002
+  title: "Hacking the World"
+  description: "Essa palestra fará um passeio sociológico, organizacional e tecnológico para mostrar que hacking não é algo restrito apenas a sistemas e redes. Hacking pode ser uma atitude que qualquer pessoa pode adotar perante a vida. Nessa palestra iremos contar histórias bem pai d’éguas sobre como adotar a atitude de Thinking Hacker para ajudar organizações, times e indivíduos a mudarem seus mindsets. Claro que esse tipo de abordagem acontece através de uma compreensão sistêmica do processo de construção da inteligência colaborativa presente em qualquer tipo de sistema social (empresas, times, comunidades etc). Por essa razão, prepare-se para receber um verdadeiro ataque DDoS com insights sobre comportamento humano e sobre a dinâmica psicossocial vigente na empresas."
+  subtype: keynote
+  speakers: [7]
+  # language: en
+  # complexity: "Intermediate"
+  presentation: "http://pt.slideshare.net/manoelp/hacking-the-world-keynote-tasafoconf2015"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 007
+  title: "MEAN - Full Stack JavaScript"
+  description: "MEAN é um acrônimo de quatro tecnologias do ecossitema JavaScript: MongoDB, Express, AngularJS e NodeJS. Essas tecnologias juntas permitem a criação de aplicações utilizando a linguagem JavaScript de ponta a ponta. Nesta palestra será apresentado como podemos utilizá-las s para construir Single Page Applications (SPA) com Javascript no Back-end e banco de dados NoSQL"
+  subtype: presentation
+  speakers: [5]
+  presentation: "http://pt.slideshare.net/kaiovalente/mean-full-stack-javascript-tasafoconf-2015"
+  # language: en
+  # complexity: "Intermediate"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 004
+  title: "Android Marshmallow na prática"
+  description: "Nesta apresentação irei explicar as principais funcionalidades da versão mais nova do Android que foi lançada durante o Google I/O 2015 e como implementá-las facilmente em um smartphone ou tablet."
+  subtype: presentation
+  speakers: [2]
+  # language: en
+  # complexity: "Intermediate"
+  presentation: "http://pt.slideshare.net/ramonrabello/android-marshmallow-na-pratica"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Criando funcionalidades que realmente importam"
+  description: "Não existe benefício em ter um produto complicado. Por isso é necessário ter princípios antes de sair construindo funcionalidades. Afinal, ninguém quer ter um software Frankenstein. <br/> a) Como dar atenção para as funcionalidades que realmente importam? Como criar algo que as pessoas vão usar todas as horas? <br/> b) Você tem criado funcionalidades que apenas algumas pessoas vão usar em momentos bem específicos? <br/> c) O que você tem feito com funcionalidades “elefantes brancos”? Aquelas que não são ou nunca foram usadas. <br/> d) Quanto você desperdiça ao dar manutenção para funcionalidades pouco utilizadas? <br/> e) Você tem customizado funcionalidades para poucas pessoas usarem toda a hora? Criar isso tem tomado muito tempo da sua equipe?"
+  subtype: presentation
+  speakers: [31]
+  # language: en
+  # complexity: "Intermediate"
+  presentation: "http://pt.slideshare.net/almeidamarcell/criando-funcionalidades-que-realmente-importam-t-safo-conf"
+-
+  id: 006
+  title: "Você devia conhecer o poder das métricas"
+  description: "Então você acredita que a Agilidade é HDD (Heart Driven Development)? Que deve apenas seguir seu coração e estará tudo certo? Que não há necessidade de medições? Venha ouvir um pouco sobre métricas e indicadores ágeis. Meu intuito não é encontrar culpados no processo, e sim medir a saúde e ajudá-lo e encontrar melhorias e ganhos de produtividade."
+  subtype: presentation
+  speakers: [3]
+  # language: uk
+  # complexity: "Beginner"
+  presentation: "http://pt.slideshare.net/BrenoCampos/voce-devia-conhecer-o-poder-das-metricas"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "Tudo aquilo que você precisa saber sobre Vagrant e Puppet"
+  description: "Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps. Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na área."
+  subtype: presentation
+  speakers: [34]
+  # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+-
+  id: 008
+  title: "Criando aplicações mobile híbridas com Ionic Framework"
+  description: "Esta apresentação dará uma visão prática de como utilizar o Ionic framework na construção de aplicativos móveis, comum bom desempenho, utilizando tecnologias como AngularJS, Cordova e diversos recursos do HTML5. "
+  subtype: presentation
+  speakers: [21]
+  # language: en
+  # complexity: "Expert"
+  presentation: "http://pt.slideshare.net/jgabriellima/criando-aplicaes-mobile-hbridas-com-ionic-framework"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 009
+  title: "Testando canais de aquisição de clientes"
+  description: "Uma Startup é um emprendimento pensado para crescer rápido. Portanto, a busca pelo crescimento é algo que define as Startup's. Tração é a evidência quantitativa da demanda do mercado, indicando para as Startup's sua taxa de crescimento. Nessa palestra apresentaremos o método descrito no livro 'Traction - A Startup Guide to Getting Customers' de Justin Mares e Gabriel Weinberg, que traz uma abordagem nova para aquisição de clientes baseada em entrevistas com empreendedores de sucesso do Vale do Silício. Apresentaremos os canais de aquisição de clientes mais eficazes segundo o estudo, o método e mostraremos alguns exemplos de aplicação do mesmo."
+  subtype: presentation
+  speakers: [38]
+-
+  id: 010
+  title: "Expandindo Ágil: do Marketing ao Departamento Pessoal"
+  description: "O movimento de mudança e melhoria do processo de trabalho que já havia transformado o Desenvolvimento de Software na DígithoBrasil se espalhou por todos os setores. E em cada lugar, se fez necessária uma adaptação cuidadosa dos métodos ágeis, com cenários bastante distintos, e que trouxe resultados rápidos e integralmente compartilhados."
+  subtype: presentation
+  speakers: [32, 33]
+  presentation: "http://pt.slideshare.net/samuelmbc/expandindo-gil-do-marketing-ao-departamento-t-safo-conf-2015"
+-
+  id: 011
+  title: "ESB na prática: Como integrar sistemas corporativos de forma eficaz"
+  description: "A integração de sistemas corporativos, tornou-se imprescindível, por isso, o uso de uma arquitetura que permita a comunicação com várias aplicações é fundamental. <br/> O Enterprise Service Bus (ESB) é  uma arquitetura de software que irá viabilizar essa comunicação entre diferentes aplicativos, roteando as mensagens e enviando-as para seus destinos apropriados."
+  subtype: presentation
+  speakers: [19]
+-
+  id: 012
+  title: "Desenvolvimento de Jogos Mobile com Monogame"
+  description: "Demonstrar o fluxo do desenvolvimento e técnicas de implementação de jogos para as plataformas Mobile Android, IOS e Windows Phone,  utilizando o framework Monogame e Mono em conjunto com as IDEs Visual Studio e Xamarin Studio."
+  subtype: presentation
+  speakers: [37]
+-
+  id: 013
+  title: "Impacto das inovações tecnológicas nas pequenas e médias empresas"
+  description: "Apresentar o cenário do mercado atual, onde várias empresas de grande porte se reinventam e aplicam conhecimentos técnicos de gestão, por outro lado, o pequeno e médio empresário nem sempre está preparado para o mercado. Neste sentido a inovação e o agente de inovação surge não só como uma necessidade, mas também um desafio. Todos os aspectos citados anteriormente deve ser estudados e o profissional de TI deve agir como agente de inovação, a pergunta é, estamos preparados?"
+  subtype: presentation
+  speakers: [27]
+-
+  id: 014
+  title: "Agilidade além do mundo do software"
+  description: "Há mais de 1 anos tenho respondido a perguntas como: 'Esse negócio de Ágil não é só para software? Como vamos envolver toda a empresa?' <br><br> Logística, Compras, Comunicação Social, Jurídico e Projetos, como tantas áreas/profissionais que NÃO DESENVOLVEM software podem entender o que está acontecendo? Como podem incorporar práticas ágeis em seu dia a dia e adotar na sua cultura?"
+  subtype: presentation
+  speakers: [35]
+  presentation: "http://pt.slideshare.net/n0va1s/agilidade-alm-do-mundo-do-software-55410014"
+-
+  id: 015
+  title: "Desenvolvendo produtos e projetos de forma enxuta e eficiente"
+  description: "'Construir, Medir, Aprender', como diz Steve Blank, é muito mais elaborado do que colocar software em produção para ver se funciona. O Lean Startup é interessante, mas para desenvolvedores de software acaba se traduzindo em uma importante pergunta: 'Tá, mas o que construir?'. <br><br> Não é fácil lidar com essa disparidade entre o significado de Produto Mínimo Viável para o negócio e a iniciação de projetos de software que tentam criar produtos de forma enxuta. Depois de experimentar muitos estilos de iniciação do projeto de software, documentamos uma receita que vem sendo aplicada no cotidiano e funcionando muito bem. A esse conjunto de práticas e técnicas demos o nome de Direto ao Ponto. <br><br> Venha conversar sobre MVP e compartilhar de uma receita efetiva para iniciação do projetos de software que vai entregar o produto de forma enxuta."
+  subtype: keynote
+  speakers: [15]
+-
+  id: 016
+  title: "Almoço"
+  place: "Praça de alimentação"
+  service: true
+-
+  id: 017
+  title: "Repensando as Melhores Práticas"
+  description: "As tecnologias mudam e as idéias também mudam. Novas ferramentas e paradigmas surgem para questionar a *melhor* maneira de escrever código para browsers e servidores. O melhor não é uma constante."
+  subtype: presentation
+  speakers: [12]
+  presentation: "https://speakerdeck.com/caike/repensando-melhores-praticas"
+-
+  id: 018
+  title: "Atacando Aplicações Web"
+  description: "Para garantir a segurança de uma aplicação, o desenvolvedor deve primeiramente saber como as vulnerabilidades são exploradas e os ataques são executados.<br>A maioria dos materiais educacionais de segurança utilizam vulnerabilidades triviais ou cenários rídiculos. Para corrigir isso, vamos demostrar alguns cenários reais de vulnerabilidade e como explorá-los."
+  subtype: presentation
+  speakers: [17]
+-
+  id: 019
+  title: "Introdução ao Material Design"
+  description: "O que é Material Design? Conheça um pouco da história das interfaces gráficas e como a Google evolui seu conceito de UX para padronizar o design em qualquer dispositivo."
+  subtype: presentation
+  speakers: [22]
+  presentation: "http://pt.slideshare.net/miltonalcantara/introduo-ao-material-design-t-safo-conf"
+-
+  id: 020
+  title: "Startup Developer Mindset"
+  description: "Nunca foi tão simples empreender e é nesse contexto que as startups se destacam como uma alternativa viável e acessível. O desenvolvedor de software faz parte do núcleo deste ecossistema. Mas o cenário de uma startup é diferente do padrão, algumas habilidades e experiências de vida são extremamente úteis pra que a startup evolua, bem como o desenvolvedor seja produtivo e consiga seus objetivos. <br> Essa palestra apresenta alguns valores e habilidades necessárias para um desenvolvedor e que podem fazer a diferença no desenvolvimento de uma startups. Levanta pontos de qual o real papel do mesmo nesse ecossitema e de valores que adicionam valor ao mindset do mesmo."
+  subtype: presentation
+  speakers: [14]
+  presentation: "http://pt.slideshare.net/marcelioleal/startup-developer-mindset"
+-
+  id: 021
+  title: "Adoção de Práticas Ágeis na PROEX e PROEG: Reflexões e Aprendizados"
+  description: "Apresentar relato de experiência da adoção de métodos Ágeis em duas Pró-Reitorias da UFPA (PROEG e PROEX). Enfatizando as lições aprendidas, mudanças na cultura organizacional e os desafios encontrados para evolução do processo de acordo  com as necessidades da  Universidade. "
+  subtype: presentation
+  speakers: [6, 10]
+  presentation: "http://pt.slideshare.net/DiegoLisba/adoo-de-prticas-geis-na-proeg-e-proex"
+-
+  id: 022
+  title: "Oracle Nashorn, a nova engine Java Script para JVM"
+  description: "Com o lançamento do Java 8 ano passado, uma das novidades da versão foi a inclusão de uma engine Java Script para JVM denominada de Oracle Nashorn. Trata-se de uma nova geração de engine Java Script totalmente  reformulada, baseada na JSR 292 e com suporte a invocação dinâmica através de linhas de comando ou embarcado em aplicações Java. Quando e porque usar o Nashorn? Quais as vantagens e desvantagens? É o que vamos compartilhar nessa apresentação."
+  subtype: presentation
+  speakers: [18]
+-
+  id: 023
+  title: "Acessibilidade em Android: Desvendando a TalkBack API"
+  description: "Veremos como a API TalkBack pode ajudar as pessoas com deficiência a utilizar o smartphone."
+  subtype: presentation
+  speakers: [24]
+  presentation: "http://pt.slideshare.net/LaraRebel/acessibilidade-em-android-talkback"
+-
+  id: 024
+  title: "Dafiti App Android: Um app robusto mas sem sair da moda"
+  description: "Em 2013, a Dafiti já era bem conhecida do público que não resistia à uma promoção de sapato. Nesse período, já não podíamos mais esperar pelo cliente acessar ao nosso site fisgado por um banner, newsletter e etc. Com um aplicativo Android resolvemos levar o maior e-commerce de moda, para uma base gigante de usuários que tem o robô como sistema operacional de smartphones, e o melhor, em qualquer hora e lugar onde o cliente esteja. No mobile conseguimos aproximar ainda mais essa relação com o cliente. <br> E o que era apenas uma nova forma de vender, se tornou num dos principais canais de venda. Como toda caminhada nos leva a percalços, passamos por muitos erros e acertos que pensamos em dividir com a comunidade, para nos ajudar a debater o desenvolvimento de um bom aplicativo focado em m-commerce. <br> Vamos conversar sobre nosso app Android, como fazemos dele um bom produto não somente para vender mas também para desenvolver."
+  subtype: presentation
+  speakers: [28]
+  presentation: "http://pt.slideshare.net/EduardoLieuthier/dafiti-app-android-um-app-robusto-mas-sem-sair-da-moda"
+-
+  id: 025
+  title: "Software como investimento"
+  description: "Software é um investimento. Desenvolvimento de software é uma atividade que consome esforço, tempo e dinheiro. Investe-se em software com a expectativa de que a sua utilização no dia a dia da empresa gere retornos para os negócios. <br> O método ágil XP e o Scrum reconhece o conceito de ROI, essa premissa e suas práticas são organizadas para entregar valor mais cedo para os clientes."
+  subtype: presentation
+  speakers: [13]
+-
+  id: 026
+  title: "Testes de Integração com foco em APIs"
+  description: "Precisando testar suas APIs? Compartilhando algumas ideias utilizadas em um projeto de testes focado apenas em testes de integração de APIs."
+  subtype: presentation
+  speakers: [39]
+  presentation: "https://docs.google.com/presentation/d/1pKvAxjdlfkWj8EINJalltqR1T0Dhul5g3Kt9N4uThtQ/pub?start=false&loop=false&delayms=3000#slide=id.p"
+-
+  id: 027
+  title: "Desenvolvimento de Aplicativo Mobile Multiplataforma com Intel XDK"
+  description: "O objetivo da apresentação é mostrar como desenvolver de forma fácil e rápida aplicativos móveis híbridos com a ferramenta Intel XDK. Abordarei sobre aplicativos híbridos, framewroks de desenvolvimento mobile, sobre a ferramenta e suas funcionalidades, além da demonstração de um aplicativo."
+  subtype: presentation
+  speakers: [23]
+  presentation: "http://pt.slideshare.net/evandrompaes/desenvolvimento-de-aplicativo-multiplataforma-com-intel-xdk-56014691"
+-
+  id: 028
+  title: "Como desenhar uma proposta de valor que vai encantar o seu cliente!"
+  description: "Todo negócio surge para atender um cliente específico, mas que tarefa esse cliente tem e quer realizar? O que ele quer resolver? Como ele é atendido hoje no mercado? Quais são as brechas que os possíveis concorrentes lhe dão? Quais são os problemas que esse cliente tem? <br> O objetivo dessa palestra é apresentar o Canvas da Proposta de Valor, para que os empreendedores criem soluções que atendam e surpreendam os seus clientes com algo que ele realmente deseja."
+  subtype: presentation
+  speakers: [29]
+-
+  id: 029
+  title: "One Direction - A incrível relação entre times e entregas em ambientes ágeis"
+  description: "Entusiasmada com os resultados obtidos nas entregas, Isabela Gayno, acredita que os membros do time ficam orgulhosos quando se sentem parte do BEM MAIOR. <br> One direction é um workshop capaz de demonstrar como o alinhamento do time é capaz de tornar possível a execução de planos previsíveis e com ótimos resultados. <br> Ignorar este workshop dinâmico e alegre é ignorar o incrível poder da linguagem, um dos maiores segredos para encontrar summum bonum individual (BEM MAIOR). <br> Descubra como OneDirection pode ser perfeito no seu dia a dia."
+  subtype: presentation
+  speakers: [11]
+  presentation: "http://pt.slideshare.net/isabelagayno/one-direction-a-fora-de-trabalho-engajadora-em-times-geis"
+-
+  id: 030
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  id: 031
+  title: "WSO2: Promovendo Negócios Conectados"
+  description: "No mundo de hoje, as empresas devem repensar suas abordagens digitais, com esta apresentação vamos mostrar poucos slides, porém muita prática em como esta revolução pode ser construída de forma eficaz em todas as empresas. A WSO2 comemora este ano 10 anos de existência e mais de 20 produtos para ajudar as empresas e profissionais a alcançarem estes objetivos que podem gerar os diferenciais de alta qualidade e performance para construir uma realidade 100% conectada."
   subtype: presentation
-  #speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [16]
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 032
+  title: "Refatoração com Métricas"
+  description: "A palestra tem por objetivo apresentar as principais métricas de código orientado a objetos como suporte à tarefa de identificação de problemas de projeto de software, em especial os 'maus cheiros' de código que evidenciam melhorias com refatoração de código."
   subtype: presentation
-  #speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [20]
+  presentation: "http://pt.slideshare.net/claudiomartins2000/palestra-tasafo-conf2015-refatorao-com-mtricas"
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  #speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 033
+  title: "Produtividade Maxima com Android Libs"
+  description: "Algumas tarefas em Android não são tão simples de serem implementadas, possuem um certo nível de complexidade e trabalho. Nesta palestra irei mostrar de forma sucinta como configurar e utilizar as bibliotecas mais produtivas utilizadas em Android. Irei falar sobre os guide lines e a importância de sua utilização."
+  subtype: presentation
+  speakers: [25]
+  presentation: "http://pt.slideshare.net/BryanOllivie1/produtividade-maxima-com-libs-android"
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  #speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 034
+  title: "Como usar o Learning Canvas para descobrir Features para o Product Backlog"
+  description: "O Learning Canvas é uma ferramenta para a promoção da aprendizagem emergente. Foi criada com o propósito de organizar ideias e experiências sobre um tema problematizado durante uma discussão facilitada. Irei demonstrar como podemos aplica-lo para descobrir features para o backlog do produto com base na problematização do cliente."
+  subtype: presentation
+  speakers: [1]
+  presentation: "http://pt.slideshare.net/fabiogr/como-usar-o-learning-canvas-para-descobrir-features-para-o-product-backlog"
+-
+  id: 035
+  title: "Manter-se ágil em meio à cultura tradicionalista"
+  description: "Nessa apresentação será descrita a experiência de introduzir métodos ágeis na TI de uma empresa de ramo tradicional em que a cultura é fortemente hierárquica e que compra as melhores práticas."
+  subtype: presentation
+  speakers: [36]
+-
+  id: 036
+  title: "Entregando software à moda da casa com DevOps Tools"
+  description: "Ainda existem empresas publicando software em produção enviando arquivos via FTP e 'controlando' a versão de seu código-fonte através de cópias compactadas armazenadas por ordem cronológica. Muitos profissionais realmente não se incomodam em fazer a mesma coisa há anos. É preciso ir além da dedicação e prestatividade, em busca da produtividade. Pretendo demonstrar implementações de técnicas e ferramentas como: controle distribuído de versões, testes automatizados, Integração Contínua, Implantação Contínua e o ápice do DevOps que é a Entrega Contínua de software."
+  subtype: presentation
+  speakers: [8]
+  presentation: "http://pt.slideshare.net/luizsanches/entregando-software-com-devops-tools"
+-
+  id: 037
+  title: "Boas práticas na implementação de um jogo: Game programming patterns"
+  description: "Programar um jogo é um grande desafio, o qual envolve o tratamento de diversos aspectos de sua concepção e criação, desde um bom controle de estados de um jogador, registro de ações de inputs e configuração de diferentes controles a serem suportados, tratamento adequado de um 'game loop', inteligência artificial de inimigos e etc. Por meio desta palestra espero compartilhar meus conhecimentos sobre esses problemas recorrentes na programação e falar sobre algumas boas formas de os resolver utilizando design patterns."
+  subtype: presentation
+  speakers: [26]
+  presentation: "http://pt.slideshare.net/lucmousinho/tsafo-conf-2015-boas-prticas-na-implementao-de-um-jogo-game-patterns"
+-
+  id: 038
+  title: "Desbravando a Amazon AWS"
+  description: "Mostrarei como programadores podem usar os produtos EC2, RDS, e S3 da Amazon AWS."
+  subtype: presentation
+  speakers: [30]
+-
+  id: 039
+  title: "Kanban - Muito além de um simples quadro na parede!"
+  description: "Nessa apresentação são abordados os conceitos de Fluxo, Pensamento Sistêmico, Limites, entre outros, que são importantes para o entendimento da cultura e do que há por trás do Kanban. O principal objetivo dessa apresentação é não só uma visão geral mas ajudar no ponta pé inicial para a adoção do Kanban."
+  subtype: presentation
+  speakers: [4]
+  presentation: "http://pt.slideshare.net/Pigor/kanban-mais-que-um-quadro-na-parede"
+-
+  id: 040
+  title: "Qual é a sua desculpa?"
+  description: 'Desculpas não faltam nas empresas e ambientes onde softwares são desenvolvidos: "A empresa não deixa eu fazer testes", "o vendedor vendeu mais do que conseguimos entregar", "tudo é feito na correria", "a empresa não dá treinamento para os devs", "não temos processo", "o usuário é burro", "o cliente não sabe priorizar", etc. Nessa conversa, vamos investigar o que está por trás dessas expressões e principalmente o que podemos fazer proativamente para virar a mesa e remover o desperdício e o sofrimento do desenvolvimento de software.'
+  subtype: presentation
+  speakers: [9]
+  presentation: "https://speakerdeck.com/henriquebastos/qual-e-a-sua-desculpa"

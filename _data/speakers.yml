@@ -1,171 +1,475 @@
-- 
-  id: 3
+-
+  id: 1
   name: "Fábio"
   surname: "Aguiar"
-  company: "Pródiga Sistemas"
-  title: "Agile Coach and Associated Trainer at AdaptWorks"
-  bio: "Fábio Aguiar é Agile Coach & Associated Trainer na AdaptWorks. Possui mais de uma década e meia de experiência profissional em desenvolvimento de software, tendo focado nos últimos anos em gestão e desenvolvimento ágil com Scrum, XP, Lean e UX e no desenvolvimento holístico de cada membro do time, bem como energizando e impulsionando organizações a transição e adoção Ágil."
-  thumbnailUrl: fabio.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/fabyogr"}
-    - {name: "linkedin", link: "https://br.linkedin.com/in/fabiogr"}
-- 
-  id: 4
-  name: "Ramon"
-  surname: "Rabello"
-  company: "BB Tecnologia e Serviços, Android na Rede"
-  title: "Android Consultant"
-  bio: "Membro da Comunidade Tá Safo!, entusiasta de agilidade e, atualmente, analista especialista Mobile na BB Tecnologia e Serviços. Desenvolvedor e evangelista Android há 7 anos, criou o 'Android na Rede', uma alternativa de divulgar o uso da plataforma na região e no resto do Brasil, por meio de artigos, workshops e treinamentos."
-  thumbnailUrl: ramon.png
+  company: "Adaptworks e Pródiga Sistemas"
+  title: "Agile Coach, Delivery Product Manager"
+  bio: "É Agile Coach & Associated Trainer na AdaptWorks. Possui mais de uma década e meia de experiência profissional em desenvolvimento de software, tendo focado nos últimos anos em gestão e desenvolvimento ágil com Scrum, XP, Lean e UX e no desenvolvimento holístico de cada membro do time, bem como energizando e impulsionando organizações a transição e adoção Ágil."
+  thumbnailUrl: fabio-aguiar.jpg
   rockstar: true
   social:
+    - {name: "twitter", link: "https://twitter.com/fabyogr"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/fabiogr"}
+-
+  id: 2
+  name: "Ramon"
+  surname: "Rabello"
+  company: "BB Tecnologia e Serviços"
+  title: "Analista Especialista, Líder de Inovação, Educador Corporativo Mobile, Instrutor Android"
+  bio: "Membro da Comunidade Tá Safo!, entusiasta de agilidade e, atualmente, analista especialista Mobile na BB Tecnologia e Serviços. Desenvolvedor e evangelista Android há 7 anos, criou o 'Android na Rede', uma alternativa de divulgar o uso da plataforma na região e no resto do Brasil, por meio de artigos, workshops e treinamentos."
+  thumbnailUrl: ramon-rabello.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonrabello"}
     - {name: "twitter", link: "https://twitter.com/ramonrabello"}
     - {name: "github", link: "https://github.com/ramonrabello"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ramonrabello"}
-- 
-  id: 5
+-
+  id: 3
   name: "Breno"
   surname: "Campos"
   company: "Plataformatec"
   title: "Agile Project Manager"
   bio: "É Gerente de Projetos Ágil na Plataformatec e membro da Comunidade Tá Safo, já desempenhou o papel de Analista de Sistemas, Consultor em Agilidade e Consultor em Gestão de Projetos. Lida com metodologias ágeis a cerca de 7 anos, principalmente com SCRUM e KANBAN. Tem se dedicado à participação de eventos sobre Metodologias Ágeis com o intuito de disseminar a cultura ágil pelo Brasil, atuou como voluntário e organizador em eventos como Agile Brazil, Agile Trends e Tá Safo Conf."
-  thumbnailUrl: breno.jpeg
+  thumbnailUrl: breno-campos.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/brenobcampos"}
     - {name: "twitter", link: "https://twitter.com/brenobcampos"}
-- 
-  id: 6
+-
+  id: 4
   name: "Paulo"
   surname: "Igor"
   company: "Pródiga Sistemas / HUB 728"
-  title: "Software Engineer"
-  bio: ""
-  thumbnailUrl: pigor.jpeg
+  title: "Engenheiro de Software"
+  bio: "Mestre em Ciência da Computação e Bacharel em Sistemas de Informação. Trabalha com desenvolvimento de software há mais de 10 anos, onde atuou em projetos para o setor bancário, P&D, Departamento de Trânsito, Companhia de Saneamento Básico e desenvolvendo sistemas e portais em projetos nacionais e internacionais. CSM pela Scrum Alliance, ministra aulas na pós-graduação em disciplinas ligadas a Engenharia de Software e Metodologias Ágeis, Instrutor Associado da Adaptworks e atualmente trabalha em projetos diversos em sua empresa de desenvolvimento de software e em seu espaço de coworking em Belém, o HUB 728. Atua fortemente junto as comunidades de tecnologia da região norte organizando eventos, desenvolvendo projetos abertos, palestras e workshops."
+  thumbnailUrl: paulo-igor.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pigodinho/pt"}
     - {name: "twitter", link: "http://twitter.com/pigodinho"}
     - {name: "github", link: "https://github.com/pigor"}
-- 
-  id: 7
+-
+  id: 5
   name: "Kaio"
   surname: "Valente"
   company: "DocYouSign"
   title: "Desenvolvedor Sênior"
   bio: "Desenvolve software há mais de 7 anos. Já trabalhou em bancos, tribunal, já foi concursado e largou o osso. Atualmente trabalha como Desenvolvedor Sênior na DocYouSign em São Paulo. Javeiro, entusiasta de JavaScript e Front-End. Acredita que JS é o futuro. Largou a guitarra e agora faz cerveja em casa."
-  thumbnailUrl: kaio.jpg
+  thumbnailUrl: kaio-valente.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/kaiovalente"}
     - {name: "github", link: "https://github.com/kaiovalente"}
-- 
-  id: 8
+-
+  id: 6
   name: "Diego"
-  surname: "Lisboa"
+  surname: "Lisbôa"
   company: "Pró-Reitoria de Ensino e Graduação da UFPA"
-  title: "Desenvolvedor e Líder de equipe"
+  title: "Assessor Técnico de Tecnologia da Informação"
   bio: "Desenvolvedor e Líder de equipe da Assessoria de Informação e Tecnologia da Pró-Reitoria de Ensino e Graduação da UFPA (AIT-PROEG). Membro ativo da Comunidade Tá Safo, colaborador da Startup CoyoTI e atuante como voluntário do Agile Brazil desde 2012 e Agile Trends desde a primeira edição do evento (2013). Membro do Comitê Organizador do Agile Trends."
-  thumbnailUrl: diego.jpeg
+  thumbnailUrl: diego-lisboa.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://br.linkedin.com/pub/diego-lisboa/47/88a/617"}
-- 
-  id: 9
+    - {name: "twitter", link: "https://twitter.com/diego__lisboa"}
+-
+  id: 7
   name: "Manoel"
   surname: "Pimentel"
-  company: "Adaptworks, Agile Alliance Brazil"
-  title: "Agile Coach at Adaptworks and Chairman at Agile Alliance Brazil"
-  bio: ""
-  thumbnailUrl: manoel.png
+  company: "Adaptworks / Agile Alliance Brazil"
+  title: "Agile Coach / Chairman"
+  bio: "É coach, blogueiro, palestrante, inovador, rule-breaker e um organocientista viciado em grandes desafios. Trabalha há mais de 18 anos na área de TI, onde possui uma profunda experiência em ajudar, como coach ou trainner, a transição/experimentação Ágil (Scrum, XP, FDD, Lean) em grandes e complexas organizações (Como Stefanini, Sicoob, Bancoob, Oi, GVT, Petrobras, Ita, Localiza). <br><br> É um dos pioneiros no movimento Ágil no Brasil. Ele também é o fundador da Revisa e Blog Visão Ágil e do blog stoosians.org (movimento Stoos). Já escreveu para portais internacionais como InfoQ, AgileJournal, ScrumAlliance, AgileAlliance e revistas como SQL Magazine, JavaMagazine. Mundo J e outras. Foi o revisor da versão oficial do Manifesto Ágil em português, escreveu o prefácio do livro Agile Project Management e do livro Scrum - Como gerenciar projetos com sucesso. Também ajudou na tradução do livro Kanban em 10 passos(InfoQ). Foi chairman do AgileBrazil 2013, que é a principal conferência brasileira sobre métodos ágeis e que nessa edição atingiu a marca história de 1000 participantes. Já organizou e co-organizou eventos como TDC (The Developers Conference) e Maré de Agilidade. <br><br> É um dos poucos licensed trainer de Management 3.0 no Brasil, mas além de suas certificações, Manoel é um catailisador e socializador de ideas como Managing Dojo, TAE (Teoria da Alavancagem Estrelar), Manifesto for Meta-Agile, Coaching para Metalhoria, MVI (Minimum Viable Improvement), Team Fusing e AgileMMA (Agile Mixed Methodologies Adoption) e Organoplasticidade."
+  thumbnailUrl: manoel-pimentel.png
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/manoelp/pt"}
     - {name: "twitter", link: "https://twitter.com/manoelp"}
-- 
-  id: 10
+-
+  id: 8
   name: "Luiz"
   surname: "Sanches"
-  company: "Pródiga Sistemas"
-  title: "Consultor"
-  bio: "Desenvolvedor de Software com experiência nas áreas de análise, banco de dados, administração de sistemas e ensino em Tecnologia da Informação. Desenvolvendo em ambiente desktop nos sistemas ms-dos e Windows, web/intranet em plataformas open source. Já palestrou sobre agilidade e software livre em eventos de TI nas localidades de Belém-PA, Natal-RN e Porto Alegre-RS. Participa ativamente da organização e realização de eventos pela comunidade Tá safo! (Belém-PA) e Agilidade@Recife (Recife-PE)."
-  thumbnailUrl: sanches.jpg
+  company: "Nômade Tecnologia / Pródiga Sistemas"
+  title: "Consultor em desenvolvimento e operações de software"
+  bio: "É graduado em Sistemas de Informação pelo IESAM e Pós graduado em Gestão Ágil de Projetos pelo CESAR.EDU. Membro das comunidades Tá safo! e Agilidade@Recife. Engenheiro de Software na Pródiga Sistemas. Consultor em desenvolvimento e operações de software pela Nômade Tecnologia. Professor de graduação e especialização na Estácio|IESAM e no CESUPA."
+  thumbnailUrl: luiz-sanches.png
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/luizgrsanches"}
     - {name: "twitter", link: "https://twitter.com/luizsanxes"}
     - {name: "github", link: "https://github.com/luizsanches" }
-- 
-  id: 11
-  name: "Paulo"
-  surname: "Moura"
-  company: "Pródiga Sistemas"
-  title: "Consultor"
-  bio: "Grande apreciador de cervejas IPAs, bicicleteiro, fisiculturista e desenvolvedor nas horas vagas. Trabalha com diversas tecnologias open source e desenvolvimento ágil. Possui experiência em projetos de software em diferentes linguagens e plataformas como java, ruby, javascript e php."
-  thumbnailUrl: paulomoura.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://br.linkedin.com/in/paulociecomp"}
-    - {name: "twitter", link: "https://twitter.com/paulociecomp" }
-    - {name: "github", link: "https://github.com/paulociecomp" }
-- 
-  id: 12
+-
+  id: 9
   name: "Henrique"
   surname: "Bastos"
   company: "Dekode"
   title: "CTO"
-  bio: "Henrique é apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
+  bio: "É apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
   thumbnailUrl: henrique-bastos.png
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/henriquebastos/pt"}
     - {name: "twitter", link: "https://twitter.com/henriquebastos" }
     - {name: "github", link: "https://github.com/henriquebastos" }
-- 
-  id: 13
-  name: "Felipe"
-  surname: "Iketani"
-  company: "Gistia Labs, Pródiga Sistemas"
-  title: "Web Systems Developer"
-  bio: "Apaixonado por alimentação saudável e faixa azul de Jiujitsu (não que signifique alguma coisa), é desenvolvedor de sistema WEB na Gistia.com e consultor na Pródiga Sistemas. Usa Ruby on Rails para fazer a mágica acontecer! Membro ativo na comunidade ágil paraense Tá Safo!, tenta disseminar a prática de testes automatizados e TDD aonde quer que vá."
-  thumbnailUrl: ike.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/felipe-iketani/26/103/a8a"}
-    - {name: "github", link: "https://github.com/felipeik" }
-- 
-  id: 14
-  name: "Lu"
+-
+  id: 10
+  name: "Lourdilene"
   surname: "Souza"
   company: "Pró Reitoria de Extensão da UFPA"
   title: "Analista de Sistemas"
   bio: "Analista de Sistemas na Pró Reitoria de Extensão da UFPA e Consultora de TI no Instituto Histórico e Geográfico do Pará. Graduada em Sistemas de Informação pela UFPA. Atualmente cursa a Especialização em Arquitetura de Software ofertado pelo Laboratório de Engenharia de Software da UFPA (LABES - UFPA). Também participou de projetos do LABES de construção de sistemas em parceria com outras entidades, como PM-PA e SETUR."
-  thumbnailUrl: lu.png
+  thumbnailUrl: lourdilene-souza.png
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://br.linkedin.com/pub/lourdilene-souza/8b/2a5/77a"}
     - {name: "twitter", link: "https://twitter.com/lourdilenesouza" }
-- 
-  id: 15
-  name: "Eduardo"
-  surname: "Guerra"
-  company: "Global Innovation"
-  title: "Senior Software Architect; Founder at Global Innovation"
-  bio: "Eduardo Guerra é empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
-  thumbnailUrl: eduardo.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
-- 
-  id: 16
+    - {name: "github", link: "https://github.com/Lourdilene" }
+-
+  id: 11
+  name: "Isabela"
+  surname: "Gayno"
+  company: "IFConsutoria"
+  title: "Agile Coach"
+  bio: "Pesquisadora sobre comportamento humano, neurociências, inteligência múltipla, inteligencia emocional, psicologia e tecnologia. MBA em Marketing Digital e Mídias Sociais. Pós Graduada em Engenharia de Software. Graduada em Administração de Empresas. Master e Practitioner em PNL. Com mais de 11 anos de carreira, atuando em facilitar o entendimento e gerenciar expectativa do cliente e times. Atua como palestrante sobre gestão ágeis de projetos e temas sobre automotivação e engajamento de times, dedicando-se àquilo que chama de efeito multiplicador, como escritora, autora e colunista no AgileMomentum, Ti Especialista e blogueira no Administradores. 'Conhecimento bom é conhecimento compartilhado'"
+  thumbnailUrl: isabela-gayno.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/isabelagayno"}
+    - {name: "twitter", link: "https://twitter.com/Isagayno"}
+-
+  id: 12
   name: "Carlos"
   surname: "Souza"
   company: "Code School"
-  title: "Instructor at Code School"
-  bio: "Carlos Souza (Caike) é desenvolvedor web e instrutor do Code School. Trabalha com Ruby on Rails há 5 anos e quando não está fazendo barulho em seu teclado mecânico, gosta de tocar guitarra e escalar paredes."
-  thumbnailUrl: caike.jpeg
+  title: "Instructor"
+  bio: "É desenvolvedor web e instrutor do Code School. Formado em Ciência da Computação pelo CESUPA, começou em Belém sua carreira na área de tecnologia. Já trabalhou com inúmeras tecnologias em diversas empresas no Brasil e no mundo, e acredita que não existe forma errada de tomar Açaí."
+  thumbnailUrl: caike-souza.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/caike"}
     - {name: "github", link: "https://github.com/caike"}
+-
+  id: 13
+  name: "Rildo"
+  surname: "Santos"
+  company: "eTecnologia"
+  title: "Consultor de Negócio"
+  bio: "Auto na empresa eTecnologia como Consultor de Negócio, atuando em duas linhas de negócio: - Consultoria de Tecnologia e Negócio - Compartilhamento de conhecimento (programa social que visa ajudar profissionais, professores e estudantes com compartilhamento de conhecimento através de publicação de conteúdo, cursos gratuitos e a comunidade eTecnologia)"
+  thumbnailUrl: rildo-santos.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/rildofsantos/pt"}
+    - {name: "twitter", link: "https://twitter.com/rildosan"}
+-
+  id: 14
+  name: "Marcelio"
+  surname: "Leal"
+  company: "Tripda"
+  title: "CTO"
+  bio: "É M.S. em Ciência da Computação pela UFPA e CTO na Tripda (Rocket Internet). Desenvolvedor com mais de 15 anos de experiência, principalmente focado em tecnologias web e metodologias ágeis. Fez parte de grandes empresas como o SERPRO e a Cobra Tecnologia. Há 6 anos totalmente focado no mundo das startups, passando por Dafiti, Predicta/SiteApps e Oppa. Também é um dos organizadores do Silicon DrinkAbout Sampa. Além disso, ele é fanático por comida paraense, esportes de aventura e pelo Paysandú."
+  thumbnailUrl: marcelio-leal.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/marcelioleal"}
+    - {name: "github", link: "https://twitter.com/marcelioleal"}
+-
+  id: 15
+  name: "Paulo"
+  surname: "Caroli"
+  company: "Thoughtworks"
+  title: "Agile Coach"
+  bio: "Paulo Caroli é M.S. em Engenharia de Software pela PUC-Rio. Cofundador e Agile Coach da Thoughtworks Brazil. Possui duas décadas de experiência em desenvolvimento de software com passagem em várias corporações no Brasil, India e EUA. Desde 2000 tem focado sua experiência em processos e práticas de Gestão e Desenvolvimento Ágil usando XP, Scrum, Kanban e outros. É sempre palestrante convidado em vários eventos grandes no Brasil e no exterior e também autor de um sem número de artigos. Foi o idealizador, um dos criadores e palestrante desde 2009 do Agile Brazil, um dos maiores eventos de desenvolvimento de software da América Latina."
+  thumbnailUrl: paulo-caroli.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulocaroli"}
+    - {name: "twitter", link: "https://twitter.com/paulocaroli"}
+-
+  id: 16
+  name: "Edgar"
+  surname: "Silva"
+  company: "WSO2"
+  title: "Vice-Presidente para a América Latina"
+  bio: "Edgar Silva é Vice-Presidente e Country Manager para o Brasil na WSO2. Membro do time executivo estabelecendo a subsidiária, time e presença da WSO2 no Brasil e América Latina. Atuando no mercado desde 1996, antes da WSO2 Edgar foi o Head da MuleSoft no Brasil, Diretor de Desenvolvimento de Negócios Middleware na Oracle , Gerente do time de Pré-vendas e Arquitetos de Soluções da Red Hat no Brasil, atuou como consultor para Sun Microsystems, foi Systems Engineer na Borland Latin America e teve suas aventuras empreendedoras. Divide seu tempo entre as pontes aéreas, aproveitando para pesquisar e ajudar a criar um mundo mais conectado e simples para as pessoas."
+  thumbnailUrl: edgar-silva.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jedgarsilva/pt"}
+    - {name: "twitter", link: "https://twitter.com/jedgarsilva"}
+-
+  id: 17
+  name: "Thomaz"
+  surname: "Leite"
+  company: "Barbits"
+  title: "Desenvolvedor"
+  bio: "Sou formado em ciência da computação pela Lindenwood University e desenvolvedor de aplicações de Web há 5 anos. Hoje sou faz-tudo na Barbits, empresa que fundei em 2014. Pela Barbits, ajudo empresas que não tem um time de desenvolvedores in-house a executar projetos de software."
+  thumbnailUrl: thomaz-leite.png
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/thmzlt"}
+-
+  id: 18
+  name: "Raimundo"
+  surname: "Botelho"
+  company: "BB Tecnologia e Serviços"
+  title: "Arquiteto de Software e Educador Corporativo"
+  bio: "Sou bacharel em Ciência da Computação pelo Centro Universitário do Pará (CESUPA) e programador certificado Java pela Sun Microsystems desde 2008. Moro em Belém, e atualmente trabalho como Arquiteto de Software e Educador Corporativo na empresa BB Tecnologia e Serviços. Sou especialista em análise, projeto e desenvolvimento de Sistemas Java."
+  thumbnailUrl: raimundo-botelho.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/raibotelho"}
+    - {name: "twitter", link: "https://twitter.com/raibotelho"}
+-
+  id: 19
+  name: "Gustavo"
+  surname: "Costa"
+  company: "MPCM-PA e Pródiga Sistemas"
+  title: "Arquiteto de Sistemas"
+  bio: "Atualmente, trabalho no Ministério Público de Contas dos Municípios do Estado do Pará e na empresa Pródiga Sistemas. Um dos meus pontos fortes é JAVA, com o qual trabalho há 8 anos."
+  thumbnailUrl: gustavo-costa.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/gustavobcosta"}
+    - {name: "twitter", link: "https://twitter.com/gugabcosta"}
+    - {name: "github", link: "https://github.com/gugabcosta"}
+-
+  id: 20
+  name: "Cláudio"
+  surname: "Martins"
+  company: "IFPA e CINBESA"
+  title: "Professor e Analista de Sistemas"
+  bio: "Atuo na área de Engenharia de Software e Educação, com ênfase em gerência de projetos e desenvolvimento de aplicações. Trabalho desde 1987 na área de desenvolvimento de software, com experiência em linguagens de programação 'legadas' (Cobol, Clipper, Natural, etc), bem como linguagens em paradigmas orientado a objetos (Java, C++). Fui diretor na área de sistemas de software no governo do Pará (PRODEPA, 2007-2010), atualmente analista de sistemas na CINBESA (Prefeitura de Belém) desde 1991. Como professor, desde 1994 ministro aulas no IFPA (Instituto de Educação, Ciência e Tecnologia do Pará), em disciplinas relacionadas à Engenharia de Software e Desenvolvimento de Sistemas. Também ministrei aulas na Universidade da Amazônia (UNAMA), de 2004 a 2010, além de ministrar aulas em diversos cursos de pós-graduação (especialização) em instituições como Unama, UFPA e Faci-Devry. Publico artigos desde 2012 na revista Java Magazine (DevMedia)."
+  thumbnailUrl: claudio-martins.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://www.linkedin.com/in/claudiomartins2010"}
+    - {name: "twitter", link: "http://twitter.com/_ClaudioMartins"}
+-
+  id: 21
+  name: "João"
+  surname: "Gabriel"
+  company: "SEFA-PA/FADESP | PPGEE-UFPa"
+  title: "Analista de Sistemas | Doutorando em Computação Aplicada"
+  bio: "Sou mestre em computação aplicada pela Universidade Federal do Pará, pesquisador nas áreas de aprendizagem de máquina e mineração de dados em big data. Atualmente sou Analista de Sistemas na SEFA/FADESP."
+  thumbnailUrl: joao-gabriel.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joaogabriellima"}
+    - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
+    - {name: "github", link: "https://github.com/jgabriellima"}
+-
+  id: 22
+  name: "Milton"
+  surname: "Alcântara"
+  company: "BB Tecnologia e Serviços"
+  title: "Designer Mobile e Desenvolvedor Android"
+  bio: "Designer e programador, atua na área de Design desde 2008 e na de TI a partir de 2012 onde já participou de feiras de computação, onde foi premiado 3 vezes. Atualmente trabalha na BBTS e em várias startups."
+  thumbnailUrl: milton-alcantara.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/miltonalcantara"}
+    - {name: "twitter", link: "https://twitter.com/miltonalcantara"}
+-
+  id: 23
+  name: "Evandro"
+  surname: "Paes"
+  company: "PRODEPA"
+  title: "Gestor e Consultor de Tecnologia da Informação"
+  bio: "Mais de 10 anos de experiência em desenvolvimento de sistemas, levantamento de requisitos e gerenciamento de projetos. É graduado em Tecnologia em Processamento de Dados, com Especialização em Desenvolvimento de Aplicativos para Internet e Gerência de Projetos de Software, possui certificação CSM, ITIL, COBIT, PRINCE2 e C1-MPS.BR.<br>Atualmente é responsável pelo setor de desenvolvimento de sistemas da Empresa de Tecnologia da Informação e Comunicação do Estado do Pará - PRODEPA e aplica as melhores práticas do mercado para acompanhar a evolução dos projetos sob sua responsabilidade. Atua fortemente nas comunidades Tá safo!, CGPPará e GUMA-PA ajudando na organização de eventos e palestras."
+  thumbnailUrl: evandro-paes.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/evandrompaes/pt"}
+    - {name: "twitter", link: "https://twitter.com/evandro_paes"}
+-
+  id: 24
+  name: "Larissa"
+  surname: "Guimarães"
+  company: "BB Tecnologia e Serviços"
+  title: "Desenvolvedora Android"
+  bio: "Sou desenvolvedora Android e trabalho no Banco do Brasil Tecnologia e Serviços."
+  thumbnailUrl: larissa-guimaraes.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/larissa-guimar%C3%A3es/2b/318/661"}
+    - {name: "twitter", link: "https://twitter.com/LaraSGuimaraes"}
+    - {name: "github", link: "https://github.com/LarissaSI09"}
+-
+  id: 25
+  name: "Bryan"
+  surname: "Ollivie"
+  company: "BB Tecnologia e Serviços"
+  title: "Analista Mobile"
+  bio: "Possui formação em Ciência da Computação pelo CESUPA, atuou por 3 anos no desenvolvimento de web-apps em PHP, Grails e Java. É sócio-fundador da startup 3/4 mobile direcionada para aplicativos móveis em Android e iOS. Atuou em equipes agilistas em projetos desafiadores. Atualmente é analista da BB Tecnologia, no novo polo de aplicativos mobile da empresa no norte."
+  thumbnailUrl: bryan-ollivie.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/bryan-ollivie/51/a1/920"}
+    - {name: "twitter", link: "https://twitter.com/bryanollivie"}
+-
+  id: 26
+  name: "Lucas"
+  surname: "Mousinho"
+  company: "Sinextra Game Studio / Jambu Tec"
+  title: "Sócio fundador / Engenheiro de software"
+  bio: "Formado em Engenharia da Computação pela UFPA, trabalha como analista de sistemas na empresa Jambu Tecnologia e é sócio-fundador na Sinextra Game Studio. Ministra palestras, oficinas e cursos na área de desenvolvimento de jogos e já participou do desenvolvimento de jogos para o mercado empresarial e de entretenimento em plataformas mobile, web, desktop e vídeo-games."
+  thumbnailUrl: lucas-mousinho.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lucmousinho"}
+-
+  id: 27
+  name: "Thiago"
+  surname: "Vulcão"
+  company: "EBI Informática"
+  title: "Gerente de Projetos de TI e Inovação"
+  bio: "Atuo como Gerente de Projetos de Tecnologia da Informação e Inovação na empresa EBI Informática, e através do SEBRAE com o projeto SERBRAETec atendemos um volume enorme de pequenas empresas. Fui estudante de Bacharelado em Ciência da Computação, entretanto no ano de 2010 fugi da graduação, hoje com dez anos de experiência foquei em busca de algo maior. Tenho formação de web designer, e posteriormente me especializei em desenvolvimento, análise de sistemas de grande porte e integrações. Hoje atuo como figura de liderança de ambiente criativo para desenvolvimento de soluções inovadoras."
+  thumbnailUrl: thiago-vulcao.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/thiagovulcao"}
+-
+  id: 28
+  name: "Eduardo"
+  surname: "Lieuthier"
+  company: "Dafiti"
+  title: "Programador Android"
+  bio: "Trabalho na Dafiti há quase 3 anos. Sou de Belém mas em 2012 resolvi tentar a sorte em Sampa. Sou desenvolvedor android em uma equipe de 4 pessoas."
+  thumbnailUrl: eduardo-lieuthier.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolieuthier"}
+    - {name: "twitter", link: "https://twitter.com/edulieuthier"}
+-
+  id: 29
+  name: "Paul"
+  surname: "Marcel"
+  company: "VINDI Ideias e Inovação"
+  title: "Sócio e Consultor"
+  bio: "Sou sócio da VINDI Ideias e Inovação (vindi2i.com.br). Sou engenheiro (ambiental e de Segurança no Trabalho) e MBA em Gestão Empresarial. Especialista em Agenciamento da Inovação para Pequena Empresa. Minha empresa atua desenvolvendo consultoria, assessoria e educação nas áreas de empreendedorismo, marketing , design e inovação para empreendedores nascentes, iniciantes e maduros em todo o Estado do Pará. Já atendemos mais de 300 clientes em pouco mais de 3 anos e meio de empresa. Somos a primeira Agência de Empreendedorismo e Marketing da Amazônia."
+  thumbnailUrl: paul-marcel.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/paul-marcel-oliveira-pereira/2a/839/a27"}
+    - {name: "twitter", link: "https://twitter.com/vindi2i"}
+-
+  id: 30
+  name: "Márcio"
+  surname: "Braga"
+  company: "Muiraquitã Sistemas"
+  title: "Sócio / Fundador"
+  bio: "Sou programador de sistemas com mais de 10 anos de experiência e com forte conhecimento de infraestrutura. Atualmente trabalho com desenvolvimento de sistemas usando Java, Rails, Python, PHP e NodeJS."
+  thumbnailUrl: marcio-braga.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/marciobrst"}
+-
+  id: 31
+  name: "Marcell"
+  surname: "Almeida"
+  company: "Grana"
+  title: "Co-Fundador & Gerente de Produto"
+  bio: "Trabalhou mais de um ano no Easy Taxi como Gerente de Produto atuando na área Mobile e na parte B2B (Easy Taxi Empresas). Atualmente está dedicado exclusivamente ao Grana (www.grana.me), startup que é co-fundador."
+  thumbnailUrl: marcell-almeida.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/almeidamarcell"}
+    - {name: "twitter", link: "https://twitter.com/almeidamarcell"}
+-
+  id: 32
+  name: "Samuel"
+  surname: "Cavalcante"
+  company: "DígithoBrasil"
+  title: "Scrum Master"
+  bio: "Engenheiro de Computação residente em Campo Grande MS, pós graduado em Engenharia de Sistemas, atuando como Scrum Master na empresa de desenvolvimento de softwares DigithoBrasil e como docente no ensino superior na Anhanguera/UNIDERP e Anhanguera II, fomentador de comunidades no MS, experiência em educação. Estudante e praticante das melhores práticas de Gestão de TIC, Engenharias de Software e Agile."
+  thumbnailUrl: samuel-cavalcante.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/samuelmbc"}
+    - {name: "twitter", link: "https://twitter.com/samuelmbc"}
+    - {name: "github", link: "https://github.com/samuelmbc"}
+-
+  id: 33
+  name: "Jorge"
+  surname: "Almoas"
+  company: "DígithoBrasil"
+  title: "Marketing"
+  bio: "Jornalista formado há 7 anos, com pós-graduação em Gestão Integrada de Comunicação e Marketing, atualmente cursa Administração na UFMS (Universidade Federal de Mato Grosso do Sul). Atua no departamento de Marketing da DígithoBrasil há 7 anos nas áreas de Comunicação Interna, Endomarketing, Mídias Sociais, Planejamento nas áreas Institucional, Comercial e de Patrocínios. Vivencia o ágil há 3 anos e espera levá-lo a todas as áreas de conhecimento possíveis."
+  thumbnailUrl: jorge-almoas.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jorgealmoas"}
+    - {name: "twitter", link: "https://twitter.com/jorgealmoas"}
+-
+  id: 34
+  name: "Marcelo"
+  surname: "Andrade"
+  company: "Tá safo!"
+  title: "Go Horse Certified Specialist"
+  bio: "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios."
+  thumbnailUrl: marcelo-andrade.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/mfandrade"}
+    - {name: "twitter", link: "https://twitter.com/mfandrade"}
+    - {name: "github", link: "https://github.com/mfandrade"}
+-
+  id: 35
+  name: "João"
+  surname: "Novais"
+  company: "SERPRO"
+  title: "Analista de Negócio"
+  bio: "Analista de Negócios no SERPRO onde atua também como Agile Coach por gostar de desafiar a capacidade de realização das pessoas e o 'status quo' dos processos. Com mais de 10 anos de experiência em TI, atuou em vários cargos da Engenharia de Software e de Infraestrutura em segmentos como: Segurança Pública, Fazenda Estadual e Imprensa Nacional. Atualmente é também organizador de eventos da comunidade ágil e livre; fundador da iniciativa agileminds.me que leva a agilidade para além do mundo do software e um apaixonado pelo escotismo."
+  thumbnailUrl: joao-novais.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/joaopaulonovais"}
+    - {name: "twitter", link: "https://twitter.com/n0va1s"}
+    - {name: "github", link: "https://github.com/n0va1s"}
+-
+  id: 36
+  name: "Ademir"
+  surname: "Silva"
+  company: "Siderúrgica Norte Brasil"
+  title: "Analista de Sistemas Sênior"
+  bio: "Desenvolvedor de software, Professor, Ciclista, Apaixonado por tecnologia. Encontrou nos métodos ágeis sentido para desenvolver produtos e pessoas de forma sustentável. Atualmente Analista Sênior, atuando em projetos de software como Scrum Master e Líder técnico, na Siderúrgica Norte Brasil. Mestrando em Engenharia de produção pela UFPE. Ciência da Computação pela UFT. CSM. CSPO."
+  thumbnailUrl: ademir-silva.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/ademirjsilva"}
+    - {name: "twitter", link: "https://twitter.com/ademirjs"}
+    - {name: "github", link: "http://github.com/ademirto"}
+-
+  id: 37
+  name: "Diego"
+  surname: "Pinheiro"
+  company: "Sinextra Game Studio"
+  title: "Desenvolvedor de Games, Sistemas Desktop e Mobile"
+  bio: "Sócio Fundador da Sinextra Game Studio, Engenheiro da Computação e Mestre em Computação Aplicada."
+  thumbnailUrl: diego-pinheiro.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/diegocpinheiro"}
+-
+  id: 38
+  name: "Eduardo"
+  surname: "Guerra"
+  company: "Auditracks"
+  title: "Empreendedor"
+  bio: "É empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley."
+  thumbnailUrl: eduardo-guerra.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/eduardolealguerra"}
+    - {name: "twitter", link: "https://twitter.com/lealguerra"}
+-
+  id: 39
+  name: "Marcelo"
+  surname: "Toledo"
+  company: "Locaweb"
+  title: "Especialista em Qualidade de Software"
+  bio: "QA nato, foco em qualidade, automação e melhoria continua de processos em Agile Testing. Formado em Sistemas de Informação pela Impacta, trabalha com qualidade desde 2004 passando por variados projetos. Hoje é QA na Locaweb, onde busca o crescimento profissional e principalmente o crescimento do time de QA."
+  thumbnailUrl: marcelo-toledo.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAACf17sBQcmkNX1MnZkLYZQi06cCe8JKW18"}
+    - {name: "github", link: "https://github.com/marcelotoledo5000"}

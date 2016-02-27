@@ -1,9 +1,7 @@
 <!-- Begin Schedule Section -->
 
 <section id="schedule" class="schedule">
-  <h1>3 trilhas de pura agilidade<h1>
-    <p>Em breve</p>
-   <!-- <div class="content-wrapper">
+    <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -45,6 +43,9 @@
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
+                                        {% if session.presentation %}
+                                        <span class="theme-presentation" style="color: blue;">Slides disponíveis</span>
+                                        {% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
@@ -55,7 +56,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
@@ -82,6 +83,6 @@
         </div>
         {% endfor %}
     </div>
-  -->
+
 </section>
 <!-- End Schedule Section -->

@@ -3,23 +3,14 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
-            <div class="row about-details">
-                {% assign animationDelay = 0 %}
-                {% for about in site.aboutBlock %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <p>{{ about.text }}</p>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <h5>{{ about.title }}</h5>
-                        <h7>{{about.position}}</h7>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
-            </div>
+            <h4>4 trilhas incríveis<h4>
+            
+              <h5>Mobile</h5>
+              <h5>Desenvolvimento, Operações e Testes</h5>
+              <h5>Gestão, Negócios e Agilidade</h5>
+              <h5>Inovação, Empreendedorismo e Comunidades</h5>
+
+            <h4>Dia 21 de Novembro de 2015<h4>
         </div>
     </div>
 </section>

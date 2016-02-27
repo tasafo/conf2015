@@ -11,24 +11,24 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Tá Safo Conf 2015"
 email: "comunidadetasafo@gmail.com"
-description: "O Maior evento de tecnologia do Norte"
+description: "O Maior evento de tecnologia do Norte do Brasil"
 baseurl: "/conf2015"
-url: "https://conf2015.tasafo.org"
+url: "http://conf2015.tasafo.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-64707794-1"
+googleAnalyticsSiteUrl: "conf2015.tasafo.org"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Tá Safo"
-organizerAlternateName: "Comunidade Tá Safo"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "Tá Safo!"
+organizerAlternateName: "Comunidade Tá Safo!"
+organizerDescription: "Tecnologias Abertas com Software Ágil, Fácil e Organizado."
 organizerEmail: "comunidadetasafo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://tasafo.org"
 
 # Head
-metaKeywords: "evento, tasafo, tasafoconf, agilidadae, programacao, desenvolvimento, comunidade, software, gestão"
+metaKeywords: "evento, tasafo, tasafoconf, agilidade, programação, desenvolvimento, comunidade, software, gestão"
 twitterAccount: "@tasafo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -36,39 +36,46 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/PropostaPatrocinio-TasafoConf2015.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação oba oba"}
+ - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- #- {permalink: "/team/", text: "Time"}
+ - {permalink: "/about/", text: "Sobre"}
  - {permalink: "/logistics/", text: "Logística"}
+ - {permalink: "/tickets/", text: "Ingressos"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
+# - {link: "https://docs.google.com/forms/d/1gU5lRD453dvME9C9dEeJNocELrTXTTFWeYtvfdx24Q0/viewform", text: "Seja um palestrante"}
+# - {link: "http://conf2015.tasafo.org/assets/PropostaPatrocinio-TasafoConf2015.pdf", text: "Seja um patrocinador"}
+# - {link: "https://eventioz.com.br/e/ta-safo-conf-2015", text: "Lista de Espera"}
+ - {link: "http://certifico.tasafo.org/?id=21", text: "Emita seu certificado"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Tá Safo Conf <typeout> 2015"
-eventDate: "Novembro, 2015"
+eventDate: "21 de Novembro de 2015"
 typeoutTextValues: '"", "", "", "", ""'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
- - {permalink: "/#tickets", text: "Ingressos"}
+# - {link: "https://docs.google.com/forms/d/1gU5lRD453dvME9C9dEeJNocELrTXTTFWeYtvfdx24Q0/viewform", text: "Seja um palestrante"}
+# - {link: "http://conf2015.tasafo.org/assets/PropostaPatrocinio-TasafoConf2015.pdf", text: "Seja um patrocinador"}
+# - {link: "https://eventioz.com.br/e/ta-safo-conf-2015", text: "Lista de Espera"}
+ - {link: "http://certifico.tasafo.org/?id=21", text: "Emita seu certificado"}
 
 # About Block
 aboutTitle: "Sobre o Tá Safo Conf"
 aboutBlock:
- - {title: "Alexandre Magno", position: "Learning 3.0 Founder at Happy Melly", image: "magno.jpg", text: "O Tá Safo Conf é um evento rico em colocaboração e que tem a cara de uma das comunidades mais atuantes do país. Eu fui e recomendo!" }
- - {title: "Carlos Souza", position: "Instructor at  Code School", image: "caike.jpeg", text: "O Tá Safo Conf reune conteúdo atual e relevante tanto a profissionais atuantes no mercado de trabalho quanto àqueles que estão na academia." }
- - {title: "Manuel Pimentel", position: "Agile Coach at Adaptworks", image: "manoel.jpeg", text: "O Tá Safo Conf é um verdadeiro Círio da comunidade de TI paraense - Atrai romeiros de TI do Brasil inteiro para socializar suas experiências e histórias sobre novidades e tendências da área de tecnologia." }
+ - {title: "Edgar Silva", position: "Vice-Presidente e Country Manager para o Brasil na WSO2", image: "edgar.jpeg", text: "É uma oportunidade única poder participar do Tá Safo Conf, e eu como um paraense assumidamente papa-chibé, comedor de açaí com farinha, que toma tacacá com muita pimenta, ex-morador da Cidade Nova, estar perto dos meus conterrâneos, meu sotaque é sem sombra de dúvidas um privilégio." }
+ - {title: "Alexandre Magno", position: "Learning 3.0 Founder at Happy Melly", image: "magno.jpg", text: "O Tá Safo Conf é um evento rico em colaboração e que tem a cara de uma das comunidades mais atuantes do país. Eu fui e recomendo!" }
+ - {title: "Carlos Souza", position: "Instructor at Code School", image: "caike.jpeg", text: "O Tá Safo Conf reune conteúdo atual e relevante tanto a profissionais atuantes no mercado de trabalho quanto àqueles que estão na academia." }
+ - {title: "Manoel Pimentel", position: "Agile Coach at Adaptworks", image: "manoel.jpeg", text: "O Tá Safo Conf é um verdadeiro Círio da comunidade de TI paraense - Atrai romeiros de TI do Brasil inteiro para socializar suas experiências e histórias sobre novidades e tendências da área de tecnologia." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -76,7 +83,7 @@ statisticBlock:
  #- {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "1", specialCharacter: "+", info: "dia", detail: "de forte aprendizado"}
  - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "da terra e convidados especiais"}
- - {count: "3", specialCharacter: "", info: "trilhas", detail: "de puro entretenimento e troca de experiências"}
+ - {count: "4", specialCharacter: "", info: "trilhas", detail: "de puro entretenimento e troca de experiências"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias"
@@ -89,16 +96,16 @@ rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Local"
-eventLocationName: "Centro de Convenções Hangar"
+eventLocationName: "Centro de Convenções e Feiras da Amazônia - Hangar"
 eventLocationLink: "http://www.hangarcentrodeconvencoes.com.br/"
 eventStreetAddress: "Av. Dr. Freitas, s/n - Marco"
 eventAddressLocality: "Belém"
 eventAddressLocalityRegion: "Pará"
 eventPostalCode: "66613-902"
 eventAddressCountry: "Brasil"
-eventStartTime: "2015-11-21T10:00"
+eventStartTime: "2015-11-21T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2015-11-21T19:00"
+eventEndTime: "2015-11-21T18:00"
 eventPlaceCoordinates: "-1.421725, -48.456777"
 mapCenterCoordinates: "-1.421725, -48.456777"
 mapMobileCenterCoordinates: "-1.421725, -48.456777"
@@ -109,7 +116,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Centro de Convenções Hangar"
+venueTitle: "Centro de Convenções e Feiras da Amazônia - Hangar"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
@@ -119,9 +126,9 @@ twitterHashTag: "tasafoconf"
 twitterFeed: ""
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -130,58 +137,73 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Tabela de preços"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Investimento"
+ticketsInfo: "Os ingressos garantem acesso a todas as seções da conferência, coffee breaks e kits."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Super early bird"
+  price: "90"
+  priceCurrency: "R$"
   ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  ribbon: "-5%"
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
+  buyButtonText: "Compre Agora"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2015-08-25T10:00"
+  validThrough: "2015-08-31T19:59"
   soldOut: true
-  soldOutText: "Sold Out"
+ -
+  name: "Tá Safo Conf 2015 + V Fórum Brasil-Amazônia de TIC"
+  price: "100"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  ribbon: "-20%"
+  #featured: true
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-10-14T08:00"
+  validThrough: "2015-11-21T23:59"
+  disabled: false
+ -
+  name: "V Fórum Brasil-Amazônia de TIC "
+  price: "40"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
+  buyButtonText: "Compre agora"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-10-14T08:00"
+  validThrough: "2015-11-21T23:59"
+  # soldOut: true
+  disabled: false
+  # soldOutText: "Sold Out"
+ -
+  name: "PROMOÇÃO INSCRIÇÃO EM GRUPO"
+  price: "60"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  buyButtonLink: "https://eventioz.com.br/e/ta-safo-conf-2015"
+  buyButtonText: "Compre agora"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-10-14T08:00"
+  validThrough: "2015-11-21T23:59"
+  # soldOut: true
+  disabled: false
 
 # Footer
 socialLinks:
- #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=tasafo", icon: "twitter"}
+ - {link: "https://plus.google.com/u/0/communities/110035015534021388546", icon: "google-plus"}
+ - {link: "https://twitter.com/tasafo", icon: "twitter"}
  - {link: "https://facebook.com/tasafo.comunidade", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://tasafo.org", text: "Tá Safo"}
+   - {link: "http://tasafo.org", text: "Tá Safo!"}
  -
   title: "Contatos"
   links:
@@ -201,7 +223,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "Pessoas engajadas da comunidade Tá Safo"
+aboutUs: "Pessoas engajadas da comunidade Tá Safo!"
 
 # Logistics Find Way Block
 findWayTitle: "Encontre seu caminho"
