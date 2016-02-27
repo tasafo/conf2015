@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Tá Safo Conf 2015"
 email: "comunidadetasafo@gmail.com"
 description: "O Maior evento de tecnologia do Norte"
-baseurl: ""
+baseurl: "/conf2015"
 url: "https://conf2015.tasafo.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
