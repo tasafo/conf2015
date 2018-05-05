@@ -55,7 +55,7 @@ rightNavigationButtons:
 # - {link: "https://docs.google.com/forms/d/1gU5lRD453dvME9C9dEeJNocELrTXTTFWeYtvfdx24Q0/viewform", text: "Seja um palestrante"}
 # - {link: "http://conf2015.tasafo.org/assets/PropostaPatrocinio-TasafoConf2015.pdf", text: "Seja um patrocinador"}
 # - {link: "https://eventioz.com.br/e/ta-safo-conf-2015", text: "Lista de Espera"}
- - {link: "http://certifico.tasafo.org/?id=21", text: "Emita seu certificado"}
+ - {link: "https://certifico.tasafo.org/", text: "Emita seu certificado"}
 
 # Hero Block
 heroImage: "hero.jpg"
